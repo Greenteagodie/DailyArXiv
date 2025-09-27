@@ -2,26 +2,64 @@
 title: Latest 15 Papers - September 27, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/pstAmbition/DailyArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
 
-## Multimodal Learning
+## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multimodal AI predicts clinical outcomes of drug combinations from preclinical data](http://arxiv.org/abs/2503.02781v2)** | 2025-09-24 |  |
-| **[OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](http://arxiv.org/abs/2509.12201v2)** | 2025-09-24 | <details><summary>https...</summary><p>https://yangzhou24.github.io/OmniWorld/</p></details> |
-| **[Single-Branch Network Architectures to Close the Modality Gap in Multimodal Recommendation](http://arxiv.org/abs/2509.18807v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Recommender Systems (TORS)</p></details> |
-| **[Learning Contrastive Multimodal Fusion with Improved Modality Dropout for Disease Detection and Prediction](http://arxiv.org/abs/2509.18284v1)** | 2025-09-22 | MICCAI 2025 |
-| **[ClassMind: Scaling Classroom Observation and Instructional Feedback with Multimodal AI](http://arxiv.org/abs/2509.18020v1)** | 2025-09-22 |  |
-| **[M3ET: Efficient Vision-Language Learning for Robotics based on Multimodal Mamba-Enhanced Transformer](http://arxiv.org/abs/2509.18005v1)** | 2025-09-22 | 8 pages |
-| **[Trainee Action Recognition through Interaction Analysis in CCATT Mixed-Reality Training](http://arxiv.org/abs/2509.17888v1)** | 2025-09-22 |  |
-| **[VocSegMRI: Multimodal Learning for Precise Vocal Tract Segmentation in Real-time MRI](http://arxiv.org/abs/2509.13767v2)** | 2025-09-22 | <details><summary>Prepr...</summary><p>Preprint submitted to ICASSP</p></details> |
-| **[DeepInsert: Early Layer Bypass for Efficient and Performant Multimodal Understanding](http://arxiv.org/abs/2504.19327v2)** | 2025-09-21 |  |
-| **[The Moon's Many Faces: A Single Unified Transformer for Multimodal Lunar Reconstruction](http://arxiv.org/abs/2505.05644v2)** | 2025-09-19 | 48pages |
-| **[Multimodal Learning for Fake News Detection in Short Videos Using Linguistically Verified Data and Heterogeneous Modality Fusion](http://arxiv.org/abs/2509.15578v1)** | 2025-09-19 |  |
-| **[Beyond Words: Enhancing Desire, Emotion, and Sentiment Recognition with Non-Verbal Cues](http://arxiv.org/abs/2509.15540v1)** | 2025-09-19 | <details><summary>13 pa...</summary><p>13 page, 5 figures, uploaded by Wei Chen</p></details> |
-| **[Exploring the Capabilities of LLM Encoders for Image-Text Retrieval in Chest X-rays](http://arxiv.org/abs/2509.15234v1)** | 2025-09-17 | <details><summary>24 pa...</summary><p>24 pages, 2 figures, under review</p></details> |
-| **[Enriched text-guided variational multimodal knowledge distillation network (VMD) for automated diagnosis of plaque vulnerability in 3D carotid artery MRI](http://arxiv.org/abs/2509.11924v2)** | 2025-09-16 |  |
-| **[Evaluating Robustness of Vision-Language Models Under Noisy Conditions](http://arxiv.org/abs/2509.12492v1)** | 2025-09-15 |  |
+| **[AI-Enhanced Multi-Dimensional Measurement of Technological Convergence through Heterogeneous Graph and Semantic Learning](http://arxiv.org/abs/2509.21187v1)** | 2025-09-25 |  |
+| **[Unmasking Fake Careers: Detecting Machine-Generated Career Trajectories via Multi-layer Heterogeneous Graphs](http://arxiv.org/abs/2509.19677v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Main</p></details> |
+| **[MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data (Extended Version)](http://arxiv.org/abs/2507.20362v2)** | 2025-09-22 | <details><summary>18 pa...</summary><p>18 pages, 4 figures; This paper is accepted by PVLDB 2026</p></details> |
+| **[Clinical Multi-modal Fusion with Heterogeneous Graph and Disease Correlation Learning for Multi-Disease Prediction](http://arxiv.org/abs/2509.15852v1)** | 2025-09-19 |  |
+| **[Learning to Optimize Capacity Planning in Semiconductor Manufacturing](http://arxiv.org/abs/2509.15767v1)** | 2025-09-19 |  |
+| **[Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification](http://arxiv.org/abs/2509.14893v1)** | 2025-09-18 |  |
+| **[Top K Enhanced Reinforcement Learning Attacks on Heterogeneous Graph Node Classification](http://arxiv.org/abs/2408.01964v2)** | 2025-09-18 |  |
+| **[A Survey of Large Language Models for Data Challenges in Graphs](http://arxiv.org/abs/2505.18475v2)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications</p></details> |
+| **[Deep Temporal Graph Networks for Real-Time Correction of GNSS Jamming-Induced Deviations](http://arxiv.org/abs/2509.14000v1)** | 2025-09-17 | 20 pages, 4 figures |
+| **[Integrating Prior Observations for Incremental 3D Scene Graph Prediction](http://arxiv.org/abs/2509.11895v1)** | 2025-09-15 | <details><summary>Accep...</summary><p>Accepted at 24th International Conference on Machine Learning and Applications (ICMLA'25)</p></details> |
+| **[BIGNet: Pretrained Graph Neural Network for Embedding Semantic, Spatial, and Topological Data in BIM Models](http://arxiv.org/abs/2509.11104v1)** | 2025-09-14 |  |
+| **[Fraud detection and risk assessment of online payment transactions on e-commerce platforms based on LLM and GCN frameworks](http://arxiv.org/abs/2509.09928v1)** | 2025-09-12 |  |
+| **[HGEN: Heterogeneous Graph Ensemble Networks](http://arxiv.org/abs/2509.09843v1)** | 2025-09-11 | <details><summary>The p...</summary><p>The paper is in proceedings of the 34th IJCAI Conference, 2025</p></details> |
+| **[Database Views as Explanations for Relational Deep Learning](http://arxiv.org/abs/2509.09482v1)** | 2025-09-11 |  |
+| **[ProgD: Progressive Multi-scale Decoding with Dynamic Graphs for Joint Multi-agent Motion Forecasting](http://arxiv.org/abs/2509.09210v1)** | 2025-09-11 |  |
+
+## Recommendation
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v1)** | 2025-09-25 | Under Review |
+| **[IntSR: An Integrated Generative Framework for Search and Recommendation](http://arxiv.org/abs/2509.21179v1)** | 2025-09-25 |  |
+| **[Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems](http://arxiv.org/abs/2509.20099v2)** | 2025-09-25 |  |
+| **[Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems](http://arxiv.org/abs/2509.20989v1)** | 2025-09-25 |  |
+| **[RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models](http://arxiv.org/abs/2509.20883v1)** | 2025-09-25 |  |
+| **[Multimodal Representation-disentangled Information Bottleneck for Multimodal Recommendation](http://arxiv.org/abs/2509.20225v1)** | 2025-09-24 |  |
+| **[Intelligent Algorithm Selection for Recommender Systems: Meta-Learning via in-depth algorithm feature engineering](http://arxiv.org/abs/2509.20134v1)** | 2025-09-24 |  |
+| **[UnifiedRL: A Reinforcement Learning Algorithm Tailored for Multi-Task Fusion in Large-Scale Recommender Systems](http://arxiv.org/abs/2404.17589v6)** | 2025-09-24 |  |
+| **[Language Model Evolutionary Algorithms for Recommender Systems: Benchmarks and Algorithm Comparisons](http://arxiv.org/abs/2411.10697v3)** | 2025-09-24 |  |
+| **[Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles](http://arxiv.org/abs/2509.17918v2)** | 2025-09-24 |  |
+| **[Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach](http://arxiv.org/abs/2509.19955v1)** | 2025-09-24 |  |
+| **[GSPRec: Temporal-Aware Graph Spectral Filtering for Recommendation](http://arxiv.org/abs/2505.11552v2)** | 2025-09-24 |  |
+| **[MusiCRS: Benchmarking Audio-Centric Conversational Recommendation](http://arxiv.org/abs/2509.19469v1)** | 2025-09-23 | 6 pages |
+| **[The Hidden Cost of Defaults in Recommender System Evaluation](http://arxiv.org/abs/2508.21180v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to RecSys 2025</p></details> |
+| **[From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system](http://arxiv.org/abs/2509.18980v1)** | 2025-09-23 |  |
+
+## Contrastive Learning
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Fractal Graph Contrastive Learning](http://arxiv.org/abs/2505.11356v3)** | 2025-09-25 |  |
+| **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](http://arxiv.org/abs/2505.17786v4)** | 2025-09-25 | under review |
+| **[Sigma: Semantically Informative Pre-training for Skeleton-based Sign Language Understanding](http://arxiv.org/abs/2509.21223v1)** | 2025-09-25 |  |
+| **[Retrieval over Classification: Integrating Relation Semantics for Multimodal Relation Extraction](http://arxiv.org/abs/2509.21151v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Main Conference</p></details> |
+| **[Embodied Representation Alignment with Mirror Neurons](http://arxiv.org/abs/2509.21136v1)** | 2025-09-25 | ICCV 2025 |
+| **[Aegis: Automated Error Generation and Identification for Multi-Agent Systems](http://arxiv.org/abs/2509.14295v3)** | 2025-09-25 |  |
+| **[CLIPin: A Non-contrastive Plug-in to CLIP for Multimodal Semantic Alignment](http://arxiv.org/abs/2508.06434v2)** | 2025-09-25 |  |
+| **[SupCLAP: Controlling Optimization Trajectory Drift in Audio-Text Contrastive Learning with Support Vector Regularization](http://arxiv.org/abs/2509.21033v1)** | 2025-09-25 |  |
+| **[On the Perception Bottleneck of VLMs for Chart Understanding](http://arxiv.org/abs/2503.18435v2)** | 2025-09-25 | <details><summary>EMNLP...</summary><p>EMNLP 2025: Camera-ready version</p></details> |
+| **[FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network](http://arxiv.org/abs/2509.20861v1)** | 2025-09-25 |  |
+| **[Revolutionizing Precise Low Back Pain Diagnosis via Contrastive Learning](http://arxiv.org/abs/2509.20813v1)** | 2025-09-25 | 12 pages, 4 figures |
+| **[Least Volume Analysis](http://arxiv.org/abs/2404.17773v2)** | 2025-09-25 | <details><summary>60 pa...</summary><p>60 pages, Draft for JMLR</p></details> |
+| **[SwasthLLM: a Unified Cross-Lingual, Multi-Task, and Meta-Learning Zero-Shot Framework for Medical Diagnosis Using Contrastive Representations](http://arxiv.org/abs/2509.20567v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to International Conference on Big Data 2025</p></details> |
+| **[Generative and Contrastive Graph Representation Learning](http://arxiv.org/abs/2505.11776v2)** | 2025-09-24 | 8 pages, 3 figures |
+| **[CoSupFormer : A Contrastive Supervised learning approach for EEG signal Classification](http://arxiv.org/abs/2509.20489v1)** | 2025-09-24 | <details><summary>20 pa...</summary><p>20 pages (14 pages Main text and 6 pages Supplementary Material)</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
@@ -41,61 +79,4 @@ labels: documentation
 | **[Generative and Contrastive Graph Representation Learning](http://arxiv.org/abs/2505.11776v2)** | 2025-09-24 | 8 pages, 3 figures |
 | **[Beyond Visual Similarity: Rule-Guided Multimodal Clustering with explicit domain rules](http://arxiv.org/abs/2509.20501v1)** | 2025-09-24 | 12 pages, 9 figures |
 | **[Offline Goal-conditioned Reinforcement Learning with Quasimetric Representations](http://arxiv.org/abs/2509.20478v1)** | 2025-09-24 |  |
-
-## Misinformation Detection
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[ShortCheck: Checkworthiness Detection of Multilingual Short-Form Videos](http://arxiv.org/abs/2509.20467v1)** | 2025-09-24 |  |
-| **[A Multi-Agent Framework with Automated Decision Rule Optimization for Cross-Domain Misinformation Detection](http://arxiv.org/abs/2503.23329v2)** | 2025-09-23 |  |
-| **[MPCG: Multi-Round Persona-Conditioned Generation for Modeling the Evolution of Misinformation with LLMs](http://arxiv.org/abs/2509.16564v1)** | 2025-09-20 | 35 pages, 8 figures |
-| **[The Psychology of Falsehood: A Human-Centric Survey of Misinformation Detection](http://arxiv.org/abs/2509.15896v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted in EMNLP'25 Main</p></details> |
-| **[A New Dataset and Benchmark for Grounding Multimodal Misinformation](http://arxiv.org/abs/2509.08008v1)** | 2025-09-08 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, ACM Multimedia 2025 Dataset Track</p></details> |
-| **[ViClaim: A Multilingual Multilabel Dataset for Automatic Claim Detection in Videos](http://arxiv.org/abs/2504.12882v2)** | 2025-09-05 |  |
-| **[Yesterday's News: Benchmarking Multi-Dimensional Out-of-Distribution Generalization of Misinformation Detection Models](http://arxiv.org/abs/2410.18122v3)** | 2025-09-05 | Under review |
-| **[TRUST-VL: An Explainable News Assistant for General Multimodal Misinformation Detection](http://arxiv.org/abs/2509.04448v1)** | 2025-09-04 | <details><summary>EMNLP...</summary><p>EMNLP 2025; Project Homepage: https://yanzehong.github.io/trust-vl/</p></details> |
-| **[Designing Effective AI Explanations for Misinformation Detection: A Comparative Study of Content, Social, and Combined Explanations](http://arxiv.org/abs/2509.03693v1)** | 2025-09-03 | <details><summary>To ap...</summary><p>To appear at CSCW 2025</p></details> |
-| **[Attacking Misinformation Detection Using Adversarial Examples Generated by Language Models](http://arxiv.org/abs/2410.20940v2)** | 2025-09-03 | <details><summary>Prese...</summary><p>Presented at EMNLP 2025</p></details> |
-| **[Consistent and Invariant Generalization Learning for Short-video Misinformation Detection](http://arxiv.org/abs/2507.04061v3)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to ACM MM 2025</p></details> |
-| **[Debate-to-Detect: Reformulating Misinformation Detection as a Real-World Debate with Large Language Models](http://arxiv.org/abs/2505.18596v4)** | 2025-08-26 | <details><summary>This ...</summary><p>This paper has been accepted to EMNLP 2025 (Main Conference)</p></details> |
-| **[LLM-based Contrastive Self-Supervised AMR Learning with Masked Graph Autoencoders for Fake News Detection](http://arxiv.org/abs/2508.18819v1)** | 2025-08-26 |  |
-| **[Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection](http://arxiv.org/abs/2508.12711v1)** | 2025-08-18 |  |
-| **[E-CaTCH: Event-Centric Cross-Modal Attention with Temporal Consistency and Class-Imbalance Handling for Misinformation Detection](http://arxiv.org/abs/2508.11197v1)** | 2025-08-15 |  |
-
-## LLM
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Sycophancy Is Not One Thing: Causal Separation of Sycophantic Behaviors in LLMs](http://arxiv.org/abs/2509.21305v1)** | 2025-09-25 |  |
-| **[It's Not You, It's Clipping: A Soft Trust-Region via Probability Smoothing for LLM RL](http://arxiv.org/abs/2509.21282v1)** | 2025-09-25 |  |
-| **[Data-Centric Elastic Pipeline Parallelism for Efficient Long-Context LLM Training](http://arxiv.org/abs/2509.21275v1)** | 2025-09-25 |  |
-| **[SuperOffload: Unleashing the Power of Large-Scale LLM Training on Superchips](http://arxiv.org/abs/2509.21271v1)** | 2025-09-25 | 16 pages, 15 figures |
-| **[Semantic Edge-Cloud Communication for Real-Time Urban Traffic Surveillance with ViT and LLMs over Mobile Networks](http://arxiv.org/abs/2509.21259v1)** | 2025-09-25 | 17 pages, 12 figures |
-| **[Explaining Fine Tuned LLMs via Counterfactuals A Knowledge Graph Driven Framework](http://arxiv.org/abs/2509.21241v1)** | 2025-09-25 | 16 pages, 9 figures |
-| **[Tree Search for LLM Agent Reinforcement Learning](http://arxiv.org/abs/2509.21240v1)** | 2025-09-25 |  |
-| **[What Do LLM Agents Do When Left Alone? Evidence of Spontaneous Meta-Cognitive Patterns](http://arxiv.org/abs/2509.21224v1)** | 2025-09-25 |  |
-| **[A Fano-Style Accuracy Upper Bound for LLM Single-Pass Reasoning in Multi-Hop QA](http://arxiv.org/abs/2509.21199v1)** | 2025-09-25 | 21 pages, 6 figures |
-| **[Fine-Tuning LLMs to Analyze Multiple Dimensions of Code Review: A Maximum Entropy Regulated Long Chain-of-Thought Approach](http://arxiv.org/abs/2509.21170v1)** | 2025-09-25 | 22 pages |
-| **[Improving LLM Unlearning Robustness via Random Perturbations](http://arxiv.org/abs/2501.19202v4)** | 2025-09-25 | <details><summary>29 pa...</summary><p>29 pages, 13 figures, 8 tables</p></details> |
-| **[ToMPO: Training LLM Strategic Decision Making from a Multi-Agent Perspective](http://arxiv.org/abs/2509.21134v1)** | 2025-09-25 | 22 pages, 14 figures |
-| **[RL Squeezes, SFT Expands: A Comparative Study of Reasoning LLMs](http://arxiv.org/abs/2509.21128v1)** | 2025-09-25 |  |
-| **[InComeS: Integrating Compression and Selection Mechanisms into LLMs for Efficient Model Editing](http://arxiv.org/abs/2505.22156v2)** | 2025-09-25 | 18 pages,5 figures |
-| **[TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them](http://arxiv.org/abs/2509.21117v1)** | 2025-09-25 | <details><summary>22 pa...</summary><p>22 pages, 9 figures, 6 tables</p></details> |
-
-## Agent
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v1)** | 2025-09-25 | Under Review |
-| **[Nova: Real-Time Agentic Vision-Language Model Serving with Adaptive Cross-Stage Parallelization](http://arxiv.org/abs/2509.21301v1)** | 2025-09-25 |  |
-| **[VC-Agent: An Interactive Agent for Customized Video Dataset Collection](http://arxiv.org/abs/2509.21291v1)** | 2025-09-25 | <details><summary>Proje...</summary><p>Project page: https://allenyidan.github.io/vcagent_page/</p></details> |
-| **[MASS: Muli-agent simulation scaling for portfolio construction](http://arxiv.org/abs/2505.10278v2)** | 2025-09-25 |  |
-| **[Tree Search for LLM Agent Reinforcement Learning](http://arxiv.org/abs/2509.21240v1)** | 2025-09-25 |  |
-| **[What Do LLM Agents Do When Left Alone? Evidence of Spontaneous Meta-Cognitive Patterns](http://arxiv.org/abs/2509.21224v1)** | 2025-09-25 |  |
-| **[SGMem: Sentence Graph Memory for Long-Term Conversational Agents](http://arxiv.org/abs/2509.21212v1)** | 2025-09-25 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 1 table</p></details> |
-| **[Failure Makes the Agent Stronger: Enhancing Accuracy through Structured Reflection for Reliable Tool Interactions](http://arxiv.org/abs/2509.18847v2)** | 2025-09-25 | 27pages |
-| **[Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning](http://arxiv.org/abs/2509.21193v1)** | 2025-09-25 |  |
-| **[Automotive-ENV: Benchmarking Multimodal Agents in Vehicle Interface Systems](http://arxiv.org/abs/2509.21143v1)** | 2025-09-25 | 10 pages, 5 figures, |
-| **[EvoMail: Self-Evolving Cognitive Agents for Adaptive Spam and Phishing Email Defense](http://arxiv.org/abs/2509.21129v1)** | 2025-09-25 |  |
-| **[Teaching RL Agents to Act Better: VLM as Action Advisor for Online Reinforcement Learning](http://arxiv.org/abs/2509.21126v1)** | 2025-09-25 |  |
-| **[United Minds or Isolated Agents? Exploring Coordination of LLMs under Cognitive Load Theory](http://arxiv.org/abs/2506.06843v2)** | 2025-09-25 |  |
-| **[Aegis: Automated Error Generation and Identification for Multi-Agent Systems](http://arxiv.org/abs/2509.14295v3)** | 2025-09-25 |  |
-| **[Which Cultural Lens Do Models Adopt? On Cultural Positioning Bias and Agentic Mitigation in LLMs](http://arxiv.org/abs/2509.21080v1)** | 2025-09-25 |  |
 
