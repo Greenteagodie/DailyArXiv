@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2025
+title: Latest 15 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -27,7 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v1)** | 2025-09-25 | Under Review |
-| **[IntSR: An Integrated Generative Framework for Search and Recommendation](http://arxiv.org/abs/2509.21179v1)** | 2025-09-25 |  |
+| **[IntSR: An Integrated Generative Framework for Search and Recommendation](http://arxiv.org/abs/2509.21179v2)** | 2025-09-26 |  |
 | **[Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems](http://arxiv.org/abs/2509.20099v2)** | 2025-09-25 |  |
 | **[Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems](http://arxiv.org/abs/2509.20989v1)** | 2025-09-25 |  |
 | **[RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models](http://arxiv.org/abs/2509.20883v1)** | 2025-09-25 |  |
