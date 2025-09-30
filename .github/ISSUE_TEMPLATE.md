@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval](http://arxiv.org/abs/2509.21710v1)** | 2025-09-26 | 28 pages, 17 figures |
 | **[AI-Enhanced Multi-Dimensional Measurement of Technological Convergence through Heterogeneous Graph and Semantic Learning](http://arxiv.org/abs/2509.21187v1)** | 2025-09-25 |  |
 | **[Unmasking Fake Careers: Detecting Machine-Generated Career Trajectories via Multi-layer Heterogeneous Graphs](http://arxiv.org/abs/2509.19677v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Main</p></details> |
 | **[MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data (Extended Version)](http://arxiv.org/abs/2507.20362v2)** | 2025-09-22 | <details><summary>18 pa...</summary><p>18 pages, 4 figures; This paper is accepted by PVLDB 2026</p></details> |
@@ -21,13 +22,14 @@ labels: documentation
 | **[Fraud detection and risk assessment of online payment transactions on e-commerce platforms based on LLM and GCN frameworks](http://arxiv.org/abs/2509.09928v1)** | 2025-09-12 |  |
 | **[HGEN: Heterogeneous Graph Ensemble Networks](http://arxiv.org/abs/2509.09843v1)** | 2025-09-11 | <details><summary>The p...</summary><p>The paper is in proceedings of the 34th IJCAI Conference, 2025</p></details> |
 | **[Database Views as Explanations for Relational Deep Learning](http://arxiv.org/abs/2509.09482v1)** | 2025-09-11 |  |
-| **[ProgD: Progressive Multi-scale Decoding with Dynamic Graphs for Joint Multi-agent Motion Forecasting](http://arxiv.org/abs/2509.09210v1)** | 2025-09-11 |  |
 
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v1)** | 2025-09-25 | Under Review |
 | **[IntSR: An Integrated Generative Framework for Search and Recommendation](http://arxiv.org/abs/2509.21179v2)** | 2025-09-26 |  |
+| **[SynerGen: Contextualized Generative Recommender for Unified Search and Recommendation](http://arxiv.org/abs/2509.21777v1)** | 2025-09-26 | <details><summary>Gener...</summary><p>Generative Recommender, Recommendation System, Information Retrieval</p></details> |
+| **[Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems](http://arxiv.org/abs/2505.16429v2)** | 2025-09-26 | EMNLP2025 Main |
+| **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v1)** | 2025-09-25 | Under Review |
 | **[Cascade! Human in the loop shortcomings can increase the risk of failures in recommender systems](http://arxiv.org/abs/2509.20099v2)** | 2025-09-25 |  |
 | **[Rejuvenating Cross-Entropy Loss in Knowledge Distillation for Recommender Systems](http://arxiv.org/abs/2509.20989v1)** | 2025-09-25 |  |
 | **[RecIS: Sparse to Dense, A Unified Training Framework for Recommendation Models](http://arxiv.org/abs/2509.20883v1)** | 2025-09-25 |  |
@@ -39,44 +41,42 @@ labels: documentation
 | **[Multimodal-enhanced Federated Recommendation: A Group-wise Fusion Approach](http://arxiv.org/abs/2509.19955v1)** | 2025-09-24 |  |
 | **[GSPRec: Temporal-Aware Graph Spectral Filtering for Recommendation](http://arxiv.org/abs/2505.11552v2)** | 2025-09-24 |  |
 | **[MusiCRS: Benchmarking Audio-Centric Conversational Recommendation](http://arxiv.org/abs/2509.19469v1)** | 2025-09-23 | 6 pages |
-| **[The Hidden Cost of Defaults in Recommender System Evaluation](http://arxiv.org/abs/2508.21180v2)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted to RecSys 2025</p></details> |
-| **[From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system](http://arxiv.org/abs/2509.18980v1)** | 2025-09-23 |  |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pre-Training Representations of Binary Code Using Contrastive Learning](http://arxiv.org/abs/2210.05102v5)** | 2025-09-26 |  |
+| **[Multilingual Vision-Language Models, A Survey](http://arxiv.org/abs/2509.22123v1)** | 2025-09-26 |  |
+| **[Enriching Knowledge Distillation with Intra-Class Contrastive Learning](http://arxiv.org/abs/2509.22053v1)** | 2025-09-26 |  |
+| **[GRAM-TDI: adaptive multimodal representation learning for drug target interaction prediction](http://arxiv.org/abs/2509.21971v1)** | 2025-09-26 |  |
+| **[Enhancing Vehicle Detection under Adverse Weather Conditions with Contrastive Learning](http://arxiv.org/abs/2509.21916v1)** | 2025-09-26 |  |
+| **[On the Value of Cross-Modal Misalignment in Multimodal Representation Learning](http://arxiv.org/abs/2504.10143v7)** | 2025-09-26 | <details><summary>NeurI...</summary><p>NeurIPS 2025 camera-ready version (with checklist removed for presentation clarity)</p></details> |
+| **[Diffusion-Augmented Contrastive Learning: A Noise-Robust Encoder for Biosignal Representations](http://arxiv.org/abs/2509.20048v2)** | 2025-09-25 |  |
+| **[EMG-UP: Unsupervised Personalization in Cross-User EMG Gesture Recognition](http://arxiv.org/abs/2509.21589v1)** | 2025-09-25 |  |
+| **[Enhancing Contrastive Learning for Geolocalization by Discovering Hard Negatives on Semivariograms](http://arxiv.org/abs/2509.21573v1)** | 2025-09-25 |  |
+| **[Contrastive Mutual Information Learning: Toward Robust Representations without Positive-Pair Augmentations](http://arxiv.org/abs/2509.21511v1)** | 2025-09-25 | <details><summary>Prepr...</summary><p>Preprint. 9 pages main manuscript, 23 pages with appendix</p></details> |
 | **[Fractal Graph Contrastive Learning](http://arxiv.org/abs/2505.11356v3)** | 2025-09-25 |  |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](http://arxiv.org/abs/2505.17786v4)** | 2025-09-25 | under review |
 | **[Sigma: Semantically Informative Pre-training for Skeleton-based Sign Language Understanding](http://arxiv.org/abs/2509.21223v1)** | 2025-09-25 |  |
 | **[Retrieval over Classification: Integrating Relation Semantics for Multimodal Relation Extraction](http://arxiv.org/abs/2509.21151v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2025 Main Conference</p></details> |
 | **[Embodied Representation Alignment with Mirror Neurons](http://arxiv.org/abs/2509.21136v1)** | 2025-09-25 | ICCV 2025 |
-| **[Aegis: Automated Error Generation and Identification for Multi-Agent Systems](http://arxiv.org/abs/2509.14295v3)** | 2025-09-25 |  |
-| **[CLIPin: A Non-contrastive Plug-in to CLIP for Multimodal Semantic Alignment](http://arxiv.org/abs/2508.06434v2)** | 2025-09-25 |  |
-| **[SupCLAP: Controlling Optimization Trajectory Drift in Audio-Text Contrastive Learning with Support Vector Regularization](http://arxiv.org/abs/2509.21033v1)** | 2025-09-25 |  |
-| **[On the Perception Bottleneck of VLMs for Chart Understanding](http://arxiv.org/abs/2503.18435v2)** | 2025-09-25 | <details><summary>EMNLP...</summary><p>EMNLP 2025: Camera-ready version</p></details> |
-| **[FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network](http://arxiv.org/abs/2509.20861v1)** | 2025-09-25 |  |
-| **[Revolutionizing Precise Low Back Pain Diagnosis via Contrastive Learning](http://arxiv.org/abs/2509.20813v1)** | 2025-09-25 | 12 pages, 4 figures |
-| **[Least Volume Analysis](http://arxiv.org/abs/2404.17773v2)** | 2025-09-25 | <details><summary>60 pa...</summary><p>60 pages, Draft for JMLR</p></details> |
-| **[SwasthLLM: a Unified Cross-Lingual, Multi-Task, and Meta-Learning Zero-Shot Framework for Medical Diagnosis Using Contrastive Representations](http://arxiv.org/abs/2509.20567v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to International Conference on Big Data 2025</p></details> |
-| **[Generative and Contrastive Graph Representation Learning](http://arxiv.org/abs/2505.11776v2)** | 2025-09-24 | 8 pages, 3 figures |
-| **[CoSupFormer : A Contrastive Supervised learning approach for EEG signal Classification](http://arxiv.org/abs/2509.20489v1)** | 2025-09-24 | <details><summary>20 pa...</summary><p>20 pages (14 pages Main text and 6 pages Supplementary Material)</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](http://arxiv.org/abs/2505.17786v4)** | 2025-09-25 | under review |
-| **[SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology](http://arxiv.org/abs/2509.21239v1)** | 2025-09-25 |  |
-| **[Embodied Representation Alignment with Mirror Neurons](http://arxiv.org/abs/2509.21136v1)** | 2025-09-25 | ICCV 2025 |
-| **[UniTransfer: Video Concept Transfer via Progressive Spatial and Timestep Decomposition](http://arxiv.org/abs/2509.21086v1)** | 2025-09-25 | NeuriIPS 2025 |
-| **[MolPILE -- large-scale, diverse dataset for molecular representation learning](http://arxiv.org/abs/2509.18353v2)** | 2025-09-25 |  |
-| **[Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning](http://arxiv.org/abs/2509.20968v1)** | 2025-09-25 |  |
-| **[Flow Matching in the Low-Noise Regime: Pathologies and a Contrastive Remedy](http://arxiv.org/abs/2509.20952v1)** | 2025-09-25 |  |
-| **[Predictive Coding-based Deep Neural Network Fine-tuning for Computationally Efficient Domain Adaptation](http://arxiv.org/abs/2509.20269v2)** | 2025-09-25 | 20 pages, 4 figures |
-| **[You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data](http://arxiv.org/abs/2503.06916v2)** | 2025-09-25 |  |
-| **[UniHR: Hierarchical Representation Learning for Unified Knowledge Graph Link Prediction](http://arxiv.org/abs/2411.07019v4)** | 2025-09-25 |  |
-| **[Latent Twins](http://arxiv.org/abs/2509.20615v1)** | 2025-09-24 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 1 table</p></details> |
-| **[SwasthLLM: a Unified Cross-Lingual, Multi-Task, and Meta-Learning Zero-Shot Framework for Medical Diagnosis Using Contrastive Representations](http://arxiv.org/abs/2509.20567v1)** | 2025-09-24 | <details><summary>Submi...</summary><p>Submitted to International Conference on Big Data 2025</p></details> |
-| **[Generative and Contrastive Graph Representation Learning](http://arxiv.org/abs/2505.11776v2)** | 2025-09-24 | 8 pages, 3 figures |
-| **[Beyond Visual Similarity: Rule-Guided Multimodal Clustering with explicit domain rules](http://arxiv.org/abs/2509.20501v1)** | 2025-09-24 | 12 pages, 9 figures |
-| **[Offline Goal-conditioned Reinforcement Learning with Quasimetric Representations](http://arxiv.org/abs/2509.20478v1)** | 2025-09-24 |  |
+| **[Linear Causal Representation Learning by Topological Ordering, Pruning, and Disentanglement](http://arxiv.org/abs/2509.22553v1)** | 2025-09-26 |  |
+| **[Self-Supervised Learning of Graph Representations for Network Intrusion Detection](http://arxiv.org/abs/2509.16625v2)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Category Discovery: An Open-World Perspective](http://arxiv.org/abs/2509.22542v2)** | 2025-09-29 |  |
+| **[We Think, Therefore We Align LLMs to Helpful, Harmless and Honest Before They Go Wrong](http://arxiv.org/abs/2509.22510v1)** | 2025-09-26 |  |
+| **[PSTTS: A Plug-and-Play Token Selector for Efficient Event-based Spatio-temporal Representation Learning](http://arxiv.org/abs/2509.22481v1)** | 2025-09-26 |  |
+| **[Learning the Neighborhood: Contrast-Free Multimodal Self-Supervised Molecular Graph Pretraining](http://arxiv.org/abs/2509.22468v1)** | 2025-09-26 |  |
+| **[FreqDebias: Towards Generalizable Deepfake Detection via Consistency-Driven Frequency Debiasing](http://arxiv.org/abs/2509.22412v1)** | 2025-09-26 | <details><summary>Accep...</summary><p>Accepted to the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)</p></details> |
+| **[Pre-Training Representations of Binary Code Using Contrastive Learning](http://arxiv.org/abs/2210.05102v5)** | 2025-09-26 |  |
+| **[Graph is a Natural Regularization: Revisiting Vector Quantization for Graph Representation Learning](http://arxiv.org/abs/2508.06588v2)** | 2025-09-26 |  |
+| **[Pushing Toward the Simplex Vertices: A Simple Remedy for Code Collapse in Smoothed Vector Quantization](http://arxiv.org/abs/2509.22161v1)** | 2025-09-26 |  |
+| **[Mind the Missing: Variable-Aware Representation Learning for Irregular EHR Time Series using Large Language Models](http://arxiv.org/abs/2509.22121v1)** | 2025-09-26 |  |
+| **[CARL: Camera-Agnostic Representation Learning for Spectral Image Analysis](http://arxiv.org/abs/2504.19223v3)** | 2025-09-26 |  |
+| **[BrainPro: Towards Large-scale Brain State-aware EEG Representation Learning](http://arxiv.org/abs/2509.22050v1)** | 2025-09-26 | 26 pages, 9 figures |
+| **[Multi-Channel Differential Transformer for Cross-Domain Sleep Stage Classification with Heterogeneous EEG and EOG](http://arxiv.org/abs/2508.15215v3)** | 2025-09-26 | <details><summary>Sleep...</summary><p>SleepDIFFormer 8 Pages</p></details> |
+| **[GRAM-TDI: adaptive multimodal representation learning for drug target interaction prediction](http://arxiv.org/abs/2509.21971v1)** | 2025-09-26 |  |
 
