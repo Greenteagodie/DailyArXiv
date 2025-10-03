@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 02, 2025
+title: Latest 15 Papers - October 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,25 +26,28 @@ labels: documentation
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems](http://arxiv.org/abs/2411.16160v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
+| **[From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system](http://arxiv.org/abs/2509.18980v2)** | 2025-10-01 |  |
+| **[Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts](http://arxiv.org/abs/2509.26093v2)** | 2025-10-01 |  |
+| **[Interactive Recommendation Agent with Active User Commands](http://arxiv.org/abs/2509.21317v2)** | 2025-10-01 | Under Review |
 | **[The Invisible Mentor: Inferring User Actions from Screen Recordings to Recommend Better Workflows](http://arxiv.org/abs/2509.26557v1)** | 2025-09-30 | 15 pages, 6 figures |
 | **[Items Proxy Bridging: Enabling Frictionless Critiquing in Knowledge Graph Recommendations](http://arxiv.org/abs/2509.26107v1)** | 2025-09-30 |  |
-| **[Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts](http://arxiv.org/abs/2509.26093v2)** | 2025-10-01 |  |
 | **[Fading to Grow: Growing Preference Ratios via Preference Fading Discrete Diffusion for Recommendation](http://arxiv.org/abs/2509.26063v1)** | 2025-09-30 |  |
 | **[MHINDR -- a DSM5 based mental health diagnosis and recommendation framework using LLM](http://arxiv.org/abs/2509.25992v1)** | 2025-09-30 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables</p></details> |
 | **[TranSUN: A Preemptive Paradigm to Eradicate Retransformation Bias Intrinsically from Regression Models in Recommender Systems](http://arxiv.org/abs/2505.13881v3)** | 2025-09-30 | <details><summary>36 pa...</summary><p>36 pages, 6 figures, NeurIPS 2025 Main</p></details> |
 | **[HiFIRec: Towards High-Frequency yet Low-Intention Behaviors for Multi-Behavior Recommendation](http://arxiv.org/abs/2509.25755v1)** | 2025-09-30 |  |
 | **[Understanding Generative Recommendation with Semantic IDs from a Model-scaling View](http://arxiv.org/abs/2509.25522v1)** | 2025-09-29 |  |
 | **[SemanticShield: LLM-Powered Audits Expose Shilling Attacks in Recommender Systems](http://arxiv.org/abs/2509.24961v1)** | 2025-09-29 |  |
-| **[Break the ID-Language Barrier: An Adaption Framework for LLM-based Sequential Recommendation](http://arxiv.org/abs/2411.18262v2)** | 2025-09-29 |  |
+| **[Break the ID-Language Barrier: An Adaption Framework for LLM-based Sequential Recommendation](http://arxiv.org/abs/2411.18262v3)** | 2025-10-02 |  |
 | **[ClustRecNet: A Novel End-to-End Deep Learning Framework for Clustering Algorithm Recommendation](http://arxiv.org/abs/2509.25289v1)** | 2025-09-29 |  |
 | **[Grocery to General Merchandise: A Cross-Pollination Recommender using LLMs and Real-Time Cart Context](http://arxiv.org/abs/2509.02890v2)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted at RecSys 2025 EARL Workshop on Evaluating and Applying Recommender Systems with Large Language Models</p></details> |
-| **[Denoising Neural Reranker for Recommender Systems](http://arxiv.org/abs/2509.18736v2)** | 2025-09-29 |  |
-| **[SRA-CL: Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation](http://arxiv.org/abs/2503.04162v2)** | 2025-09-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025. Code is available at: https://github.com/ziqiangcui/SRA-CL</p></details> |
-| **[Multi-Item-Query Attention for Stable Sequential Recommendation](http://arxiv.org/abs/2509.24424v1)** | 2025-09-29 |  |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Foundational Model for Sleep Analysis Using a Multimodal Hybrid Self-Supervised Learning Framework](http://arxiv.org/abs/2502.17481v3)** | 2025-10-01 | 18 pages, 5 figures |
+| **[Divergence-Based Similarity Function for Multi-View Contrastive Learning](http://arxiv.org/abs/2507.06560v2)** | 2025-10-01 | 9 pages, 5 figures |
+| **[MMGeoLM: Hard Negative Contrastive Learning for Fine-Grained Geometric Understanding in Large Multimodal Models](http://arxiv.org/abs/2505.20152v3)** | 2025-10-01 |  |
 | **[Medical Question Summarization with Entity-driven Contrastive Learning](http://arxiv.org/abs/2304.07437v2)** | 2025-09-30 |  |
 | **[Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts](http://arxiv.org/abs/2509.26227v1)** | 2025-09-30 |  |
 | **[PathoHR: Hierarchical Reasoning for Vision-Language Models in Pathology](http://arxiv.org/abs/2509.06105v2)** | 2025-09-30 | Accept by EMNLP2025 |
@@ -57,13 +60,16 @@ labels: documentation
 | **[Less is More: Towards Simple Graph Contrastive Learning](http://arxiv.org/abs/2509.25742v1)** | 2025-09-30 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[ProbMed: A Probabilistic Framework for Medical Multimodal Binding](http://arxiv.org/abs/2509.25711v1)** | 2025-09-30 | ICCV 2025 |
 | **[Generalized Contrastive Learning for Universal Multimodal Retrieval](http://arxiv.org/abs/2509.25638v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
-| **[Translation from Wearable PPG to 12-Lead ECG](http://arxiv.org/abs/2509.25480v1)** | 2025-09-29 | 14 pages,10 figures |
-| **[LUMA: Low-Dimension Unified Motion Alignment with Dual-Path Anchoring for Text-to-Motion Diffusion Model](http://arxiv.org/abs/2509.25304v1)** | 2025-09-29 |  |
-| **[Contrastive Representations for Temporal Reasoning](http://arxiv.org/abs/2508.13113v2)** | 2025-09-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project website: https://princeton-rl.github.io/CRTR/</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Interact in World Latent for Team Coordination](http://arxiv.org/abs/2509.25550v2)** | 2025-10-01 |  |
+| **[Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies](http://arxiv.org/abs/2509.25822v2)** | 2025-10-01 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Stackelberg Coupling of Online Representation Learning and Reinforcement Learning](http://arxiv.org/abs/2508.07452v2)** | 2025-10-01 |  |
+| **[PaECTER: Patent-level Representation Learning using Citation-informed Transformers](http://arxiv.org/abs/2402.19411v2)** | 2025-10-01 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 4 tables</p></details> |
+| **[Learning Dynamic Graph Embeddings with Neural Controlled Differential Equations](http://arxiv.org/abs/2302.11354v2)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted by TPAMI 2025</p></details> |
+| **[Fair CCA for Fair Representation Learning: An ADNI Study](http://arxiv.org/abs/2507.09382v2)** | 2025-10-01 |  |
 | **[Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts](http://arxiv.org/abs/2509.26227v1)** | 2025-09-30 |  |
 | **[EntroPE: Entropy-Guided Dynamic Patch Encoder for Time Series Forecasting](http://arxiv.org/abs/2509.26157v1)** | 2025-09-30 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
 | **[A Review on Riemannian Metric Learning: Closer to You than You Imagine](http://arxiv.org/abs/2503.05321v2)** | 2025-09-30 |  |
@@ -71,6 +77,6 @@ labels: documentation
 | **[LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving](http://arxiv.org/abs/2501.04005v2)** | 2025-09-30 | <details><summary>IEEE ...</summary><p>IEEE TPAMI 2025; 17 pages, 9 figures, 11 tables; Project Page at https://ldkong.com/LargeAD</p></details> |
 | **[LayerLock: Non-collapsing Representation Learning with Progressive Freezing](http://arxiv.org/abs/2509.10156v3)** | 2025-09-30 | ICCV 2025 |
 | **[Interpretable Kernel Representation Learning at Scale: A Unified Framework Utilizing Nyström Approximation](http://arxiv.org/abs/2509.24467v2)** | 2025-09-30 | 19 Pages, 3 figures |
-| **[Act to See, See to Act: Diffusion-Driven Perception-Action Interplay for Adaptive Policies](http://arxiv.org/abs/2509.25822v2)** | 2025-10-01 | <details><summary>39th ...</summary><p>39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Less is More: Towards Simple Graph Contrastive Learning](http://arxiv.org/abs/2509.25742v1)** | 2025-09-30 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
+| **[Learning Unified User Quantized Tokenizers for User Representation](http://arxiv.org/abs/2508.00956v2)** | 2025-09-30 |  |
 
