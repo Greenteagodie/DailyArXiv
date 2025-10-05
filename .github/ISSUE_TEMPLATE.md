@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 04, 2025
+title: Latest 15 Papers - October 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -10,6 +10,18 @@ labels: documentation
 | **[IoDResearch: Deep Research on Private Heterogeneous Data via the Internet of Data](http://arxiv.org/abs/2510.01553v1)** | 2025-10-02 | 8 pages,4 figures |
 | **[UrbanGraph: Physics-Informed Spatio-Temporal Dynamic Heterogeneous Graphs for Urban Microclimate Prediction](http://arxiv.org/abs/2510.00457v1)** | 2025-10-01 |  |
 | **[Cooperative Autonomous Driving in Diverse Behavioral Traffic: A Heterogeneous Graph Reinforcement Learning Approach](http://arxiv.org/abs/2509.25751v1)** | 2025-09-30 | <details><summary>7 pag...</summary><p>7 pages, 5 figures and 4 tables</p></details> |
+| **[Hazy Pedestrian Trajectory Prediction via Physical Priors and Graph-Mamba](http://arxiv.org/abs/2509.24020v1)** | 2025-09-28 |  |
+| **[Virtual Nodes based Heterogeneous Graph Convolutional Neural Network for Efficient Long-Range Information Aggregation](http://arxiv.org/abs/2509.23660v1)** | 2025-09-28 |  |
+| **[A Hierarchical Structure-Enhanced Personalized Recommendation Model for Traditional Chinese Medicine Formulas Based on KG Diffusion Guidance](http://arxiv.org/abs/2509.23560v1)** | 2025-09-28 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)</p></details> |
+| **[Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval](http://arxiv.org/abs/2509.21710v1)** | 2025-09-26 | 28 pages, 17 figures |
+| **[AI-Enhanced Multi-Dimensional Measurement of Technological Convergence through Heterogeneous Graph and Semantic Learning](http://arxiv.org/abs/2509.21187v1)** | 2025-09-25 |  |
+| **[Unmasking Fake Careers: Detecting Machine-Generated Career Trajectories via Multi-layer Heterogeneous Graphs](http://arxiv.org/abs/2509.19677v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025 Main</p></details> |
+| **[MH-GIN: Multi-scale Heterogeneous Graph-based Imputation Network for AIS Data (Extended Version)](http://arxiv.org/abs/2507.20362v2)** | 2025-09-22 | <details><summary>18 pa...</summary><p>18 pages, 4 figures; This paper is accepted by PVLDB 2026</p></details> |
+| **[Clinical Multi-modal Fusion with Heterogeneous Graph and Disease Correlation Learning for Multi-Disease Prediction](http://arxiv.org/abs/2509.15852v1)** | 2025-09-19 |  |
+| **[Learning to Optimize Capacity Planning in Semiconductor Manufacturing](http://arxiv.org/abs/2509.15767v1)** | 2025-09-19 |  |
+| **[Temporally Heterogeneous Graph Contrastive Learning for Multimodal Acoustic event Classification](http://arxiv.org/abs/2509.14893v1)** | 2025-09-18 |  |
+| **[Top K Enhanced Reinforcement Learning Attacks on Heterogeneous Graph Node Classification](http://arxiv.org/abs/2408.01964v2)** | 2025-09-18 |  |
+| **[A Survey of Large Language Models for Data Challenges in Graphs](http://arxiv.org/abs/2505.18475v2)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted by Expert Systems with Applications</p></details> |
 
 ## Recommendation
 | **Title** | **Date** | **Comment** |
