@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -27,7 +27,7 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Co-NAML-LSTUR: A Combined Model with Attentive Multi-View Learning and Long- and Short-term User Representations for News Recommendation](http://arxiv.org/abs/2507.20210v2)** | 2025-10-02 | MIWAI 2025 |
-| **[C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems](http://arxiv.org/abs/2510.02215v1)** | 2025-10-02 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
+| **[C2AL: Cohort-Contrastive Auxiliary Learning for Large-scale Recommendation Systems](http://arxiv.org/abs/2510.02215v2)** | 2025-10-03 | <details><summary>Submi...</summary><p>Submitted to ICLR 2026</p></details> |
 | **[Break the ID-Language Barrier: An Adaption Framework for LLM-based Sequential Recommendation](http://arxiv.org/abs/2411.18262v3)** | 2025-10-02 |  |
 | **[Shilling Recommender Systems by Generating Side-feature-aware Fake User Profiles](http://arxiv.org/abs/2509.17918v3)** | 2025-10-02 |  |
 | **[Reasoning over User Preferences: Knowledge Graph-Augmented LLMs for Explainable Conversational Recommendations](http://arxiv.org/abs/2411.14459v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by ICDM 2025</p></details> |
@@ -35,7 +35,7 @@ labels: documentation
 | **[Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion](http://arxiv.org/abs/2501.14399v2)** | 2025-10-02 | <details><summary>Fixed...</summary><p>Fixed and extended results</p></details> |
 | **[LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing](http://arxiv.org/abs/2510.01622v1)** | 2025-10-02 |  |
 | **[AgentRec: Next-Generation LLM-Powered Multi-Agent Collaborative Recommendation with Adaptive Intelligence](http://arxiv.org/abs/2510.01609v1)** | 2025-10-02 |  |
-| **[Disentangling Multiplex Spatial-Temporal Transition Graph Representation Learning for Socially Enhanced POI Recommendation](http://arxiv.org/abs/2508.07649v2)** | 2025-10-02 | <details><summary>There...</summary><p>There are quality issues with the paper and it requires major revisions</p></details> |
+| **[Disentangling Multiplex Spatial-Temporal Transition Graph Representation Learning for Socially Enhanced POI Recommendation](http://arxiv.org/abs/2508.07649v3)** | 2025-10-03 | <details><summary>The o...</summary><p>The original paper has issues and has been restructured in the work; it is no longer suitable, so I am applying for withdrawal</p></details> |
 | **[Stop Playing the Guessing Game! Target-free User Simulation for Evaluating Conversational Recommender Systems](http://arxiv.org/abs/2411.16160v3)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 Findings</p></details> |
 | **[From latent factors to language: a user study on LLM-generated explanations for an inherently interpretable matrix-based recommender system](http://arxiv.org/abs/2509.18980v2)** | 2025-10-01 |  |
 | **[Reinforced Strategy Optimization for Conversational Recommender Systems via Network-of-Experts](http://arxiv.org/abs/2509.26093v2)** | 2025-10-01 |  |
@@ -45,7 +45,7 @@ labels: documentation
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VarCoNet: A variability-aware self-supervised framework for functional connectome extraction from resting-state fMRI](http://arxiv.org/abs/2510.02120v1)** | 2025-10-02 | <details><summary>My pr...</summary><p>My preview .pdf was not loading. Can you please share with me a compiled .pdf file so I can confirm that the result is correct?</p></details> |
+| **[VarCoNet: A variability-aware self-supervised framework for functional connectome extraction from resting-state fMRI](http://arxiv.org/abs/2510.02120v2)** | 2025-10-03 |  |
 | **[FairContrast: Enhancing Fairness through Contrastive learning and Customized Augmenting Methods on Tabular Data](http://arxiv.org/abs/2510.02017v1)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025 - Reliable ML Workshop</p></details> |
 | **[ARIONet: An Advanced Self-supervised Contrastive Representation Network for Birdsong Classification and Future Frame Prediction](http://arxiv.org/abs/2510.00522v2)** | 2025-10-02 |  |
 | **[Are LLMs Better GNN Helpers? Rethinking Robust Graph Learning under Deficiencies with Iterative Refinement](http://arxiv.org/abs/2510.01910v1)** | 2025-10-02 | 14 pages |
@@ -77,6 +77,6 @@ labels: documentation
 | **[Discrete Facial Encoding: : A Framework for Data-driven Facial Display Discovery](http://arxiv.org/abs/2510.01662v1)** | 2025-10-02 |  |
 | **[Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion](http://arxiv.org/abs/2501.14399v2)** | 2025-10-02 | <details><summary>Fixed...</summary><p>Fixed and extended results</p></details> |
 | **[BioBlobs: Differentiable Graph Partitioning for Protein Representation Learning](http://arxiv.org/abs/2510.01632v1)** | 2025-10-02 |  |
-| **[Disentangling Multiplex Spatial-Temporal Transition Graph Representation Learning for Socially Enhanced POI Recommendation](http://arxiv.org/abs/2508.07649v2)** | 2025-10-02 | <details><summary>There...</summary><p>There are quality issues with the paper and it requires major revisions</p></details> |
+| **[Disentangling Multiplex Spatial-Temporal Transition Graph Representation Learning for Socially Enhanced POI Recommendation](http://arxiv.org/abs/2508.07649v3)** | 2025-10-03 | <details><summary>The o...</summary><p>The original paper has issues and has been restructured in the work; it is no longer suitable, so I am applying for withdrawal</p></details> |
 | **[Self-Supervised Representation Learning as Mutual Information Maximization](http://arxiv.org/abs/2510.01345v1)** | 2025-10-01 |  |
 
