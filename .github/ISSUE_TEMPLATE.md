@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 10, 2025
+title: Latest 15 Papers - October 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,14 @@ labels: documentation
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Instructor-Worker Large Language Model System for Policy Recommendation: a Case Study on Air Quality Analysis of the January 2025 Los Angeles Wildfires](http://arxiv.org/abs/2503.00566v4)** | 2025-10-09 |  |
+| **[Do We Really Need SFT? Prompt-as-Policy over Knowledge Graphs for Cold-start Next POI Recommendation](http://arxiv.org/abs/2510.08012v1)** | 2025-10-09 |  |
+| **[MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation](http://arxiv.org/abs/2510.07910v1)** | 2025-10-09 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer-Assisted Intervention (MICCAI) Predictive Intelligence in Medicine Workshop (MICCAI PRIME) 2025; 13 pages</p></details> |
+| **[PLUM: Adapting Pre-trained Language Models for Industrial-scale Generative Recommendations](http://arxiv.org/abs/2510.07784v1)** | 2025-10-09 | 11 pages, 6 figures |
+| **[Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark](http://arxiv.org/abs/2412.17374v3)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted to CIKM'2025</p></details> |
+| **[Safely Exploring Novel Actions in Recommender Systems via Deployment-Efficient Policy Learning](http://arxiv.org/abs/2510.07635v1)** | 2025-10-09 |  |
+| **[Retentive Relevance: Capturing Long-Term User Value in Recommendation Systems](http://arxiv.org/abs/2510.07621v1)** | 2025-10-08 |  |
+| **[TalkPlayData 2: An Agentic Synthetic Data Pipeline for Multimodal Conversational Music Recommendation](http://arxiv.org/abs/2509.09685v4)** | 2025-10-08 | <details><summary>2025-...</summary><p>2025-10-08: updating the stat table with the latest numbers. updated the abstract per the latest license terms</p></details> |
 | **[Ethical AI prompt recommendations in large language models using collaborative filtering](http://arxiv.org/abs/2510.06924v1)** | 2025-10-08 | <details><summary>This ...</summary><p>This paper has been accepted to by the International Journal of Parallel, Emergent & Distributed Systems (Taylor and Francis) and has an assigned DOI. We have already chose to make this open access using CC BY. The article is not yet available online on the publisher's website. The DOI is: doi.org/10.1080/17445760.2025.2573086</p></details> |
 | **[TalkPlay-Tools: Conversational Music Recommendation with LLM Tool Calling](http://arxiv.org/abs/2510.01698v3)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted for publication at The Workshop on AI for Music, Neural Information Processing Systems (NeurIPS-AI4Music)</p></details> |
 | **[LLM-Powered Nuanced Video Attribute Annotation for Enhanced Recommendations](http://arxiv.org/abs/2510.06657v1)** | 2025-10-08 | <details><summary>RecSy...</summary><p>RecSys 2025 Industry Track</p></details> |
@@ -33,18 +41,18 @@ labels: documentation
 | **[Constraint-Aware Route Recommendation from Natural Language via Hierarchical LLM Agents](http://arxiv.org/abs/2510.06078v1)** | 2025-10-07 |  |
 | **[How public datasets constrain the development of diversity-aware news recommender systems, and what law could do about it](http://arxiv.org/abs/2510.05952v1)** | 2025-10-07 |  |
 | **[FedFlex: Federated Learning for Diverse Netflix Recommendations](http://arxiv.org/abs/2507.21115v2)** | 2025-10-07 |  |
-| **[TranSUN: A Preemptive Paradigm to Eradicate Retransformation Bias Intrinsically from Regression Models in Recommender Systems](http://arxiv.org/abs/2505.13881v5)** | 2025-10-07 | <details><summary>37 pa...</summary><p>37 pages, 6 figures, NeurIPS 2025 Poster</p></details> |
-| **[Limitations of Current Evaluation Practices for Conversational Recommender Systems and the Potential of User Simulation](http://arxiv.org/abs/2510.05624v1)** | 2025-10-07 | <details><summary>Proce...</summary><p>Proceedings of the 2025 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP 2025), December 7--10, 2025, Xi'an, China</p></details> |
-| **[AgentDR Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents](http://arxiv.org/abs/2510.05598v1)** | 2025-10-07 |  |
-| **[Automated Research Article Classification and Recommendation Using NLP and ML](http://arxiv.org/abs/2510.05495v1)** | 2025-10-07 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, Accepted in Foundation and Large Language Models (FLLM2025)</p></details> |
-| **[Reproducibility Study of "XRec: Large Language Models for Explainable Recommendation"](http://arxiv.org/abs/2510.06275v1)** | 2025-10-06 |  |
-| **[Fine-grained auxiliary learning for real-world product recommendation](http://arxiv.org/abs/2510.04551v1)** | 2025-10-06 | SEPLN 2025 |
-| **[MARCO: A Cooperative Knowledge Transfer Framework for Personalized Cross-domain Recommendations](http://arxiv.org/abs/2510.04508v1)** | 2025-10-06 | SIGIR-AP 2025 |
-| **[Causality-aware Graph Aggregation Weight Estimator for Popularity Debiasing in Top-K Recommendation](http://arxiv.org/abs/2510.04502v1)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025</p></details> |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Moments to Models: Graphon Mixture-Aware Mixup and Contrastive Learning](http://arxiv.org/abs/2510.03690v2)** | 2025-10-09 |  |
+| **[Gaze on the Prize: Shaping Visual Attention with Return-Guided Contrastive Learning](http://arxiv.org/abs/2510.08442v1)** | 2025-10-09 | <details><summary>Proje...</summary><p>Project page: https://andrewcwlee.github.io/gaze-on-the-prize</p></details> |
+| **[Contrastive Self-Supervised Learning at the Edge: An Energy Perspective](http://arxiv.org/abs/2510.08374v1)** | 2025-10-09 |  |
+| **[Spatial-Functional awareness Transformer-based graph archetype contrastive learning for Decoding Visual Neural Representations from EEG](http://arxiv.org/abs/2509.24761v2)** | 2025-10-09 |  |
+| **[RAGDiffusion: Faithful Cloth Generation via External Knowledge Assimilation](http://arxiv.org/abs/2411.19528v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accept by ICCV 2025 (Highlight). Project website: https://colorful-liyu.github.io/RAGDiffusion-page/</p></details> |
+| **[Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning](http://arxiv.org/abs/2502.07645v2)** | 2025-10-09 |  |
+| **[Training LLMs to be Better Text Embedders through Bidirectional Reconstruction](http://arxiv.org/abs/2509.03020v4)** | 2025-10-09 | <details><summary>accep...</summary><p>accepted by EMNLP 2025 Main Conference</p></details> |
+| **[AlignCAT: Visual-Linguistic Alignment of Category and Attribute for Weakly Supervised Visual Grounding](http://arxiv.org/abs/2508.03201v2)** | 2025-10-09 |  |
 | **[Quantum Rationale-Aware Graph Contrastive Learning for Jet Discrimination](http://arxiv.org/abs/2411.01642v5)** | 2025-10-08 |  |
 | **[TWIST: Training-free and Label-free Short Text Clustering through Iterative Vector Updating with LLMs](http://arxiv.org/abs/2510.06747v1)** | 2025-10-08 |  |
 | **[LoDisc: Learning Global-Local Discriminative Features for Self-Supervised Fine-Grained Visual Recognition](http://arxiv.org/abs/2403.04066v2)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</p></details> |
@@ -52,31 +60,23 @@ labels: documentation
 | **[Decentralized Collective World Model for Emergent Communication and Coordination](http://arxiv.org/abs/2504.03353v3)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted at IEEE ICDL 2025</p></details> |
 | **[PhishSSL: Self-Supervised Contrastive Learning for Phishing Website Detection](http://arxiv.org/abs/2510.05900v1)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted by the 26th International Conference on Web Information Systems Engineering (WISE 2025)</p></details> |
 | **[FAID: Fine-Grained AI-Generated Text Detection Using Multi-Task Auxiliary and Multi-Level Contrastive Learning](http://arxiv.org/abs/2505.14271v2)** | 2025-10-07 |  |
-| **[Contrastive Learning Using Graph Embeddings for Domain Adaptation of Language Models in the Process Industry](http://arxiv.org/abs/2510.04631v2)** | 2025-10-07 | <details><summary>accep...</summary><p>accepted to EMNLP 2025 (industry track)</p></details> |
-| **[Towards Robust and Realible Multimodal Fake News Detection with Incomplete Modality](http://arxiv.org/abs/2510.05839v1)** | 2025-10-07 |  |
-| **[Diversity Is All You Need for Contrastive Learning: Spectral Bounds on Gradient Magnitudes](http://arxiv.org/abs/2510.05767v1)** | 2025-10-07 |  |
-| **[Oracle-Guided Masked Contrastive Reinforcement Learning for Visuomotor Policies](http://arxiv.org/abs/2510.05692v1)** | 2025-10-07 |  |
-| **[Tables Guide Vision: Learning to See the Heart through Tabular Data](http://arxiv.org/abs/2503.14998v2)** | 2025-10-06 |  |
-| **[Generalizing Supervised Contrastive learning: A Projection Perspective](http://arxiv.org/abs/2506.09810v2)** | 2025-10-06 |  |
-| **[Probabilistic Variational Contrastive Learning](http://arxiv.org/abs/2506.10159v2)** | 2025-10-06 |  |
-| **[The Geometry of Truth: Layer-wise Semantic Dynamics for Hallucination Detection in Large Language Models](http://arxiv.org/abs/2510.04933v1)** | 2025-10-06 | <details><summary>Comme...</summary><p>Comments: 14 pages, 14 figures, 5 tables. Code available at: https://github.com/sirraya-tech/Sirraya_LSD_Code</p></details> |
 
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MolGA: Molecular Graph Adaptation with Pre-trained 2D Graph Encoder](http://arxiv.org/abs/2510.07289v1)** | 2025-10-08 | Under review |
-| **[Resolution scaling governs DINOv3 transfer performance in chest radiograph classification](http://arxiv.org/abs/2510.07191v1)** | 2025-10-08 |  |
+| **[From Moments to Models: Graphon Mixture-Aware Mixup and Contrastive Learning](http://arxiv.org/abs/2510.03690v2)** | 2025-10-09 |  |
+| **[Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models](http://arxiv.org/abs/2510.08492v1)** | 2025-10-09 | <details><summary>63 pa...</summary><p>63 pages, 29 tables, and 47 figures</p></details> |
+| **[Contrastive Self-Supervised Learning at the Edge: An Energy Perspective](http://arxiv.org/abs/2510.08374v1)** | 2025-10-09 |  |
+| **[T-VEC: A Telecom-Specific Vectorization Model with Enhanced Semantic Understanding via Deep Triplet Loss Fine-Tuning](http://arxiv.org/abs/2504.16460v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2025 (Industry Track)</p></details> |
+| **[Selection, Reflection and Self-Refinement: Revisit Reasoning Tasks via a Causal Lens](http://arxiv.org/abs/2510.08222v1)** | 2025-10-09 |  |
+| **[PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection](http://arxiv.org/abs/2509.03277v4)** | 2025-10-09 | Submitted to TPAMI |
+| **[Provable Speech Attributes Conversion via Latent Independence](http://arxiv.org/abs/2510.05191v2)** | 2025-10-09 |  |
+| **[MMM: Quantum-Chemical Molecular Representation Learning for Combinatorial Drug Recommendation](http://arxiv.org/abs/2510.07910v1)** | 2025-10-09 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer-Assisted Intervention (MICCAI) Predictive Intelligence in Medicine Workshop (MICCAI PRIME) 2025; 13 pages</p></details> |
+| **[Learning General Causal Structures with Hidden Dynamic Process for Climate Analysis](http://arxiv.org/abs/2501.12500v2)** | 2025-10-09 |  |
+| **[Self-Supervised Learning Strategies for a Platform to Test the Toxicity of New Chemicals and Materials](http://arxiv.org/abs/2510.07853v1)** | 2025-10-09 |  |
+| **[Knowledge-Driven Federated Graph Learning on Model Heterogeneity](http://arxiv.org/abs/2501.12624v3)** | 2025-10-09 |  |
 | **[Bridged Clustering for Representation Learning: Semi-Supervised Sparse Bridging](http://arxiv.org/abs/2510.07182v2)** | 2025-10-09 |  |
-| **[GNN-enhanced Traffic Anomaly Detection for Next-Generation SDN-Enabled Consumer Electronics](http://arxiv.org/abs/2510.07109v1)** | 2025-10-08 | <details><summary>This ...</summary><p>This paper has been accepted for publication in IEEE Transactions on Consumer Electronics. 10 pages, 6 figures</p></details> |
-| **[Unified Molecule Pre-training with Flexible 2D and 3D Modalities: Single and Paired Modality Integration](http://arxiv.org/abs/2510.07035v1)** | 2025-10-08 | CIKM 2025 |
-| **[Relational Database Distillation: From Structured Tables to Condensed Graph Data](http://arxiv.org/abs/2510.06980v1)** | 2025-10-08 |  |
-| **[Learning Global Representation from Queries for Vectorized HD Map Construction](http://arxiv.org/abs/2510.06969v1)** | 2025-10-08 | 16 pages |
-| **[Angular Constraint Embedding via SpherePair Loss for Constrained Clustering](http://arxiv.org/abs/2510.06907v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025, 6 Figures and 1 Table in Main text, 18 Figures and 5 Tables in Appendices</p></details> |
-| **[Continual Action Quality Assessment via Adaptive Manifold-Aligned Graph Regularization](http://arxiv.org/abs/2510.06842v1)** | 2025-10-08 | <details><summary>Exten...</summary><p>Extended Version of MAGR (ECCV 2024 Oral Presentation)</p></details> |
-| **[GPS-MTM: Capturing Pattern of Normalcy in GPS-Trajectories with self-supervised learning](http://arxiv.org/abs/2509.24031v2)** | 2025-10-08 | 4 pages, 2 figures |
-| **[GMLM: Bridging Graph Neural Networks and Language Models for Heterophilic Node Classification](http://arxiv.org/abs/2503.05763v6)** | 2025-10-08 |  |
-| **[Dual Goal Representations](http://arxiv.org/abs/2510.06714v1)** | 2025-10-08 |  |
-| **[Rethinking Multilingual Continual Pretraining: Data Mixing for Adapting LLMs Across Languages and Resources](http://arxiv.org/abs/2504.04152v2)** | 2025-10-08 | COLM 2025 |
-| **[Latent Representation Learning in Heavy-Ion Collisions with MaskPoint Transformer](http://arxiv.org/abs/2510.06691v1)** | 2025-10-08 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted at the NeurIPS 2025 workshop "Machine Learning and the Physical Sciences"</p></details> |
-| **[DPGIIL: Dirichlet Process-Deep Generative Model-Integrated Incremental Learning for Clustering in Transmissibility-based Online Structural Anomaly Detection](http://arxiv.org/abs/2412.04781v2)** | 2025-10-08 | <details><summary>53 pa...</summary><p>53 pages,9 figures,7 tables, accepted by Advanced Engineering Informatics</p></details> |
+| **[Causality Guided Representation Learning for Cross-Style Hate Speech Detection](http://arxiv.org/abs/2510.07707v1)** | 2025-10-09 |  |
+| **[Contrastive Difference Predictive Coding](http://arxiv.org/abs/2310.20141v3)** | 2025-10-08 | <details><summary>ICLR ...</summary><p>ICLR 2024. Website (https://chongyi-zheng.github.io/td_infonce) and code (https://github.com/chongyi-zheng/td_infonce)</p></details> |
+| **[MolGA: Molecular Graph Adaptation with Pre-trained 2D Graph Encoder](http://arxiv.org/abs/2510.07289v1)** | 2025-10-08 | Under review |
 
