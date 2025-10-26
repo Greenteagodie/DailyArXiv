@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 25, 2025
+title: Latest 15 Papers - October 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -17,11 +17,6 @@ labels: documentation
 | **[Enhanced Pre-training of Graph Neural Networks for Million-Scale Heterogeneous Graphs](http://arxiv.org/abs/2510.12401v1)** | 2025-10-14 | 26 pages |
 | **[Causal Disentanglement Learning for Accurate Anomaly Detection in Multivariate Time Series](http://arxiv.org/abs/2510.11084v1)** | 2025-10-13 | 20 pages, 4 Figures, |
 | **[D3MAS: Decompose, Deduce, and Distribute for Enhanced Knowledge Sharing in Multi-Agent Systems](http://arxiv.org/abs/2510.10585v1)** | 2025-10-12 |  |
-| **[Bridging Semantics & Structure for Software Vulnerability Detection using Hybrid Network Models](http://arxiv.org/abs/2510.10321v1)** | 2025-10-11 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables, 14 equations, accepted at the 14th International Conference on Complex Networks and Their Applications (COMPLEX NETWORKS 2025) and the conference proceedings will be published by Springer in the Studies in Computational Intelligence series</p></details> |
-| **[HeSRN: Representation Learning On Heterogeneous Graphs via Slot-Aware Retentive Network](http://arxiv.org/abs/2510.09767v1)** | 2025-10-10 |  |
-| **[Relational Database Distillation: From Structured Tables to Condensed Graph Data](http://arxiv.org/abs/2510.06980v1)** | 2025-10-08 |  |
-| **[MoRE-GNN: Multi-omics Data Integration with a Heterogeneous Graph Autoencoder](http://arxiv.org/abs/2510.06880v1)** | 2025-10-08 |  |
-| **[Cross-Document Cross-Lingual NLI via RST-Enhanced Graph Fusion and Interpretability Prediction](http://arxiv.org/abs/2504.12324v3)** | 2025-10-07 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Main (Camera Ready)</p></details> |
 
 ## Recommendation
 | **Title** | **Date** | **Comment** |
@@ -74,4 +69,9 @@ labels: documentation
 | **[Mitigating Cross-modal Representation Bias for Multicultural Image-to-Recipe Retrieval](http://arxiv.org/abs/2510.20393v1)** | 2025-10-23 | ACM Multimedia 2025 |
 | **[Towards Robust Zero-Shot Reinforcement Learning](http://arxiv.org/abs/2510.15382v2)** | 2025-10-23 | <details><summary>Neuri...</summary><p>Neurips 2025, 29 pages, 19 figures</p></details> |
 | **[GUSL-Dehaze: A Green U-Shaped Learning Approach to Image Dehazing](http://arxiv.org/abs/2510.20266v1)** | 2025-10-23 |  |
+| **[Budgeted Embedding Table For Recommender Systems](http://arxiv.org/abs/2310.14884v7)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to WSDM 2024. Code is available at https://github.com/qykcq/Budgeted-Embedding-Table-For-Recommender-Systems</p></details> |
+| **[Towards Objective Obstetric Ultrasound Assessment: Contrastive Representation Learning for Fetal Movement Detection](http://arxiv.org/abs/2510.20214v1)** | 2025-10-23 | <details><summary>This ...</summary><p>This is the preprint version of the manuscript submitted to IEEE Journal of Biomedical and Health Informatics (JBHI) for review</p></details> |
+| **[A Structured Review and Quantitative Profiling of Public Brain MRI Datasets for Foundation Model Development](http://arxiv.org/abs/2510.20196v1)** | 2025-10-23 |  |
+| **[IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks](http://arxiv.org/abs/2510.20165v1)** | 2025-10-23 | <details><summary>Publi...</summary><p>Published in the Proceedings of the Thirty Fifth AAAI Conference on Artificial Intelligence (AAAI 2021), paper number 7926</p></details> |
+| **[TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning](http://arxiv.org/abs/2510.20162v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 
