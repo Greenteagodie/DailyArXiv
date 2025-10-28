@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2025
+title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -64,19 +64,19 @@ labels: documentation
 ## Representation Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Causal Climate Emulation with Bayesian Filtering](http://arxiv.org/abs/2506.09891v2)** | 2025-10-24 | 37 pages, 26 figures |
+| **[Foundation Models in Dermatopathology: Skin Tissue Classification](http://arxiv.org/abs/2510.21664v1)** | 2025-10-24 |  |
+| **[FORLA: Federated Object-centric Representation Learning with Slot Attention](http://arxiv.org/abs/2506.02964v2)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted by Neurips2025</p></details> |
+| **[Efficient Fairness-Performance Pareto Front Computation](http://arxiv.org/abs/2409.17643v3)** | 2025-10-24 | <details><summary>10 pa...</summary><p>10 pages, contain link to package. Neurips 2025</p></details> |
+| **[Causality Meets Locality: Provably Generalizable and Scalable Policy Learning for Networked Systems](http://arxiv.org/abs/2510.21427v1)** | 2025-10-24 | <details><summary>NeurI...</summary><p>NeurIPS 2025 (Spotlight)</p></details> |
+| **[Disentangled Representation Learning via Modular Compositional Bias](http://arxiv.org/abs/2510.21402v1)** | 2025-10-24 |  |
+| **[Dataset Condensation with Color Compensation](http://arxiv.org/abs/2508.01139v3)** | 2025-10-24 | Accepted in TMLR |
+| **[Large Language Models Meet Text-Attributed Graphs: A Survey of Integration Frameworks and Applications](http://arxiv.org/abs/2510.21131v1)** | 2025-10-24 | <details><summary>Surve...</summary><p>Surveys and overviews; Natural language processing; Knowledge representation and reasoning; Graph algorithms</p></details> |
+| **[Leveraging semantic similarity for experimentation with AI-generated treatments](http://arxiv.org/abs/2510.21119v1)** | 2025-10-24 | 31 pages, 5 figures |
+| **[Fair Representation Learning with Controllable High Confidence Guarantees via Adversarial Inference](http://arxiv.org/abs/2510.21017v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
+| **[Neural Thermodynamics: Entropic Forces in Deep and Universal Representation Learning](http://arxiv.org/abs/2505.12387v2)** | 2025-10-23 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
+| **[L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks](http://arxiv.org/abs/2510.20976v1)** | 2025-10-23 | 18 pages, 7 figures |
+| **[Irish-BLiMP: A Linguistic Benchmark for Evaluating Human and Language Model Performance in a Low-Resource Setting](http://arxiv.org/abs/2510.20957v1)** | 2025-10-23 | 8 pages |
+| **[ROPES: Robotic Pose Estimation via Score-Based Causal Representation Learning](http://arxiv.org/abs/2510.20884v1)** | 2025-10-23 | <details><summary>A pre...</summary><p>A preliminary version of this paper appeared at NeurIPS 2025 Workshop on Embodied World Models for Decision Making</p></details> |
 | **[Integrating Structural and Semantic Signals in Text-Attributed Graphs with BiGTex](http://arxiv.org/abs/2504.12474v3)** | 2025-10-23 | 26 pages, 4 figures |
-| **[Amplifying Prominent Representations in Multimodal Learning via Variational Dirichlet Process](http://arxiv.org/abs/2510.20736v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by NeruIPS 2025</p></details> |
-| **[Structured Spectral Graph Representation Learning for Multi-label Abnormality Analysis from 3D CT Scans](http://arxiv.org/abs/2510.10779v2)** | 2025-10-23 | 24 pages, 15 figures |
-| **[From Masks to Worlds: A Hitchhiker's Guide to World Models](http://arxiv.org/abs/2510.20668v1)** | 2025-10-23 | <details><summary>Githu...</summary><p>Github: https://github.com/M-E-AGI-Lab/Awesome-World-Models</p></details> |
-| **[Connecting Jensen-Shannon and Kullback-Leibler Divergences: A New Bound for Representation Learning](http://arxiv.org/abs/2510.20644v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Code available at https://github.com/ReubenDo/JSDlowerbound/</p></details> |
-| **[Diffusion Autoencoders with Perceivers for Long, Irregular and Multimodal Astronomical Sequences](http://arxiv.org/abs/2510.20595v1)** | 2025-10-23 |  |
-| **[Sample-efficient Learning of Concepts with Theoretical Guarantees: from Data to Concepts without Interventions](http://arxiv.org/abs/2502.06536v3)** | 2025-10-23 | <details><summary>58 pa...</summary><p>58 pages, 23 figures, 12 Tables, Published</p></details> |
-| **[Mitigating Cross-modal Representation Bias for Multicultural Image-to-Recipe Retrieval](http://arxiv.org/abs/2510.20393v1)** | 2025-10-23 | ACM Multimedia 2025 |
-| **[Towards Robust Zero-Shot Reinforcement Learning](http://arxiv.org/abs/2510.15382v2)** | 2025-10-23 | <details><summary>Neuri...</summary><p>Neurips 2025, 29 pages, 19 figures</p></details> |
-| **[GUSL-Dehaze: A Green U-Shaped Learning Approach to Image Dehazing](http://arxiv.org/abs/2510.20266v1)** | 2025-10-23 |  |
-| **[Budgeted Embedding Table For Recommender Systems](http://arxiv.org/abs/2310.14884v7)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to WSDM 2024. Code is available at https://github.com/qykcq/Budgeted-Embedding-Table-For-Recommender-Systems</p></details> |
-| **[Towards Objective Obstetric Ultrasound Assessment: Contrastive Representation Learning for Fetal Movement Detection](http://arxiv.org/abs/2510.20214v1)** | 2025-10-23 | <details><summary>This ...</summary><p>This is the preprint version of the manuscript submitted to IEEE Journal of Biomedical and Health Informatics (JBHI) for review</p></details> |
-| **[A Structured Review and Quantitative Profiling of Public Brain MRI Datasets for Foundation Model Development](http://arxiv.org/abs/2510.20196v1)** | 2025-10-23 |  |
-| **[IB-GAN: Disentangled Representation Learning with Information Bottleneck Generative Adversarial Networks](http://arxiv.org/abs/2510.20165v1)** | 2025-10-23 | <details><summary>Publi...</summary><p>Published in the Proceedings of the Thirty Fifth AAAI Conference on Artificial Intelligence (AAAI 2021), paper number 7926</p></details> |
-| **[TOMCAT: Test-time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning](http://arxiv.org/abs/2510.20162v1)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 
