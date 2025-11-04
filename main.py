@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Heterogeneous Graph", "Recommendation", "Contrastive Learning", "Representation Learning"] # TODO add more keywords
+keywords = ["Heterogeneous Graph", "Recommendation", "Contrastive Learning", "Heterogeneous Graph Recommendation"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
