@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 14, 2025
+title: Latest 15 Papers - November 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,76 +7,76 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Heterogeneous Graph Transformer](https://arxiv.org/pdf/2003.01332v1)** | 2020-03-04 | <details><summary>Publi...</summary><p>Published on WWW 2020</p></details> |
-| **[HiGPT: Heterogeneous Graph Language Model](https://arxiv.org/pdf/2402.16024v2)** | 2024-05-21 | <details><summary>Accep...</summary><p>Accepted by KDD'2024, full paper</p></details> |
-| **[Heterogeneous Graph Tree Networks](https://arxiv.org/pdf/2209.00610v1)** | 2022-09-02 |  |
-| **[Hyperbolic Heterogeneous Graph Attention Networks](https://arxiv.org/pdf/2404.09456v1)** | 2024-04-16 | <details><summary>Accep...</summary><p>Accepted in ACM THE WEB CONFERENCE 2024 short paper track</p></details> |
-| **[Heterogeneous Deep Graph Infomax](https://arxiv.org/pdf/1911.08538v5)** | 2020-11-16 |  |
-| **[DiffGraph: Heterogeneous Graph Diffusion Model](https://arxiv.org/pdf/2501.02313v1)** | 2025-01-07 | <details><summary>This ...</summary><p>This paper is accepted by WSDM'2025</p></details> |
-| **[Heterogeneous Graph Collaborative Filtering](https://arxiv.org/pdf/2011.06807v2)** | 2020-11-19 |  |
-| **[HeGMN: Heterogeneous Graph Matching Network for Learning Graph Similarity](https://arxiv.org/pdf/2503.08739v1)** | 2025-03-13 |  |
-| **[Heterogeneous Graph Attention Network](https://arxiv.org/pdf/1903.07293v2)** | 2021-01-21 | 10 pages |
-| **[Heterogeneous Graph Contrastive Learning with Spectral Augmentation](https://arxiv.org/pdf/2407.00708v1)** | 2024-07-02 |  |
-| **[Heterogeneous Graph Masked Autoencoders](https://arxiv.org/pdf/2208.09957v2)** | 2023-02-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2023 (Oral)</p></details> |
-| **[Heterogeneous Temporal Graph Neural Network](https://arxiv.org/pdf/2110.13889v1)** | 2021-10-27 |  |
-| **[Multi-Hyperbolic Space-based Heterogeneous Graph Attention Network](https://arxiv.org/pdf/2411.11283v1)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted in IEEE ICDM 2024</p></details> |
-| **[Graphlet and Orbit Computation on Heterogeneous Graphs](https://arxiv.org/pdf/2304.14268v3)** | 2023-06-06 | 13 pages, 7 figures |
-| **[Heterogeneous Graph Contrastive Learning for Recommendation](https://arxiv.org/pdf/2303.00995v1)** | 2023-03-03 | <details><summary>This ...</summary><p>This paper has been published as a full paper at WSDM 2023</p></details> |
+| **[Strategic Opponent Modeling with Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling](https://arxiv.org/abs/2511.10501v1)** | 2025-11-13 | 26 pages |
+| **[A Novel Sliced Fused Gromov-Wasserstein Distance](https://arxiv.org/abs/2508.02364v2)** | 2025-11-13 |  |
+| **[HeatV2X: Scalable Heterogeneous Collaborative Perception via Efficient Alignment and Interaction](https://arxiv.org/abs/2511.10211v1)** | 2025-11-13 | 10 pages, 6 figures |
+| **[AI-Integrated Decision Support System for Real-Time Market Growth Forecasting and Multi-Source Content Diffusion Analytics](https://arxiv.org/abs/2511.09962v1)** | 2025-11-13 |  |
+| **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](https://arxiv.org/abs/2507.16476v5)** | 2025-11-12 |  |
+| **[A Mixture-of-Experts Framework with Log-Logistic Components for Survival Analysis on Histopathology Images](https://arxiv.org/abs/2511.06266v2)** | 2025-11-12 |  |
+| **[Graph Contrastive Learning for Connectome Classification](https://arxiv.org/abs/2502.05109v2)** | 2025-11-12 | <details><summary>Prese...</summary><p>Presented at Asilomar Conference on Signals, Systems, and Computers 2025</p></details> |
+| **[SecTracer: A Framework for Uncovering the Root Causes of Network Intrusions via Security Provenance](https://arxiv.org/abs/2511.09266v1)** | 2025-11-12 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, Accepted for publication in Computers & Security</p></details> |
+| **[Towards a Generalisable Cyber Defence Agent for Real-World Computer Networks](https://arxiv.org/abs/2511.09114v1)** | 2025-11-12 | <details><summary>CAMLI...</summary><p>CAMLIS 2025. To be published in the Proceedings of Machine Learning Research (PMLR)</p></details> |
+| **[Efficient Distributed Exact Subgraph Matching via GNN-PE: Load Balancing, Cache Optimization, and Query Plan Ranking](https://arxiv.org/abs/2511.09052v1)** | 2025-11-12 | 10 pages |
+| **[UniHR: Hierarchical Representation Learning for Unified Knowledge Graph Link Prediction](https://arxiv.org/abs/2411.07019v6)** | 2025-11-12 |  |
+| **[Contextual Graph Embeddings: Accounting for Data Characteristics in Heterogeneous Data Integration](https://arxiv.org/abs/2511.09001v1)** | 2025-11-12 | 10 pages |
+| **[Heterogeneous Graph Neural Networks for Assumption-Based Argumentation](https://arxiv.org/abs/2511.08982v1)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted to AAAI2026. Version with Appendix</p></details> |
+| **[One Model for All: Universal Pre-training for EEG based Emotion Recognition across Heterogeneous Datasets and Paradigms](https://arxiv.org/abs/2511.08444v1)** | 2025-11-11 |  |
+| **[Automatic Paper Reviewing with Heterogeneous Graph Reasoning over LLM-Simulated Reviewer-Author Debates](https://arxiv.org/abs/2511.08317v1)** | 2025-11-11 |  |
 
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Pricing of Recommendations and Recommending Strategically](https://arxiv.org/pdf/0911.1619v1)** | 2009-11-10 |  |
-| **[Recommending with Recommendations](https://arxiv.org/pdf/2112.00979v1)** | 2021-12-03 | 22 pages, 2 figures |
-| **[Is News Recommendation a Sequential Recommendation Task?](https://arxiv.org/pdf/2108.08984v2)** | 2021-08-27 |  |
-| **[The Universal Recommender](https://arxiv.org/pdf/0909.3472v2)** | 2010-03-13 | <details><summary>17 pa...</summary><p>17 pages; typo and references fixed</p></details> |
-| **[CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation](https://arxiv.org/pdf/2508.13889v1)** | 2025-08-20 |  |
-| **[A Hybrid Recommender System for Recommending Smartphones to Prospective Customers](https://arxiv.org/pdf/2105.12876v2)** | 2022-07-20 | <details><summary>Exper...</summary><p>Expert Systems With Applications, 2022</p></details> |
-| **[To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models](https://arxiv.org/pdf/2403.18628v2)** | 2024-04-09 |  |
-| **[The Deconfounded Recommender: A Causal Inference Approach to Recommendation](https://arxiv.org/pdf/1808.06581v2)** | 2019-05-28 | 15 pages |
-| **[Structured Recommendation](https://arxiv.org/pdf/1706.09067v1)** | 2017-06-29 | 18 pages |
-| **[Visually Explainable Recommendation](https://arxiv.org/pdf/1801.10288v1)** | 2018-02-01 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 9 tables</p></details> |
-| **[Recommendations for Visualization Recommendations: Exploring Preferences and Priorities in Public Health](https://arxiv.org/pdf/2202.01335v1)** | 2022-02-04 |  |
-| **[ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback](https://arxiv.org/pdf/2401.03605v1)** | 2024-01-09 |  |
-| **[Identify Then Recommend: Towards Unsupervised Group Recommendation](https://arxiv.org/pdf/2410.23757v1)** | 2024-11-01 | 26 pages |
-| **[Patterns of Multistakeholder Recommendation](https://arxiv.org/pdf/1707.09258v1)** | 2017-07-31 | <details><summary>Prese...</summary><p>Presented at the 2017 Workshop on Value-Aware and Multistakeholder Recommendation</p></details> |
-| **[Non-IID Recommender Systems: A Review and Framework of Recommendation Paradigm Shifting](https://arxiv.org/pdf/2007.07217v1)** | 2020-07-15 |  |
+| **[BroadGen: A Framework for Generating Effective and Efficient Advertiser Broad Match Keyphrase Recommendations](https://arxiv.org/abs/2505.19164v5)** | 2025-11-13 |  |
+| **[Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding](https://arxiv.org/abs/2511.10492v1)** | 2025-11-13 |  |
+| **[GPR: Towards a Generative Pre-trained One-Model Paradigm for Large-Scale Advertising Recommendation](https://arxiv.org/abs/2511.10138v1)** | 2025-11-13 | 12 pages, 5 figures |
+| **[Potent but Stealthy: Rethink Profile Pollution against Sequential Recommendation via Bi-level Constrained Reinforcement Paradigm](https://arxiv.org/abs/2511.09392v2)** | 2025-11-13 |  |
+| **[Improving Graduate Outcomes by Identifying Skills Gaps and Recommending Courses Based on Career Interests](https://arxiv.org/abs/2511.09819v1)** | 2025-11-12 | 10 pages |
+| **[M^2VAE: Multi-Modal Multi-View Variational Autoencoder for Cold-start Item Recommendation](https://arxiv.org/abs/2508.00452v2)** | 2025-11-12 |  |
+| **[Where Should I Study? Biased Language Models Decide! Evaluating Fairness in LMs for Academic Recommendations](https://arxiv.org/abs/2509.04498v2)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted at IJCNLP-AACL 2025 Findings</p></details> |
+| **[Efficient Model-Agnostic Continual Learning for Next POI Recommendation](https://arxiv.org/abs/2511.08941v1)** | 2025-11-12 | <details><summary>This ...</summary><p>This paper was accepted by ICDE2026</p></details> |
+| **[Bid Farewell to Seesaw: Towards Accurate Long-tail Session-based Recommendation via Dual Constraints of Hybrid Intents](https://arxiv.org/abs/2511.08378v1)** | 2025-11-11 |  |
+| **[Hard vs. Noise: Resolving Hard-Noisy Sample Confusion in Recommender Systems via Large Language Models](https://arxiv.org/abs/2511.07295v2)** | 2025-11-11 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Exploiting Inter-Session Information with Frequency-enhanced Dual-Path Networks for Sequential Recommendation](https://arxiv.org/abs/2511.06285v2)** | 2025-11-11 |  |
+| **[MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System](https://arxiv.org/abs/2511.08181v1)** | 2025-11-11 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, Accepted at RDGENAI at CIKM 2025 workshop</p></details> |
+| **[From IDs to Semantics: A Generative Framework for Cross-Domain Recommendation with Adaptive Semantic Tokenization](https://arxiv.org/abs/2511.08006v1)** | 2025-11-11 |  |
+| **[A Remarkably Efficient Paradigm to Multimodal Large Language Models for Sequential Recommendation](https://arxiv.org/abs/2511.05885v2)** | 2025-11-11 |  |
+| **[Beyond Algorethics: Addressing the Ethical and Anthropological Challenges of AI Recommender Systems](https://arxiv.org/abs/2507.16430v2)** | 2025-11-11 |  |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Contrasting the landscape of contrastive and non-contrastive learning](https://arxiv.org/pdf/2203.15702v1)** | 2022-03-30 | <details><summary>Accep...</summary><p>Accepted for publication in the AISTATS 2022 conference (http://aistats.org/aistats2022/accepted.html)</p></details> |
-| **[Hyperbolic Contrastive Learning](https://arxiv.org/pdf/2302.01409v1)** | 2023-02-06 |  |
-| **[Decoupled Contrastive Learning](https://arxiv.org/pdf/2110.06848v3)** | 2023-06-21 | Accepted by ECCV2022 |
-| **[Generalized Supervised Contrastive Learning](https://arxiv.org/pdf/2206.00384v2)** | 2023-05-23 |  |
-| **[Contrastive UCB: Provably Efficient Contrastive Self-Supervised Learning in Online Reinforcement Learning](https://arxiv.org/pdf/2207.14800v3)** | 2024-04-16 | ICML 2022 |
-| **[CCL4Rec: Contrast over Contrastive Learning for Micro-video Recommendation](https://arxiv.org/pdf/2208.08024v1)** | 2022-08-18 | 11 pages, 4 figures |
-| **[Tuned Contrastive Learning](https://arxiv.org/pdf/2305.10675v2)** | 2024-10-31 | Preprint Version |
-| **[Contrastive Abstraction for Reinforcement Learning](https://arxiv.org/pdf/2410.00704v1)** | 2024-10-02 |  |
-| **[Conditional Contrastive Learning with Kernel](https://arxiv.org/pdf/2202.05458v3)** | 2022-03-16 |  |
-| **[Mutual Contrastive Learning for Visual Representation Learning](https://arxiv.org/pdf/2104.12565v2)** | 2022-01-19 | 9 pages, AAAI-2022 |
-| **[Bayesian Graph Contrastive Learning](https://arxiv.org/pdf/2112.07823v4)** | 2022-08-30 |  |
-| **[Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/pdf/2206.07568v2)** | 2023-02-21 | <details><summary>NeurI...</summary><p>NeurIPS 2022. Code is available on the website: https://ben-eysenbach.github.io/contrastive_rl</p></details> |
-| **[Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning](https://arxiv.org/pdf/2111.14585v2)** | 2023-09-04 | <details><summary>Accep...</summary><p>Accepted to IEEE Winter Conference on Applications of Computer Vision (WACV) 2023</p></details> |
-| **[Contrastive Representation Learning: A Framework and Review](https://arxiv.org/pdf/2010.05113v2)** | 2020-10-29 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, update with the accepted version in IEEE Access</p></details> |
-| **[Heterogeneous Contrastive Learning](https://arxiv.org/pdf/2105.09401v3)** | 2022-07-27 | Accepted by KDD22 |
+| **[Bytes of a Feather: Personality and Opinion Alignment Effects in Human-AI Interaction](https://arxiv.org/abs/2511.10544v1)** | 2025-11-13 |  |
+| **[PITA: Preference-Guided Inference-Time Alignment for LLM Post-Training](https://arxiv.org/abs/2507.20067v2)** | 2025-11-13 |  |
+| **[Interpretable Clinical Classification with Kolgomorov-Arnold Networks](https://arxiv.org/abs/2509.16750v2)** | 2025-11-13 |  |
+| **[Analogical Structure, Minimal Contextual Cues and Contrastive Distractors: Input Design for Sample-Efficient Linguistic Rule Induction](https://arxiv.org/abs/2511.10441v1)** | 2025-11-13 |  |
+| **[Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment](https://arxiv.org/abs/2511.10334v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Code is available at https://github.com/lessiYin/DSANet</p></details> |
+| **[Causal Model-Based Reinforcement Learning for Sample-Efficient IoT Channel Access](https://arxiv.org/abs/2511.10291v1)** | 2025-11-13 |  |
+| **[MTP: Exploring Multimodal Urban Traffic Profiling with Modality Augmentation and Spectrum Fusion](https://arxiv.org/abs/2511.10218v1)** | 2025-11-13 |  |
+| **[QuCoWE Quantum Contrastive Word Embeddings with Variational Circuits for NearTerm Quantum Devices](https://arxiv.org/abs/2511.10179v1)** | 2025-11-13 |  |
+| **[Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning](https://arxiv.org/abs/2506.01939v2)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025. 25 pages, 17 figures, 2 tables</p></details> |
+| **[eXIAA: eXplainable Injections for Adversarial Attack](https://arxiv.org/abs/2511.10088v1)** | 2025-11-13 |  |
+| **[DarkFarseer: Robust Spatio-temporal Kriging under Graph Sparsity and Noise](https://arxiv.org/abs/2501.02808v2)** | 2025-11-13 | Accepted by AAAI'26 |
+| **[Interaction as Interference: A Quantum-Inspired Aggregation Approach](https://arxiv.org/abs/2511.10018v1)** | 2025-11-13 |  |
+| **[A Novel Data-Dependent Learning Paradigm for Large Hypothesis Classes](https://arxiv.org/abs/2511.09996v1)** | 2025-11-13 |  |
+| **[Difference Vector Equalization for Robust Fine-tuning of Vision-Language Models](https://arxiv.org/abs/2511.09973v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[TermGPT: Multi-Level Contrastive Fine-Tuning for Terminology Adaptation in Legal and Financial Domain](https://arxiv.org/abs/2511.09854v1)** | 2025-11-13 | 13 pages, 4 figures |
 
 ## Heterogeneous Graph Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Heterogeneous Graph Contrastive Learning for Recommendation](https://arxiv.org/pdf/2303.00995v1)** | 2023-03-03 | <details><summary>This ...</summary><p>This paper has been published as a full paper at WSDM 2023</p></details> |
-| **[Graph Learning Augmented Heterogeneous Graph Neural Network for Social Recommendation](https://arxiv.org/pdf/2109.11898v1)** | 2021-09-27 | 10 pages, 5 figures |
-| **[Heterogeneous Information Crossing on Graphs for Session-based Recommender Systems](https://arxiv.org/pdf/2210.12940v1)** | 2022-10-25 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on the Web (TWEB)</p></details> |
-| **[Heterogeneous Graph Neural Network for Recommendation](https://arxiv.org/pdf/2009.00799v1)** | 2020-09-03 |  |
-| **[RecipeRec: A Heterogeneous Graph Learning Model for Recipe Recommendation](https://arxiv.org/pdf/2205.14005v1)** | 2022-05-30 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2022</p></details> |
-| **[Tripartite Heterogeneous Graph Propagation for Large-scale Social Recommendation](https://arxiv.org/pdf/1908.02569v1)** | 2019-08-08 | <details><summary>6 pag...</summary><p>6 pages, accepted for RecSys 2019 LBR Track</p></details> |
-| **[Heterogeneous Graph Masked Contrastive Learning for Robust Recommendation](https://arxiv.org/pdf/2505.24172v1)** | 2025-06-02 | 12 pages, 7 figures |
-| **[TIMBRE: Efficient Job Recommendation On Heterogeneous Graphs For Professional Recruiters](https://arxiv.org/pdf/2411.15146v1)** | 2024-11-26 |  |
-| **[Heterogeneous Global Graph Neural Networks for Personalized Session-based Recommendation](https://arxiv.org/pdf/2107.03813v4)** | 2022-03-01 | 9 pages, 4 figures |
-| **[DisenHAN: Disentangled Heterogeneous Graph Attention Network for Recommendation](https://arxiv.org/pdf/2106.10879v1)** | 2021-06-22 | Accepted at CIKM2020 |
-| **[Enhancing Clinical Evidence Recommendation with Multi-Channel Heterogeneous Learning on Evidence Graphs](https://arxiv.org/pdf/2304.01242v1)** | 2023-04-05 |  |
-| **[RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation](https://arxiv.org/pdf/2509.02942v1)** | 2025-09-04 | RecSys 2025 |
-| **[SR-HetGNN:Session-based Recommendation with Heterogeneous Graph Neural Network](https://arxiv.org/pdf/2108.05641v3)** | 2023-10-06 |  |
-| **[API Usage Recommendation via Multi-View Heterogeneous Graph Representation Learning](https://arxiv.org/pdf/2208.01971v1)** | 2022-08-04 |  |
-| **[Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation](https://arxiv.org/pdf/2407.17234v2)** | 2024-07-30 | 14pages, 11figures |
+| **[Combining LLM Semantic Reasoning with GNN Structural Modeling for Multi-view Multi-Label Feature Selection](https://arxiv.org/abs/2511.08008v1)** | 2025-11-11 |  |
+| **[Graph Learning](https://arxiv.org/abs/2507.05636v2)** | 2025-11-07 | 185 pages |
+| **[Attention Enhanced Entity Recommendation for Intelligent Monitoring in Cloud Systems](https://arxiv.org/abs/2510.20640v1)** | 2025-10-23 |  |
+| **[From Newborn to Impact: Bias-Aware Citation Prediction](https://arxiv.org/abs/2510.19246v1)** | 2025-10-22 |  |
+| **[HERO: Heterogeneous Continual Graph Learning via Meta-Knowledge Distillation](https://arxiv.org/abs/2505.17458v2)** | 2025-10-19 | <details><summary>updat...</summary><p>updated version with new LaTeX template and minor formatting revisions, added references and experimental results</p></details> |
+| **[MIARec: Mutual-influence-aware Heterogeneous Network Embedding for Scientific Paper Recommendation](https://arxiv.org/abs/2510.12054v1)** | 2025-10-14 |  |
+| **[LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization](https://arxiv.org/abs/2505.12396v2)** | 2025-10-05 |  |
+| **[HiFIRec: Towards High-Frequency yet Low-Intention Behaviors for Multi-Behavior Recommendation](https://arxiv.org/abs/2509.25755v1)** | 2025-09-30 |  |
+| **[GESA: Graph-Enhanced Semantic Allocation for Generalized, Fair, and Explainable Candidate-Role Matching](https://arxiv.org/abs/2509.25435v1)** | 2025-09-29 |  |
+| **[A Hierarchical Structure-Enhanced Personalized Recommendation Model for Traditional Chinese Medicine Formulas Based on KG Diffusion Guidance](https://arxiv.org/abs/2509.23560v1)** | 2025-09-28 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM)</p></details> |
+| **[Knowledge Graph Tokenization for Behavior-Aware Generative Next POI Recommendation](https://arxiv.org/abs/2509.12350v1)** | 2025-09-15 |  |
+| **[Socially Aware Music Recommendation: A Multi-Modal Graph Neural Networks for Collaborative Music Consumption and Community-Based Engagement](https://arxiv.org/abs/2511.05497v1)** | 2025-09-13 |  |
+| **[RecMind: LLM-Enhanced Graph Neural Networks for Personalized Consumer Recommendations](https://arxiv.org/abs/2509.06286v1)** | 2025-09-08 |  |
+| **[RankGraph: Unified Heterogeneous Graph Learning for Cross-Domain Recommendation](https://arxiv.org/abs/2509.02942v1)** | 2025-09-03 | RecSys 2025 |
+| **[Bayesian and Multi-Objective Decision Support for Real-Time Cyber-Physical Incident Mitigation](https://arxiv.org/abs/2509.00770v1)** | 2025-08-31 |  |
 
