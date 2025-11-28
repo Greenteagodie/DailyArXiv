@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 27, 2025
+title: Latest 15 Papers - November 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Seeing without Pixels: Perception from Camera Trajectories](https://arxiv.org/abs/2511.21681v1)** | 2025-11-26 | <details><summary>Proje...</summary><p>Project website: https://sites.google.com/view/seeing-without-pixels</p></details> |
 | **[Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation](https://arxiv.org/abs/2511.21517v1)** | 2025-11-26 | <details><summary>Submi...</summary><p>Submitted to LREC 2026</p></details> |
 | **[Improved Visually Prompted Keyword Localisation in Real Low-Resource Settings](https://arxiv.org/abs/2409.06013v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted at SpeD 2025</p></details> |
 | **[Comparison of Generative Learning Methods for Turbulence Surrogates](https://arxiv.org/abs/2411.16417v3)** | 2025-11-26 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data](https://arxiv.org/abs/2511.21194v1)** | 2025-11-26 |  |
 | **[Privacy in Federated Learning with Spiking Neural Networks](https://arxiv.org/abs/2511.21181v1)** | 2025-11-26 |  |
 | **[AV-Edit: Multimodal Generative Sound Effect Editing via Audio-Visual Semantic Joint Control](https://arxiv.org/abs/2511.21146v1)** | 2025-11-26 |  |
-| **[Dynamic Stratified Contrastive Learning with Upstream Augmentation for MILP Branching](https://arxiv.org/abs/2511.21107v1)** | 2025-11-26 | 18 pages |
 
 ## Heterogeneous Graph Recommendation
 | **Title** | **Date** | **Comment** |
