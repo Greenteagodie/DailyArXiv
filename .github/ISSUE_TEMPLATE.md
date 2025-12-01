@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 30, 2025
+title: Latest 15 Papers - December 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-chain Graph Refinement and Selection for Reliable Reasoning in Large Language Models](https://arxiv.org/abs/2511.23136v1)** | 2025-11-28 |  |
+| **[Neuro-Symbolic Constrained Optimization for Cloud Application Deployment via Graph Neural Networks and Satisfiability Modulo Theory](https://arxiv.org/abs/2511.23109v1)** | 2025-11-28 |  |
+| **[Learning to Rank Critical Road Segments via Heterogeneous Graphs with OD Flow Integration](https://arxiv.org/abs/2504.19199v2)** | 2025-11-28 |  |
+| **[Big Wins, Small Net Gains: Direct and Spillover Effects of First Industry Entries in Puerto Rico](https://arxiv.org/abs/2511.19469v2)** | 2025-11-28 |  |
+| **[AutoTailor: Automatic and Efficient Adaptive Model Deployment for Diverse Edge Devices](https://arxiv.org/abs/2511.22355v1)** | 2025-11-27 |  |
+| **[IVGAE: Handling Incomplete Heterogeneous Data with a Variational Graph Autoencoder](https://arxiv.org/abs/2511.22116v1)** | 2025-11-27 |  |
 | **[Conversational no-code and multi-agentic disease module identification and drug repurposing prediction with ChatDRex](https://arxiv.org/abs/2511.21438v1)** | 2025-11-26 |  |
 | **[SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning](https://arxiv.org/abs/2511.21420v1)** | 2025-11-26 |  |
 | **[CLLMRec: LLM-powered Cognitive-Aware Concept Recommendation via Semantic Alignment and Prerequisite Knowledge Distillation](https://arxiv.org/abs/2511.17041v2)** | 2025-11-26 |  |
@@ -16,50 +22,44 @@ labels: documentation
 | **[AirFed: A Federated Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-UAV Cooperative Mobile Edge Computing](https://arxiv.org/abs/2510.23053v2)** | 2025-11-25 |  |
 | **[Pretraining Transformer-Based Models on Diffusion-Generated Synthetic Graphs for Alzheimer's Disease Prediction](https://arxiv.org/abs/2511.20704v1)** | 2025-11-24 | 14 pages. Preprint |
 | **[HeLEx: A Heterogeneous Layout Explorer for Spatial Elastic Coarse-Grained Reconfigurable Arrays](https://arxiv.org/abs/2511.19366v1)** | 2025-11-24 |  |
-| **[GraphMind: Theorem Selection and Conclusion Generation Framework with Dynamic GNN for LLM Reasoning](https://arxiv.org/abs/2511.19078v1)** | 2025-11-24 |  |
-| **[Mechanizing a Proof-Relevant Logical Relation for Timed Message-Passing Protocols](https://arxiv.org/abs/2511.19521v1)** | 2025-11-24 | 15 pages, 9 figures |
-| **[KGpipe: Generation and Evaluation of Pipelines for Data Integration into Knowledge Graphs](https://arxiv.org/abs/2511.18364v1)** | 2025-11-23 | <details><summary>15 KG...</summary><p>15 KG pipelines (9 single source, 6 multi source)</p></details> |
-| **[Towards Efficient LLM-aware Heterogeneous Graph Learning](https://arxiv.org/abs/2511.17923v1)** | 2025-11-22 |  |
-| **[Big Wins, Small Net Gains: Direct and Spillover Effects of First Industry Entries in Puerto Rico](https://arxiv.org/abs/2511.19469v1)** | 2025-11-22 |  |
-| **[A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2511.17208v1)** | 2025-11-21 | Work in progress |
 
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do LLM-judges Align with Human Relevance in Cranfield-style Recommender Evaluation?](https://arxiv.org/abs/2511.23312v1)** | 2025-11-28 |  |
+| **[Masked Diffusion for Generative Recommendation](https://arxiv.org/abs/2511.23021v1)** | 2025-11-28 | 25 pages |
+| **[FedAU2: Attribute Unlearning for User-Level Federated Recommender Systems with Adaptive and Robust Adversarial Training](https://arxiv.org/abs/2511.22872v1)** | 2025-11-28 |  |
+| **[CoFiRec: Coarse-to-Fine Tokenization for Generative Recommendation](https://arxiv.org/abs/2511.22707v1)** | 2025-11-27 |  |
+| **[Privacy-Utility-Bias Trade-offs for Privacy-Preserving Recommender Systems](https://arxiv.org/abs/2511.22515v1)** | 2025-11-27 |  |
+| **[RecToM: A Benchmark for Evaluating Machine Theory of Mind in LLM-based Conversational Recommender Systems](https://arxiv.org/abs/2511.22275v1)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[From Raw Features to Effective Embeddings: A Three-Stage Approach for Multimodal Recipe Recommendation](https://arxiv.org/abs/2511.19176v2)** | 2025-11-27 |  |
+| **[Benchmarking In-context Experiential Learning Through Repeated Product Recommendations](https://arxiv.org/abs/2511.22130v1)** | 2025-11-27 |  |
+| **[Selecting User Histories to Generate LLM Users for Cold-Start Item Recommendation](https://arxiv.org/abs/2511.21989v1)** | 2025-11-27 | 12 pages, 15 figures |
 | **[Co-NAML-LSTUR: A Combined Model with Attentive Multi-View Learning and Long- and Short-term User Representations for News Recommendation](https://arxiv.org/abs/2507.20210v3)** | 2025-11-26 | <details><summary>The 1...</summary><p>The 18th International Conference on Multi-disciplinary Trends in Artificial Intelligence (MIWAI 2025)</p></details> |
 | **[CLLMRec: LLM-powered Cognitive-Aware Concept Recommendation via Semantic Alignment and Prerequisite Knowledge Distillation](https://arxiv.org/abs/2511.17041v2)** | 2025-11-26 |  |
 | **[Wavelet Enhanced Adaptive Frequency Filter for Sequential Recommendation](https://arxiv.org/abs/2511.07028v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Generative AI Compensates for Age-Related Cognitive Decline in Decision Making: Preference-Aligned Recommendations Reduce Choice Difficulty](https://arxiv.org/abs/2511.21164v1)** | 2025-11-26 |  |
 | **[LISRec: Modeling User Preferences with Learned Item Shortcuts for Sequential Recommendation](https://arxiv.org/abs/2505.22130v2)** | 2025-11-26 |  |
 | **[A Probabilistic Framework for Temporal Distribution Generalization in Industry-Scale Recommender Systems](https://arxiv.org/abs/2511.21032v1)** | 2025-11-26 |  |
-| **[Efficient Model-Agnostic Continual Learning for Next POI Recommendation](https://arxiv.org/abs/2511.08941v2)** | 2025-11-26 | Accepted by ICDE2026 |
-| **[Personalized Image Generation for Recommendations Beyond Catalogs](https://arxiv.org/abs/2502.18477v3)** | 2025-11-25 |  |
-| **[E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems](https://arxiv.org/abs/2511.20564v1)** | 2025-11-25 |  |
-| **[Lower Bias, Higher Welfare: How Creator Competition Reshapes Bias-Variance Tradeoff in Recommendation Platforms?](https://arxiv.org/abs/2511.20289v1)** | 2025-11-25 | KDD 2026 |
-| **[Enhancing Sequential Recommendation with World Knowledge from Large Language Models](https://arxiv.org/abs/2511.20177v1)** | 2025-11-25 |  |
-| **[Towards A Tri-View Diffusion Framework for Recommendation](https://arxiv.org/abs/2511.20122v1)** | 2025-11-25 | <details><summary>13 pa...</summary><p>13 pages, 11 figures, accepted by KDD2026 (First Cycle)</p></details> |
-| **[Modeling Item-Level Dynamic Variability with Residual Diffusion for Bundle Recommendation](https://arxiv.org/abs/2507.03280v4)** | 2025-11-25 | <details><summary>Exten...</summary><p>Extended version for AAAI'26</p></details> |
-| **[The 2nd Workshop on Human-Centered Recommender Systems](https://arxiv.org/abs/2511.19979v1)** | 2025-11-25 |  |
-| **[ProactivePIM: Accelerating Weight-Sharing Embedding Layer with PIM for Scalable Recommendation System](https://arxiv.org/abs/2402.04032v6)** | 2025-11-25 | 14 pages, 13 figures |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Seeing without Pixels: Perception from Camera Trajectories](https://arxiv.org/abs/2511.21681v1)** | 2025-11-26 | <details><summary>Proje...</summary><p>Project website: https://sites.google.com/view/seeing-without-pixels</p></details> |
-| **[Voice, Bias, and Coreference: An Interpretability Study of Gender in Speech Translation](https://arxiv.org/abs/2511.21517v1)** | 2025-11-26 | <details><summary>Submi...</summary><p>Submitted to LREC 2026</p></details> |
-| **[Improved Visually Prompted Keyword Localisation in Real Low-Resource Settings](https://arxiv.org/abs/2409.06013v2)** | 2025-11-26 | <details><summary>Accep...</summary><p>Accepted at SpeD 2025</p></details> |
-| **[Comparison of Generative Learning Methods for Turbulence Surrogates](https://arxiv.org/abs/2411.16417v3)** | 2025-11-26 |  |
-| **[Probabilistic Robustness for Free? Revisiting Training via a Benchmark](https://arxiv.org/abs/2511.01724v2)** | 2025-11-26 |  |
-| **[Disentangled Geometric Alignment with Adaptive Contrastive Perturbation for Reliable Domain Transfer](https://arxiv.org/abs/2505.15241v2)** | 2025-11-26 |  |
-| **[The More, the Merrier: Contrastive Fusion for Higher-Order Multimodal Alignment](https://arxiv.org/abs/2511.21331v1)** | 2025-11-26 |  |
-| **[SONAR: Spectral-Contrastive Audio Residuals for Generalizable Deepfake Detection](https://arxiv.org/abs/2511.21325v1)** | 2025-11-26 |  |
-| **[Without Paired Labeled Data: End-to-End Self-Supervised Learning for Drone-view Geo-Localization](https://arxiv.org/abs/2502.11381v5)** | 2025-11-26 |  |
-| **[From Limited Labels to Open Domains:An Efficient Learning Method for Drone-view Geo-Localization](https://arxiv.org/abs/2503.07520v3)** | 2025-11-26 |  |
-| **[SARVLM: A Vision Language Foundation Model for Semantic Understanding and Target Recognition in SAR Imagery](https://arxiv.org/abs/2510.22665v2)** | 2025-11-26 | 11 pages, 9 figures |
-| **[MoRE: Batch-Robust Multi-Omics Representations from Frozen Pre-trained Transformers](https://arxiv.org/abs/2511.20382v2)** | 2025-11-26 |  |
-| **[BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data](https://arxiv.org/abs/2511.21194v1)** | 2025-11-26 |  |
-| **[Privacy in Federated Learning with Spiking Neural Networks](https://arxiv.org/abs/2511.21181v1)** | 2025-11-26 |  |
-| **[AV-Edit: Multimodal Generative Sound Effect Editing via Audio-Visual Semantic Joint Control](https://arxiv.org/abs/2511.21146v1)** | 2025-11-26 |  |
+| **[Provable Benefits of Sinusoidal Activation for Modular Addition](https://arxiv.org/abs/2511.23443v1)** | 2025-11-28 | 60 pages, 15 figures |
+| **[MANTA: Physics-Informed Generalized Underwater Object Tracking](https://arxiv.org/abs/2511.23405v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted to the IEEE/CVF WACV 2026</p></details> |
+| **[VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction](https://arxiv.org/abs/2511.23386v1)** | 2025-11-28 | 19 pages, 10 figures |
+| **[Simultaneous Image Quality Improvement and Artefacts Correction in Accelerated MRI](https://arxiv.org/abs/2511.23274v1)** | 2025-11-28 |  |
+| **[Adapting Like Humans: A Metacognitive Agent with Test-time Reasoning](https://arxiv.org/abs/2511.23262v1)** | 2025-11-28 |  |
+| **[Learning Contrastive Feature Representations for Facial Action Unit Detection](https://arxiv.org/abs/2402.06165v9)** | 2025-11-28 | <details><summary>This ...</summary><p>This paper has been accepted by Pattern Recognition</p></details> |
+| **[Analyzing Image Beyond Visual Aspect: Image Emotion Classification via Multiple-Affective Captioning](https://arxiv.org/abs/2511.23115v1)** | 2025-11-28 |  |
+| **[A transfer learning approach for automatic conflicts detection in software requirement sentence pairs based on dual encoders](https://arxiv.org/abs/2511.23007v1)** | 2025-11-28 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 3 tables</p></details> |
+| **[DiffFuSR: Super-Resolution of all Sentinel-2 Multispectral Bands using Diffusion Models](https://arxiv.org/abs/2506.11764v2)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted for Publication at IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING (TGRS)</p></details> |
+| **[Contrastive Heliophysical Image Pretraining for Solar Dynamics Observatory Records](https://arxiv.org/abs/2511.22958v1)** | 2025-11-28 |  |
+| **[Bridging Modalities via Progressive Re-alignment for Multimodal Test-Time Adaptation](https://arxiv.org/abs/2511.22862v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
+| **[MARVO: Marine-Adaptive Radiance-aware Visual Odometry](https://arxiv.org/abs/2511.22860v1)** | 2025-11-28 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables, Submitted to CVPR2026</p></details> |
+| **[DDAE++: Enhancing Diffusion Models Towards Unified Generative and Discriminative Learning](https://arxiv.org/abs/2505.10999v2)** | 2025-11-28 | <details><summary>Updat...</summary><p>Updated version. Code available at https://github.com/FutureXiang/ddae_plus_plus</p></details> |
+| **[EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models](https://arxiv.org/abs/2509.26087v3)** | 2025-11-27 |  |
+| **[HarmoCLIP: Harmonizing Global and Regional Representations in Contrastive Vision-Language Models](https://arxiv.org/abs/2511.22594v1)** | 2025-11-27 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 6 tables</p></details> |
 
 ## Heterogeneous Graph Recommendation
 | **Title** | **Date** | **Comment** |
