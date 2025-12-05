@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 03, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Continuous Neurocognitive Monitoring: Integrating Speech AI with Relational Graph Transformers for Rare Neurological Diseases](https://arxiv.org/abs/2512.04938v1)** | 2025-12-04 |  |
+| **[Contract-Driven QoE Auditing for Speech and Singing Services: From MOS Regression to Service Graphs](https://arxiv.org/abs/2512.04827v1)** | 2025-12-04 | 11 pages, 3 figures |
+| **[Energy-Aware Lane Planning for Connected Electric Vehicles in Urban Traffic: Design and Vehicle-in-the-Loop Validation](https://arxiv.org/abs/2503.23228v3)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted at 2025 IEEE Conference on Decision and Control (CDC25')</p></details> |
+| **[GAMA: A Neural Neighborhood Search Method with Graph-aware Multi-modal Attention for Vehicle Routing Problem](https://arxiv.org/abs/2511.07850v2)** | 2025-12-03 |  |
 | **[Multi-View Graph Learning with Graph-Tuple](https://arxiv.org/abs/2510.10341v4)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted as a poster at the TAG-DS 2025 Workshop (Topology, Algebra, and Geometry in Data Science). OpenReview: https://openreview.net/forum?id=s4ezAuj5xM</p></details> |
 | **[ST-Booster: An Iterative SpatioTemporal Perception Booster for Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/abs/2504.09843v2)** | 2025-12-02 | 11 pages, 7 figures |
 | **[scCluBench: Comprehensive Benchmarking of Clustering Algorithms for Single-Cell RNA Sequencing](https://arxiv.org/abs/2512.02471v1)** | 2025-12-02 |  |
@@ -18,14 +22,16 @@ labels: documentation
 | **[Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://arxiv.org/abs/2512.01372v1)** | 2025-12-01 |  |
 | **[Inferring Dynamic Hidden Graph Structure in Heterogeneous Correlated Time Series](https://arxiv.org/abs/2512.01301v1)** | 2025-12-01 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, Presented at BayLearn 2025</p></details> |
 | **[Joint Partitioning and Placement of Foundation Models for Real-Time Edge AI](https://arxiv.org/abs/2512.01039v1)** | 2025-11-30 |  |
-| **[Quantum-Inspired Spectral Geometry for Neural Operator Equivalence and Structured Pruning](https://arxiv.org/abs/2512.00880v1)** | 2025-11-30 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, preliminary version; concepts and simulation experiments only</p></details> |
-| **[Prediction-space knowledge markets for communication-efficient federated learning on multimedia tasks](https://arxiv.org/abs/2512.00841v1)** | 2025-11-30 | 13 pages, 3 figures |
-| **[FiCoTS: Fine-to-Coarse LLM-Enhanced Hierarchical Cross-Modality Interaction for Time Series Forecasting](https://arxiv.org/abs/2512.00293v1)** | 2025-11-29 |  |
-| **[Combining Textual and Structural Information for Premise Selection in Lean](https://arxiv.org/abs/2510.23637v2)** | 2025-11-28 |  |
 
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
+| **[UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems](https://arxiv.org/abs/2512.04588v1)** | 2025-12-04 |  |
+| **[Dataset creation for supervised deep learning-based analysis of microscopic images - review of important considerations and recommendations](https://arxiv.org/abs/2512.04564v1)** | 2025-12-04 |  |
+| **[A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions](https://arxiv.org/abs/2412.12836v2)** | 2025-12-03 | Accepted by TKDE |
+| **[LLM as Explainable Re-Ranker for Recommendation System](https://arxiv.org/abs/2512.03439v1)** | 2025-12-03 |  |
+| **[Scaling Multimodal Search and Recommendation with Small Language Models via Upside-Down Reinforcement Learning](https://arxiv.org/abs/2502.09854v2)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted by ICDM 2025 MMSR</p></details> |
 | **[Data-Semantics-Aware Recommendation of Diverse Pivot Tables](https://arxiv.org/abs/2507.06171v2)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted to SIGMOD 2026</p></details> |
 | **[Membership Inference Attack against Large Language Model-based Recommendation Systems: A New Distillation-based Paradigm](https://arxiv.org/abs/2511.14763v2)** | 2025-12-02 |  |
 | **[AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations](https://arxiv.org/abs/2512.02502v1)** | 2025-12-02 |  |
@@ -35,31 +41,25 @@ labels: documentation
 | **[HiFIRec Towards High-Frequency yet Low-Intention Behaviors for Multi-Behavior Recommendation](https://arxiv.org/abs/2509.25755v2)** | 2025-12-01 |  |
 | **[A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation](https://arxiv.org/abs/2504.13632v2)** | 2025-12-01 |  |
 | **[Faster and Memory-Efficient Training of Sequential Recommendation Models for Large Catalogs](https://arxiv.org/abs/2509.09682v4)** | 2025-12-01 |  |
-| **[Generative AI Compensates for Age-Related Cognitive Decline in Decision Making: Preference-Aligned Recommendations Reduce Choice Difficulty](https://arxiv.org/abs/2511.21164v2)** | 2025-12-01 |  |
-| **[Structured Spectral Reasoning for Frequency-Adaptive Multimodal Recommendation](https://arxiv.org/abs/2512.01372v1)** | 2025-12-01 |  |
-| **[Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning](https://arxiv.org/abs/2510.20150v3)** | 2025-12-01 |  |
-| **[Causal Feature Selection Method for Contextual Multi-Armed Bandits in Recommender System](https://arxiv.org/abs/2409.13888v2)** | 2025-11-30 |  |
-| **[ProEx: A Unified Framework Leveraging Large Language Model with Profile Extrapolation for Recommendation](https://arxiv.org/abs/2512.00679v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 (First Cycle)</p></details> |
-| **[DLRREC: Denoising Latent Representations via Multi-Modal Knowledge Fusion in Deep Recommender Systems](https://arxiv.org/abs/2512.00596v1)** | 2025-11-29 |  |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Layout Anything: One Transformer for Universal Room Layout Estimation](https://arxiv.org/abs/2512.02952v1)** | 2025-12-02 | <details><summary>Publi...</summary><p>Published at WACV 2026</p></details> |
-| **[Efficient Policy Optimization in Robust Constrained MDPs with Iteration Complexity Guarantees](https://arxiv.org/abs/2505.19238v2)** | 2025-12-02 |  |
-| **[Revisiting Theory of Contrastive Learning for Domain Generalization](https://arxiv.org/abs/2512.02831v1)** | 2025-12-02 | 19 pages |
-| **[Offline Goal-conditioned Reinforcement Learning with Quasimetric Representations](https://arxiv.org/abs/2509.20478v2)** | 2025-12-02 |  |
-| **[CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios](https://arxiv.org/abs/2404.15272v4)** | 2025-12-02 |  |
-| **[SkyMoE: A Vision-Language Foundation Model for Enhancing Geospatial Interpretation with Mixture of Experts](https://arxiv.org/abs/2512.02517v1)** | 2025-12-02 |  |
-| **[Decentralized Fairness Aware Multi Task Federated Learning for VR Network](https://arxiv.org/abs/2512.02513v1)** | 2025-12-02 | <details><summary>accep...</summary><p>accepted for IEEE Globecom Workshop 2025</p></details> |
-| **[DiCaP: Distribution-Calibrated Pseudo-labeling for Semi-Supervised Multi-Label Learning](https://arxiv.org/abs/2511.20225v2)** | 2025-12-02 | Accepted by AAAI-26 |
-| **[R3DM: Enabling Role Discovery and Diversity Through Dynamics Models in Multi-agent Reinforcement Learning](https://arxiv.org/abs/2505.24265v3)** | 2025-12-02 | <details><summary>21 pa...</summary><p>21 pages, To appear in the International Conference of Machine Learning (ICML 2025)</p></details> |
-| **[Boosting Medical Vision-Language Pretraining via Momentum Self-Distillation under Limited Computing Resources](https://arxiv.org/abs/2512.02438v1)** | 2025-12-02 | WACV 2026 |
-| **[From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning](https://arxiv.org/abs/2512.01970v2)** | 2025-12-02 | <details><summary>Work ...</summary><p>Work in Progress. Code and data will be available at https://github.com/sitaocheng/from_atomic_to_composite</p></details> |
-| **[From Detection to Association: Learning Discriminative Object Embeddings for Multi-Object Tracking](https://arxiv.org/abs/2512.02392v1)** | 2025-12-02 |  |
-| **[Tackling Tuberculosis: A Comparative Dive into Machine Learning for Tuberculosis Detection](https://arxiv.org/abs/2512.02364v1)** | 2025-12-02 |  |
-| **[Layered Division and Global Allocation for Community Detection in Multilayer Network](https://arxiv.org/abs/2512.02334v1)** | 2025-12-02 |  |
-| **[Unlocking the Power of Boltzmann Machines by Parallelizable Sampler and Efficient Temperature Estimation](https://arxiv.org/abs/2512.02323v1)** | 2025-12-02 | 16 pages, 14 figures |
+| **[CoCoIns: Consistent Subject Generation via Contrastive Instantiated Concepts](https://arxiv.org/abs/2503.24387v2)** | 2025-12-04 | <details><summary>TMLR ...</summary><p>TMLR 2025. Project page: https://contrastive-concept-instantiation.github.io</p></details> |
+| **[Beyond I-Con: Exploring New Dimension of Distance Measures in Representation Learning](https://arxiv.org/abs/2509.04734v2)** | 2025-12-04 |  |
+| **[Factuality and Transparency Are All RAG Needs! Self-Explaining Contrastive Evidence Re-ranking](https://arxiv.org/abs/2512.05012v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This work was presented as a poster at the Applied Social Media Lab during the 2025 Synthesizer & Open Showcase at the Berkman Klein Center for Internet & Society at Harvard University</p></details> |
+| **[Experience Replay with Random Reshuffling](https://arxiv.org/abs/2503.02269v2)** | 2025-12-04 |  |
+| **[Learning Causality for Longitudinal Data](https://arxiv.org/abs/2512.04980v1)** | 2025-12-04 | <details><summary>PhD t...</summary><p>PhD thesis manuscript</p></details> |
+| **[Stable Single-Pixel Contrastive Learning for Semantic and Geometric Tasks](https://arxiv.org/abs/2512.04970v1)** | 2025-12-04 | <details><summary>UniRe...</summary><p>UniReps Workshop 2025, 12 pages, 8 figures</p></details> |
+| **[Balanced Few-Shot Episodic Learning for Accurate Retinal Disease Diagnosis](https://arxiv.org/abs/2512.04967v1)** | 2025-12-04 |  |
+| **[Environment-Aware Channel Inference via Cross-Modal Flow: From Multimodal Sensing to Wireless Channels](https://arxiv.org/abs/2512.04966v1)** | 2025-12-04 | <details><summary>13 pa...</summary><p>13 pages, 13 figures, 40 references, submitted to IEEE for possible publication</p></details> |
+| **[Unsupervised Time Series Anomaly Prediction with Importance-based Generative Contrastive Learning](https://arxiv.org/abs/2410.16888v3)** | 2025-12-04 | ACM SIGKDD 2025 |
+| **[Language Models as Semantic Teachers: Post-Training Alignment for Medical Audio Understanding](https://arxiv.org/abs/2512.04847v1)** | 2025-12-04 |  |
+| **[Dual-Objective Reinforcement Learning with Novel Hamilton-Jacobi-Bellman Formulations](https://arxiv.org/abs/2506.16016v2)** | 2025-12-04 |  |
+| **[Joint Discriminative-Generative Modeling via Dual Adversarial Training](https://arxiv.org/abs/2510.13872v2)** | 2025-12-04 | <details><summary>V2: I...</summary><p>V2: ImageNet 256x256 with ConvNeXt-Large (FID 3.29), formal theoretical analysis, L_inf training, computational analysis, expanded related work/baselines. Revised presentation. Code: https://github.com/xuwangyin/DAT</p></details> |
+| **[TTRV: Test-Time Reinforcement Learning for Vision Language Models](https://arxiv.org/abs/2510.06783v2)** | 2025-12-04 |  |
+| **[ImageNot: A contrast with ImageNet preserves model rankings](https://arxiv.org/abs/2404.02112v2)** | 2025-12-04 |  |
+| **[WeatherPrompt: Multi-modality Representation Learning for All-Weather Drone Visual Geo-Localization](https://arxiv.org/abs/2508.09560v3)** | 2025-12-04 |  |
 
 ## Heterogeneous Graph Recommendation
 | **Title** | **Date** | **Comment** |
