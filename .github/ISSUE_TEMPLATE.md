@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -28,7 +28,7 @@ labels: documentation
 | --- | --- | --- |
 | **[Multi-LLM Collaboration for Medication Recommendation](https://arxiv.org/abs/2512.05066v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 1 table</p></details> |
 | **[UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems](https://arxiv.org/abs/2512.04588v1)** | 2025-12-04 |  |
-| **[Dataset creation for supervised deep learning-based analysis of microscopic images - review of important considerations and recommendations](https://arxiv.org/abs/2512.04564v1)** | 2025-12-04 |  |
+| **[Dataset creation for supervised deep learning-based analysis of microscopic images -- review of important considerations and recommendations](https://arxiv.org/abs/2512.04564v1)** | 2025-12-04 |  |
 | **[A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions](https://arxiv.org/abs/2412.12836v2)** | 2025-12-03 | Accepted by TKDE |
 | **[LLM as Explainable Re-Ranker for Recommendation System](https://arxiv.org/abs/2512.03439v1)** | 2025-12-03 |  |
 | **[Scaling Multimodal Search and Recommendation with Small Language Models via Upside-Down Reinforcement Learning](https://arxiv.org/abs/2502.09854v2)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted by ICDM 2025 MMSR</p></details> |
