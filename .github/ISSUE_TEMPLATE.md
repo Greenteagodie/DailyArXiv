@@ -61,3 +61,22 @@ labels: documentation
 | **[From Limited Labels to Open Domains:An Efficient Learning Method for Drone-view Geo-Localization](https://arxiv.org/abs/2503.07520v4)** | 2026-01-29 |  |
 | **[Transferable Graph Condensation from the Causal Perspective](https://arxiv.org/abs/2601.21309v1)** | 2026-01-29 |  |
 
+## Heterophily
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Aligning the Spectrum: Hybrid Graph Pre-training and Prompt Tuning across Homophily and Heterophily](https://arxiv.org/abs/2508.11328v3)** | 2026-01-12 | Under Review |
+| **[Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion](https://arxiv.org/abs/2501.14399v2)** | 2025-10-02 | <details><summary>Fixed...</summary><p>Fixed and extended results</p></details> |
+| **[A Generative Model for Controllable Feature Heterophily in Graphs](https://arxiv.org/abs/2509.23230v1)** | 2025-09-27 |  |
+| **[Exploring Heterophily in Graph-level Tasks](https://arxiv.org/abs/2509.18893v1)** | 2025-09-23 | <details><summary>Accec...</summary><p>Accectped by NeurIPS 2025 Workshop, New Perspectives in Advancing Graph Machine Learning (NPGML)</p></details> |
+| **[DiRW: Path-Aware Digraph Learning for Heterophily](https://arxiv.org/abs/2410.10320v3)** | 2025-09-19 |  |
+| **[Adaptive Heterogeneous Graph Neural Networks: Bridging Heterophily and Heterogeneity](https://arxiv.org/abs/2508.06034v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted tp CIKM 2025</p></details> |
+| **[Heterophily-Aware Fair Recommendation using Graph Convolutional Networks](https://arxiv.org/abs/2402.03365v4)** | 2025-08-05 |  |
+| **[Disentangling Homophily and Heterophily in Multimodal Graph Clustering](https://arxiv.org/abs/2507.15253v1)** | 2025-07-21 | <details><summary>Appea...</summary><p>Appear in ACM Multimedia 2025</p></details> |
+| **[Enhancing Homophily-Heterophily Separation: Relation-Aware Learning in Heterogeneous Graphs](https://arxiv.org/abs/2506.20980v1)** | 2025-06-26 | accepted by KDD 2025 |
+| **[Oversmoothing, Oversquashing, Heterophily, Long-Range, and more: Demystifying Common Beliefs in Graph Machine Learning](https://arxiv.org/abs/2505.15547v2)** | 2025-06-14 |  |
+| **[When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark](https://arxiv.org/abs/2407.10916v2)** | 2025-06-03 | <details><summary>This ...</summary><p>This work has been accepted to the KDD 2025 Datasets and Benchmarks Track</p></details> |
+| **[Boosting Bot Detection via Heterophily-Aware Representation Learning and Prototype-Guided Cluster Discovery](https://arxiv.org/abs/2506.00989v1)** | 2025-06-01 | KDD 2025 |
+| **[Heterophily-informed Message Passing](https://arxiv.org/abs/2504.19785v1)** | 2025-04-28 | <details><summary>Appea...</summary><p>Appearing in Transactions on Machine Learning Research (TMLR) 2025</p></details> |
+| **[HeRB: Heterophily-Resolved Structure Balancer for Graph Neural Networks](https://arxiv.org/abs/2504.17276v1)** | 2025-04-24 |  |
+| **[H$^3$GNNs: Harmonizing Heterophily and Homophily in GNNs via Joint Structural Node Encoding and Self-Supervised Learning](https://arxiv.org/abs/2504.11699v1)** | 2025-04-16 |  |
+
