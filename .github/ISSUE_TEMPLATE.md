@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 08, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,12 @@ labels: documentation
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Efficiency of Sequentially Aware Recommender Systems: Cotten4Rec](https://arxiv.org/abs/2602.06935v1)** | 2026-02-06 |  |
+| **[LLM-Enhanced Reinforcement Learning for Long-Term User Satisfaction in Interactive Recommendation](https://arxiv.org/abs/2601.19585v2)** | 2026-02-06 |  |
+| **[TokenMixer-Large: Scaling Up Large Ranking Models in Industrial Recommenders](https://arxiv.org/abs/2602.06563v1)** | 2026-02-06 |  |
+| **[VENOMREC: Cross-Modal Interactive Poisoning for Targeted Promotion in Multimodal LLM Recommender Systems](https://arxiv.org/abs/2602.06409v1)** | 2026-02-06 |  |
+| **[RecoWorld: Building Simulated Environments for Agentic Recommender Systems](https://arxiv.org/abs/2509.10397v2)** | 2026-02-06 | HCRS @ WWW 2026 |
+| **[An item is worth one token in Multimodal Large Language Models-based Sequential Recommendation](https://arxiv.org/abs/2511.05885v3)** | 2026-02-05 |  |
 | **[AgenticTagger: Structured Item Representation for Recommendation with LLM Agents](https://arxiv.org/abs/2602.05945v1)** | 2026-02-05 |  |
 | **[CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs](https://arxiv.org/abs/2602.05861v1)** | 2026-02-05 |  |
 | **[GLASS: A Generative Recommender for Long-sequence Modeling via SID-Tier and Semantic Search](https://arxiv.org/abs/2602.05663v1)** | 2026-02-05 | 10 pages,3 figures |
@@ -35,16 +41,15 @@ labels: documentation
 | **[Zenith: Scaling up Ranking Models for Billion-scale Livestreaming Recommendation](https://arxiv.org/abs/2601.21285v3)** | 2026-02-05 | 10 pages |
 | **[Quantile-Physics Hybrid Framework for Safe-Speed Recommendation under Diverse Weather Conditions Leveraging Connected Vehicle and Road Weather Information Systems Data](https://arxiv.org/abs/2602.05053v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This work was presented as a poster at the 2026 Transportation Research Board (TRB) Annual Meeting</p></details> |
 | **[VK-LSVD: A Large-Scale Industrial Dataset for Short-Video Recommendation](https://arxiv.org/abs/2602.04567v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to The ACM Web Conference 2026 (WWW '26). Preprint of conference paper. 7 pages, 2 (7) figures, 4 tables. Dataset available at: https://huggingface.co/datasets/deepvk/VK-LSVD</p></details> |
-| **[DOS: Dual-Flow Orthogonal Semantic IDs for Recommendation in Meituan](https://arxiv.org/abs/2602.04460v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted by WWW2026 (short paper)</p></details> |
-| **[A Bandit-Based Approach to Educational Recommender Systems: Contextual Thompson Sampling for Learner Skill Gain Optimization](https://arxiv.org/abs/2602.04347v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted for publication in INFORMS Transactions on Education</p></details> |
-| **[Bringing Reasoning to Generative Recommendation Through the Lens of Cascaded Ranking](https://arxiv.org/abs/2602.03692v2)** | 2026-02-04 | Accepted by WWW2026 |
-| **[MiniRec: Data-Efficient Reinforcement Learning for LLM-based Recommendation](https://arxiv.org/abs/2602.04278v1)** | 2026-02-04 |  |
-| **[SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation](https://arxiv.org/abs/2602.03324v2)** | 2026-02-04 |  |
-| **[Scalable Dynamic Embedding Size Search for Streaming Recommendation](https://arxiv.org/abs/2407.15411v4)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to CIKM 2024 Code is available at https://github.com/qykcq/Scalable-Dynamic-Embedding-Size-Search-for-Streaming-Recommendation</p></details> |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OpenDeception: Learning Deception and Trust in Human-AI Interaction via Multi-Agent Simulation](https://arxiv.org/abs/2504.13707v3)** | 2026-02-06 |  |
+| **[Self-Supervised Video Representation Learning in a Heuristic Decoupled Perspective](https://arxiv.org/abs/2407.14069v2)** | 2026-02-06 |  |
+| **[MuCo: Multi-turn Contrastive Learning for Multimodal Embedding Model](https://arxiv.org/abs/2602.06393v1)** | 2026-02-06 | 22 pages |
+| **[Learning Metal Microstructural Heterogeneity through Spatial Mapping of Diffraction Latent Space Features](https://arxiv.org/abs/2501.18064v2)** | 2026-02-06 |  |
+| **[Prenatal Stress Detection from Electrocardiography Using Self-Supervised Deep Learning: Development and External Validation](https://arxiv.org/abs/2602.03886v2)** | 2026-02-06 | 22 pages, 5 figures |
 | **[OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention](https://arxiv.org/abs/2602.05847v1)** | 2026-02-05 | 19 pages, 12 figures |
 | **[Disc-Centric Contrastive Learning for Lumbar Spine Severity Grading](https://arxiv.org/abs/2602.05738v1)** | 2026-02-05 |  |
 | **[Accelerating Benchmarking of Functional Connectivity Modeling via Structure-aware Core-set Selection](https://arxiv.org/abs/2602.05667v1)** | 2026-02-05 | <details><summary>33 pa...</summary><p>33 pages, 8 figures, ICLR conference paper</p></details> |
@@ -55,11 +60,6 @@ labels: documentation
 | **[VMF-GOS: Geometry-guided virtual Outlier Synthesis for Long-Tailed OOD Detection](https://arxiv.org/abs/2602.05415v1)** | 2026-02-05 |  |
 | **[Quantifying the Knowledge Proximity Between Academic and Industry Research: An Entity and Semantic Perspective](https://arxiv.org/abs/2602.05211v1)** | 2026-02-05 |  |
 | **[Feedback Control for Multi-Objective Graph Self-Supervision](https://arxiv.org/abs/2602.05036v1)** | 2026-02-04 |  |
-| **[Contrastive Continual Learning for Model Adaptability in Internet of Things](https://arxiv.org/abs/2602.04881v1)** | 2026-02-04 |  |
-| **[TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance](https://arxiv.org/abs/2601.20239v2)** | 2026-02-04 |  |
-| **[Fine-tuning Pre-trained Vision-Language Models in a Human-Annotation-Free Manner](https://arxiv.org/abs/2602.04337v1)** | 2026-02-04 |  |
-| **[Training A Foundation Model to Represent Graphs as Vectors](https://arxiv.org/abs/2602.04244v1)** | 2026-02-04 |  |
-| **[Following the TRAIL: Predicting and Explaining Tomorrow's Hits with a Fine-Tuned LLM](https://arxiv.org/abs/2602.04225v1)** | 2026-02-04 |  |
 
 ## Heterophily
 | **Title** | **Date** | **Comment** |
