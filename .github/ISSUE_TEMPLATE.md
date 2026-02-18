@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,12 @@ labels: documentation
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Recommender Systems Teach Themselves? A Recursive Self-Improving Framework with Fidelity Control](https://arxiv.org/abs/2602.15659v1)** | 2026-02-17 |  |
+| **[Sparse Autoencoders for Sequential Recommendation Models: Interpretation and Flexible Control](https://arxiv.org/abs/2507.12202v2)** | 2026-02-17 |  |
+| **[Riding the Carousel: The First Extensive Eye Tracking Analysis of Browsing Behavior in Carousel Recommenders](https://arxiv.org/abs/2507.10135v2)** | 2026-02-17 | <details><summary>Autho...</summary><p>Author Version of Accepted IUI '26 Conference Paper</p></details> |
+| **[Eco-Amazon: Enriching E-commerce Datasets with Product Carbon Footprint for Sustainable Recommendations](https://arxiv.org/abs/2602.15508v1)** | 2026-02-17 |  |
+| **[Binge Watch: Reproducible Multimodal Benchmarks Datasets for Large-Scale Movie Recommendation on MovieLens-10M and 20M](https://arxiv.org/abs/2602.15505v1)** | 2026-02-17 |  |
+| **[Semantics-Aware Denoising: A PLM-Guided Sample Reweighting Strategy for Robust Recommendation](https://arxiv.org/abs/2602.15359v1)** | 2026-02-17 |  |
 | **[Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation](https://arxiv.org/abs/2602.15005v1)** | 2026-02-16 |  |
 | **[Adaptive Autoguidance for Item-Side Fairness in Diffusion Recommender Systems](https://arxiv.org/abs/2602.14706v1)** | 2026-02-16 |  |
 | **[Enhancing Long-Term Welfare in Recommender Systems: An Information Revelation Approach](https://arxiv.org/abs/2510.10511v2)** | 2026-02-16 |  |
@@ -35,16 +41,11 @@ labels: documentation
 | **[DAIAN: Deep Adaptive Intent-Aware Network for CTR Prediction in Trigger-Induced Recommendation](https://arxiv.org/abs/2602.13971v1)** | 2026-02-15 |  |
 | **[DMESR: Dual-view MLLM-based Enhancing Framework for Multimodal Sequential Recommendation](https://arxiv.org/abs/2602.13715v1)** | 2026-02-14 | 9 pages, 4 figures |
 | **[GEMs: Breaking the Long-Sequence Barrier in Generative Recommendation with a Multi-Stream Decoder](https://arxiv.org/abs/2602.13631v1)** | 2026-02-14 |  |
-| **[Benchmark Leakage Trap: Can We Trust LLM-based Recommendation?](https://arxiv.org/abs/2602.13626v1)** | 2026-02-14 |  |
-| **[Climber-Pilot: A Non-Myopic Generative Recommendation Model Towards Better Instruction-Following](https://arxiv.org/abs/2602.13581v1)** | 2026-02-14 |  |
-| **[Unleash the Potential of Long Semantic IDs for Generative Recommendation](https://arxiv.org/abs/2602.13573v1)** | 2026-02-14 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, conference</p></details> |
-| **[On the Mechanisms of Collaborative Learning in VAE Recommenders](https://arxiv.org/abs/2511.06781v2)** | 2026-02-14 |  |
-| **[Rank-GRPO: Training LLM-based Conversational Recommender Systems with Reinforcement Learning](https://arxiv.org/abs/2510.20150v5)** | 2026-02-13 |  |
-| **[Kunlun: Establishing Scaling Laws for Massive-Scale Recommendation Systems through Unified Architecture Design](https://arxiv.org/abs/2602.10016v2)** | 2026-02-13 | 10 pages, 4 figures |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BindCLIP: A Unified Contrastive-Generative Representation Learning Framework for Virtual Screening](https://arxiv.org/abs/2602.15236v1)** | 2026-02-16 |  |
 | **[Orthogonalized Multimodal Contrastive Learning with Asymmetric Masking for Structured Representations](https://arxiv.org/abs/2602.14983v1)** | 2026-02-16 |  |
 | **[BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs](https://arxiv.org/abs/2602.14919v1)** | 2026-02-16 |  |
 | **[Are foundation models for computer vision good conformal predictors?](https://arxiv.org/abs/2412.06082v3)** | 2026-02-16 |  |
@@ -59,7 +60,6 @@ labels: documentation
 | **[DMESR: Dual-view MLLM-based Enhancing Framework for Multimodal Sequential Recommendation](https://arxiv.org/abs/2602.13715v1)** | 2026-02-14 | 9 pages, 4 figures |
 | **[Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search](https://arxiv.org/abs/2602.13704v1)** | 2026-02-14 |  |
 | **[Diffusion-Pretrained Dense and Contextual Embeddings](https://arxiv.org/abs/2602.11151v2)** | 2026-02-13 |  |
-| **[Dual-Phase Cross-Modal Contrastive Learning for CMR-Guided ECG Representations for Cardiovascular Disease Assessment](https://arxiv.org/abs/2602.12883v1)** | 2026-02-13 | <details><summary>Paper...</summary><p>Paper accepted at SPIE Medical Imaging 2026 Conference</p></details> |
 
 ## Heterophily
 | **Title** | **Date** | **Comment** |
