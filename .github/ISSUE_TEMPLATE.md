@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting High-Potential SMEs with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2602.19591v1)** | 2026-02-23 |  |
+| **[Temporal-Aware Heterogeneous Graph Reasoning with Multi-View Fusion for Temporal Question Answering](https://arxiv.org/abs/2602.19569v1)** | 2026-02-23 | 6pages |
+| **[Training-Free Cross-Architecture Merging for Graph Neural Networks](https://arxiv.org/abs/2602.19332v1)** | 2026-02-22 |  |
+| **[E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems](https://arxiv.org/abs/2511.20564v2)** | 2026-02-22 |  |
+| **[Learning to Rank Critical Road Segments via Heterogeneous Graphs with Origin-Destination Flow Integration](https://arxiv.org/abs/2504.19199v3)** | 2026-02-21 |  |
 | **[A representational framework for learning and encoding structurally enriched trajectories in complex agent environments](https://arxiv.org/abs/2503.13194v3)** | 2026-02-16 |  |
 | **[OPBench: A Graph Benchmark to Combat the Opioid Crisis](https://arxiv.org/abs/2602.14602v1)** | 2026-02-16 |  |
 | **[Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/abs/2602.14279v1)** | 2026-02-15 |  |
@@ -17,49 +22,44 @@ labels: documentation
 | **[Is Meta-Path Attention an Explanation? Evidence of Alignment and Decoupling in Heterogeneous GNNs](https://arxiv.org/abs/2602.08500v1)** | 2026-02-09 |  |
 | **[Finding Connections: Membership Inference Attacks for the Multi-Table Synthetic Data Setting](https://arxiv.org/abs/2602.07126v1)** | 2026-02-06 |  |
 | **[Relational Graph Transformer](https://arxiv.org/abs/2505.10960v2)** | 2026-02-05 | <details><summary>ICLR ...</summary><p>ICLR 2026, Code: https://github.com/snap-stanford/relgt</p></details> |
-| **[Autodiscover: A reinforcement learning recommendation system for the cold-start imbalance challenge in active learning, powered by graph-aware thompson sampling](https://arxiv.org/abs/2602.05087v1)** | 2026-02-04 | <details><summary>Maste...</summary><p>Master's Thesis, University of Luxembourg in collaboration with Luxembourg Institute of Science and Technology (LIST). Supervised by Prof. Jun Pang and Dr. Eloi Durant</p></details> |
-| **[Discrete Diffusion-Based Model-Level Explanation of Heterogeneous GNNs with Node Features](https://arxiv.org/abs/2508.08458v2)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at WWW 2026. Camera-ready version</p></details> |
-| **[UrbanGraph: Physics-Informed Spatio-Temporal Dynamic Heterogeneous Graphs for Urban Microclimate Prediction](https://arxiv.org/abs/2510.00457v2)** | 2026-02-03 |  |
-| **[Heterogeneous Graph Alignment for Joint Reasoning and Interpretability](https://arxiv.org/abs/2601.22593v1)** | 2026-01-30 |  |
-| **[Genomic-Informed Heterogeneous Graph Learning for Spatiotemporal Avian Influenza Outbreak Forecasting](https://arxiv.org/abs/2505.22692v5)** | 2026-01-30 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 4 tables. The paper is accepted by The Web Conference 2026</p></details> |
 
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Qualitative Coding Analysis through Open-Source Large Language Models: A User Study and Design Recommendations](https://arxiv.org/abs/2602.18352v1)** | 2026-02-20 | <details><summary>6 pag...</summary><p>6 pages. Accepted as Poster to CHI'26</p></details> |
-| **[HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation](https://arxiv.org/abs/2602.18283v1)** | 2026-02-20 | Preprint |
-| **[Bending the Scaling Law Curve in Large-Scale Recommendation Systems](https://arxiv.org/abs/2602.16986v2)** | 2026-02-20 |  |
-| **[WarpRec: Unifying Academic Rigor and Industrial Scale for Responsible, Reproducible, and Efficient Recommendation](https://arxiv.org/abs/2602.17442v1)** | 2026-02-19 |  |
-| **[Improving LLM-based Recommendation with Self-Hard Negatives from Intermediate Layers](https://arxiv.org/abs/2602.17410v1)** | 2026-02-19 |  |
-| **[Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation](https://arxiv.org/abs/2602.17354v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted in IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)</p></details> |
-| **[On the Reliability of User-Centric Evaluation of Conversational Recommender Systems](https://arxiv.org/abs/2602.17264v1)** | 2026-02-19 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Submitted to UMAP 2026. Code available at https://github.com/michael-mue/reliable-crs-eval</p></details> |
-| **[Multi-Probe Zero Collision Hash (MPZCH): Mitigating Embedding Collisions and Enhancing Model Freshness in Large-Scale Recommenders](https://arxiv.org/abs/2602.17050v1)** | 2026-02-19 | 10 pages, 6 figures |
-| **[LiveGraph: Active-Structure Neural Re-ranking for Exercise Recommendation](https://arxiv.org/abs/2602.17036v1)** | 2026-02-19 | 19 pages, 5 figures |
-| **[Learning to Recommend in Unknown Games](https://arxiv.org/abs/2602.16998v1)** | 2026-02-19 |  |
-| **[Conv-FinRe: A Conversational and Longitudinal Benchmark for Utility-Grounded Financial Recommendation](https://arxiv.org/abs/2602.16990v1)** | 2026-02-19 |  |
-| **[ConvApparel: A Benchmark Dataset and Validation Framework for User Simulators in Conversational Recommenders](https://arxiv.org/abs/2602.16938v1)** | 2026-02-18 | EACL 2026 |
-| **[LLMDistill4Ads: Using Cross-Encoders to Distill from LLM Signals for Advertiser Keyphrase Recommendations at eBay](https://arxiv.org/abs/2508.03628v6)** | 2026-02-18 |  |
-| **[Why Thinking Hurts? Diagnosing and Rectifying the Reasoning Shift in Foundation Recommender Models](https://arxiv.org/abs/2602.16587v1)** | 2026-02-18 |  |
-| **[Variable-Length Semantic IDs for Recommender Systems](https://arxiv.org/abs/2602.16375v1)** | 2026-02-18 |  |
+| **[ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation](https://arxiv.org/abs/2602.20093v1)** | 2026-02-23 | 15 pages, 7 figures |
+| **[FairFS: Addressing Deep Feature Selection Biases for Recommender System](https://arxiv.org/abs/2602.20001v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by The Web Conference 2026</p></details> |
+| **[GrIT: Group Informed Transformer for Sequential Recommendation](https://arxiv.org/abs/2602.19728v1)** | 2026-02-23 |  |
+| **[A Three-stage Neuro-symbolic Recommendation Pipeline for Cultural Heritage Knowledge Graphs](https://arxiv.org/abs/2602.19711v1)** | 2026-02-23 | <details><summary>15 pa...</summary><p>15 pages, 1 figure; submitted to ICCS 2026 conference</p></details> |
+| **[DReX: An Explainable Deep Learning-based Multimodal Recommendation Framework](https://arxiv.org/abs/2602.19702v1)** | 2026-02-23 |  |
+| **[Iconographic Classification and Content-Based Recommendation for Digitized Artworks](https://arxiv.org/abs/2602.19698v1)** | 2026-02-23 | <details><summary>14 pa...</summary><p>14 pages, 7 figures; submitted to ICCS 2026 conference</p></details> |
+| **[PinRec: Unified Generative Retrieval for Pinterest Recommender Systems](https://arxiv.org/abs/2504.10507v5)** | 2026-02-23 |  |
+| **[Large-scale Benchmarks for Multimodal Recommendation with Ducho](https://arxiv.org/abs/2409.15857v2)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted in Expert Systems with Applications</p></details> |
+| **[SplitLight: An Exploratory Toolkit for Recommender Systems Datasets and Splits](https://arxiv.org/abs/2602.19339v1)** | 2026-02-22 |  |
+| **[Sequential Data Augmentation for Generative Recommendation](https://arxiv.org/abs/2509.13648v2)** | 2026-02-22 |  |
+| **[Denoising Neural Reranker for Recommender Systems](https://arxiv.org/abs/2509.18736v3)** | 2026-02-22 |  |
+| **[AgentDR: Dynamic Recommendation with Implicit Item-Item Relations via LLM-based Agents](https://arxiv.org/abs/2510.05598v2)** | 2026-02-22 | <details><summary>12 pa...</summary><p>12 pages, accepted by WWW'26</p></details> |
+| **[E2E-GRec: An End-to-End Joint Training Framework for Graph Neural Networks and Recommender Systems](https://arxiv.org/abs/2511.20564v2)** | 2026-02-22 |  |
+| **[Give Users the Wheel: Towards Promptable Recommendation Paradigm](https://arxiv.org/abs/2602.18929v1)** | 2026-02-21 |  |
+| **[DeepInterestGR: Mining Deep Multi-Interest Using Multi-Modal LLMs for Generative Recommendation](https://arxiv.org/abs/2602.18907v1)** | 2026-02-21 |  |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gradient based Severity Labeling for Biomarker Classification in OCT](https://arxiv.org/abs/2602.19907v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted at International Conference on Image Processing (ICIP) 2022</p></details> |
+| **[Using Unsupervised Domain Adaptation Semantic Segmentation for Pulmonary Embolism Detection in Computed Tomography Pulmonary Angiogram (CTPA) Images](https://arxiv.org/abs/2602.19891v1)** | 2026-02-23 |  |
+| **[Prefer-DAS: Learning from Local Preferences and Sparse Prompts for Domain Adaptive Segmentation of Electron Microscopy](https://arxiv.org/abs/2602.19423v1)** | 2026-02-23 |  |
+| **[Time Series, Vision, and Language: Exploring the Limits of Alignment in Contrastive Representation Spaces](https://arxiv.org/abs/2602.19367v1)** | 2026-02-22 | <details><summary>24 Fi...</summary><p>24 Figures, 12 Tables</p></details> |
+| **[CRCC: Contrast-Based Robust Cross-Subject and Cross-Site Representation Learning for EEG](https://arxiv.org/abs/2602.19138v1)** | 2026-02-22 | First edition |
+| **[Universal 3D Shape Matching via Coarse-to-Fine Language Guidance](https://arxiv.org/abs/2602.19112v1)** | 2026-02-22 | Accepted CVPR 2026 |
+| **[SphOR: A Representation Learning Perspective on Open-set Recognition for Identifying Unknown Classes in Deep Learning Models](https://arxiv.org/abs/2503.08049v3)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at CVPR2026 (Findings Track)</p></details> |
+| **[MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment](https://arxiv.org/abs/2602.19004v1)** | 2026-02-22 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, 7 figures, accepted to CVPR26</p></details> |
+| **[Temporal Action Representation Learning for Tactical Resource Control and Subsequent Maneuver Generation](https://arxiv.org/abs/2602.18716v1)** | 2026-02-21 | ICRA 2026, 8 pages |
 | **[Self-Aware Object Detection via Degradation Manifolds](https://arxiv.org/abs/2602.18394v1)** | 2026-02-20 |  |
+| **[PhysE-Inv: A Physics-Encoded Inverse Modeling approach for Arctic Snow Depth Prediction](https://arxiv.org/abs/2601.17074v2)** | 2026-02-20 |  |
 | **[View Invariant Learning for Vision-Language Navigation in Continuous Environments](https://arxiv.org/abs/2507.08831v4)** | 2026-02-20 | <details><summary>This ...</summary><p>This paper is accepted to RA-L 2026</p></details> |
 | **[Contrastive Diffusion Alignment: Learning Structured Latents for Controllable Generation](https://arxiv.org/abs/2510.14190v2)** | 2026-02-19 |  |
 | **[Boosting Medical Visual Understanding From Multi-Granular Language Learning](https://arxiv.org/abs/2511.15943v2)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026. 40 pages</p></details> |
 | **[Supervised Graph Contrastive Learning for Gene Regulatory Networks](https://arxiv.org/abs/2505.17786v5)** | 2026-02-19 | Preprint |
-| **[Beyond the Encoder: Joint Encoder-Decoder Contrastive Pre-Training Improves Dense Prediction](https://arxiv.org/abs/2503.17526v3)** | 2026-02-19 |  |
-| **[WebFAQ 2.0: A Multilingual QA Dataset with Mined Hard Negatives for Dense Retrieval](https://arxiv.org/abs/2602.17327v1)** | 2026-02-19 |  |
-| **[Leveraging Contrastive Learning for a Similarity-Guided Tampered Document Data Generation Pipeline](https://arxiv.org/abs/2602.17322v1)** | 2026-02-19 |  |
-| **[BadCLIP++: Stealthy and Persistent Backdoors in Multimodal Contrastive Learning](https://arxiv.org/abs/2602.17168v1)** | 2026-02-19 | 25 pages, 10 figures |
-| **[Xray-Visual Models: Scaling Vision models on Industry Scale Data](https://arxiv.org/abs/2602.16918v1)** | 2026-02-18 |  |
-| **[VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection](https://arxiv.org/abs/2602.16681v1)** | 2026-02-18 |  |
-| **[Align and Adapt: Multimodal Multiview Human Activity Recognition under Arbitrary View Combinations](https://arxiv.org/abs/2602.08755v3)** | 2026-02-18 |  |
-| **[A Contrastive Learning Framework Empowered by Attention-based Feature Adaptation for Street-View Image Classification](https://arxiv.org/abs/2602.16590v1)** | 2026-02-18 |  |
-| **[Equilibrium contrastive learning for imbalanced image classification](https://arxiv.org/abs/2602.09506v2)** | 2026-02-18 | 18 pages, 8 figures |
-| **[Emotion Collider: Dual Hyperbolic Mirror Manifolds for Sentiment Recovery via Anti Emotion Reflection](https://arxiv.org/abs/2602.16161v1)** | 2026-02-18 | 25 pages, 14 figures |
 
 ## Heterophily
 | **Title** | **Date** | **Comment** |
