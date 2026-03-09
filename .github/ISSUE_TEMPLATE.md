@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 08, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation](https://arxiv.org/abs/2603.06243v1)** | 2026-03-06 | 14 pages, 10figures |
+| **[Balancing Domestic and Global Perspectives: Evaluating Dual-Calibration and LLM-Generated Nudges for Diverse News Recommendation](https://arxiv.org/abs/2603.05780v1)** | 2026-03-06 |  |
 | **[Give Users the Wheel: Towards Promptable Recommendation Paradigm](https://arxiv.org/abs/2602.18929v2)** | 2026-03-05 |  |
 | **[Debiasing Sequential Recommendation with Time-aware Inverse Propensity Scoring](https://arxiv.org/abs/2603.04986v1)** | 2026-03-05 | 11 pages |
 | **[Learning to Recommend in Unknown Games](https://arxiv.org/abs/2602.16998v2)** | 2026-03-04 |  |
@@ -39,12 +41,18 @@ labels: documentation
 | **[AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation](https://arxiv.org/abs/2603.03761v1)** | 2026-03-04 | <details><summary>under...</summary><p>under review by conference</p></details> |
 | **[PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems](https://arxiv.org/abs/2504.10507v6)** | 2026-03-04 |  |
 | **[SafeCRS: Personalized Safety Alignment for LLM-Based Conversational Recommender Systems](https://arxiv.org/abs/2603.03536v1)** | 2026-03-03 | 14 pages, 4 figures |
-| **[Quantifying User Coherence: A Unified Framework for Analyzing Recommender Systems Across Domains](https://arxiv.org/abs/2410.02453v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at The Web Conference (WWW 2026)</p></details> |
-| **[Few-shot Model Extraction Attacks against Sequential Recommender Systems](https://arxiv.org/abs/2411.11677v3)** | 2026-03-03 | <details><summary>there...</summary><p>there are something wrong in the formula</p></details> |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://arxiv.org/abs/2603.06569v1)** | 2026-03-06 | <details><summary>Pengu...</summary><p>Penguin-VL Technical Report; Code: https://github.com/tencent-ailab/Penguin-VL</p></details> |
+| **[Speak in Context: Multilingual ASR with Speech Context Alignment via Contrastive Learning](https://arxiv.org/abs/2603.06505v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted at LREC 2026</p></details> |
+| **[SSL-SLR: Self-Supervised Representation Learning for Sign Language Recognition](https://arxiv.org/abs/2509.05188v2)** | 2026-03-06 |  |
+| **[Contrastive-to-Self-Supervised: A Two-Stage Framework for Script Similarity Learning](https://arxiv.org/abs/2603.06180v1)** | 2026-03-06 |  |
+| **[A Semi-Supervised Framework for Breast Ultrasound Segmentation with Training-Free Pseudo-Label Generation and Label Refinement](https://arxiv.org/abs/2603.06167v1)** | 2026-03-06 |  |
+| **[SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration](https://arxiv.org/abs/2603.05940v1)** | 2026-03-06 |  |
+| **[UniCoR: Modality Collaboration for Robust Cross-Language Hybrid Code Retrieval](https://arxiv.org/abs/2512.10452v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted by the 48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[Iterative Quantum Feature Maps](https://arxiv.org/abs/2506.19461v3)** | 2026-03-06 | <details><summary>19 pa...</summary><p>19 pages, 13 figures; updated for refining results and discussion</p></details> |
 | **[Pailitao-VL: Unified Embedding and Reranker for Real-Time Multi-Modal Industrial Search](https://arxiv.org/abs/2602.13704v2)** | 2026-03-05 |  |
 | **[Mario: Multimodal Graph Reasoning with Large Language Models](https://arxiv.org/abs/2603.05181v1)** | 2026-03-05 | CVPR 2026 |
 | **[Beyond the Unit Hypersphere: Embedding Magnitude in Contrastive Learning](https://arxiv.org/abs/2602.09229v2)** | 2026-03-05 | <details><summary>Preli...</summary><p>Preliminary work. Under review</p></details> |
@@ -52,14 +60,6 @@ labels: documentation
 | **[Towards Highly Transferable Vision-Language Attack via Semantic-Augmented Dynamic Contrastive Interaction](https://arxiv.org/abs/2603.04839v1)** | 2026-03-05 | Accepted by CVPR2026 |
 | **[Mobility-Embedded POIs: Learning What A Place Is and How It Is Used from Human Movement](https://arxiv.org/abs/2601.21149v2)** | 2026-03-05 |  |
 | **[Guiding Diffusion-based Reconstruction with Contrastive Signals for Balanced Visual Representation](https://arxiv.org/abs/2603.04803v1)** | 2026-03-05 |  |
-| **[LEXA: Legal Case Retrieval via Graph Contrastive Learning with Contextualised LLM Embeddings](https://arxiv.org/abs/2405.11791v3)** | 2026-03-05 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2312.11229</p></details> |
-| **[Identifying Good and Bad Neurons for Task-Level Controllable LLMs](https://arxiv.org/abs/2601.04548v2)** | 2026-03-05 |  |
-| **[Augmenting representations with scientific papers](https://arxiv.org/abs/2603.04516v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at the 2nd Workshop on Foundation Models for Science (ICLR 2026)</p></details> |
-| **[CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation](https://arxiv.org/abs/2603.04320v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by ICDE 2026</p></details> |
-| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
-| **[RLJP: Legal Judgment Prediction via First-Order Logic Rule-enhanced with Large Language Models](https://arxiv.org/abs/2505.21281v2)** | 2026-03-04 |  |
-| **[DQE-CIR: Distinctive Query Embeddings through Learnable Attribute Weights and Target Relative Negative Sampling in Composed Image Retrieval](https://arxiv.org/abs/2603.04037v1)** | 2026-03-04 | 33 pages |
-| **[Weakly Supervised Patch Annotation for Improved Screening of Diabetic Retinopathy](https://arxiv.org/abs/2603.03991v1)** | 2026-03-04 |  |
 
 ## Heterophily
 | **Title** | **Date** | **Comment** |
