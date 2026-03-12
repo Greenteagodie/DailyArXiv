@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 11, 2026
+title: Latest 15 Papers - March 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,12 @@ labels: documentation
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce](https://arxiv.org/abs/2603.11025v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to the Proceedings of the Conference on Digital Economy and Fintech Innovation (DEFI 2025). To appear in IEEE Xplore</p></details> |
+| **[Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation](https://arxiv.org/abs/2603.10673v1)** | 2026-03-11 |  |
+| **[Recommender systems, representativeness, and online music: a psychosocial analysis of Italian listeners](https://arxiv.org/abs/2507.18169v2)** | 2026-03-11 |  |
+| **[Modeling Stage-wise Evolution of User Interests for News Recommendation](https://arxiv.org/abs/2603.10471v1)** | 2026-03-11 | <details><summary>ACM W...</summary><p>ACM Web Conference 2026 Accepted</p></details> |
+| **[Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems](https://arxiv.org/abs/2603.10369v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, submitted to KDD 2026</p></details> |
+| **[Robust Post-Training for Generative Recommenders: Why Exponential Reward-Weighted SFT Outperforms RLHF](https://arxiv.org/abs/2603.10279v1)** | 2026-03-10 |  |
 | **[A Bayesian adaptive enrichment design using aggregate historical data to inform individualized treatment recommendations](https://arxiv.org/abs/2603.09919v1)** | 2026-03-10 | <details><summary>14 pa...</summary><p>14 pages, 5 tables, 0 figures</p></details> |
 | **[RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation](https://arxiv.org/abs/2603.09843v1)** | 2026-03-10 |  |
 | **[What Do We Care About in Bandits with Noncompliance? BRACE: Bandits with Recommendations, Abstention, and Certified Effects](https://arxiv.org/abs/2603.09532v1)** | 2026-03-10 |  |
@@ -35,16 +41,18 @@ labels: documentation
 | **[Continual Low-Rank Adapters for LLM-based Generative Recommender Systems](https://arxiv.org/abs/2510.25093v2)** | 2026-03-08 |  |
 | **[Verifiable Reasoning for LLM-based Generative Recommendation](https://arxiv.org/abs/2603.07725v1)** | 2026-03-08 |  |
 | **[Deep Research for Recommender Systems](https://arxiv.org/abs/2603.07605v1)** | 2026-03-08 | <details><summary>24 pa...</summary><p>24 pages, 5 figures, 5 tables</p></details> |
-| **[Multifaceted Scenario-Aware Hypergraph Learning for Next POI Recommendation](https://arxiv.org/abs/2601.11610v2)** | 2026-03-08 |  |
-| **[MORCoRA: Multi-Objective Refactoring Recommendation Considering Review Availability](https://arxiv.org/abs/2408.06568v2)** | 2026-03-08 | <details><summary>Elect...</summary><p>Electronic version of an article published in International Journal of Software Engineering and Knowledge Engineering, (C) 2024 World Scientific Publishing Company, https://www.worldscientific.com/worldscinet/ijseke</p></details> |
-| **[Generalizing Linear Autoencoder Recommenders with Decoupled Expected Quadratic Loss](https://arxiv.org/abs/2603.07402v1)** | 2026-03-08 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026 (https://openreview.net/forum?id=ANH044Wdje)</p></details> |
-| **[A Hybrid LTR-based System via Social Context Embedding for Recommending Solutions of Software Bugs in Developer Communities](https://arxiv.org/abs/2603.07229v1)** | 2026-03-07 |  |
-| **[Benchmark Leakage Trap: Can We Trust LLM-based Recommendation?](https://arxiv.org/abs/2602.13626v2)** | 2026-03-07 |  |
-| **[Multi-TAP: Multi-criteria Target Adaptive Persona Modeling for Cross-Domain Recommendation](https://arxiv.org/abs/2603.07086v1)** | 2026-03-07 |  |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contrastive learning-based video quality assessment-jointed video vision transformer for video recognition](https://arxiv.org/abs/2603.10965v1)** | 2026-03-11 | <details><summary>9 fig...</summary><p>9 figures, 10 tables,</p></details> |
+| **[LLM2Vec-Gen: Generative Embeddings from Large Language Models](https://arxiv.org/abs/2603.10913v1)** | 2026-03-11 |  |
+| **[MapGCLR: Geospatial Contrastive Learning of Representations for Online Vectorized HD Map Construction](https://arxiv.org/abs/2603.10688v1)** | 2026-03-11 |  |
+| **[Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v1)** | 2026-03-11 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
+| **[BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](https://arxiv.org/abs/2603.03920v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Dynamic Knowledge Fusion for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2603.10367v1)** | 2026-03-11 |  |
+| **[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093v2)** | 2026-03-11 | 15 pages, 17 figures |
+| **[CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR](https://arxiv.org/abs/2603.10101v1)** | 2026-03-10 |  |
 | **[From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding](https://arxiv.org/abs/2603.09955v1)** | 2026-03-10 |  |
 | **[BrainSTR: Spatio-Temporal Contrastive Learning for Interpretable Dynamic Brain Network Modeling](https://arxiv.org/abs/2603.09825v1)** | 2026-03-10 |  |
 | **[OmniEarth: A Benchmark for Evaluating Vision-Language Models in Geospatial Tasks](https://arxiv.org/abs/2603.09471v1)** | 2026-03-10 |  |
@@ -52,14 +60,6 @@ labels: documentation
 | **[M3GCLR: Multi-View Mini-Max Infinite Skeleton-Data Game Contrastive Learning For Skeleton-Based Action Recognition](https://arxiv.org/abs/2603.09367v1)** | 2026-03-10 |  |
 | **[ProvAgent: Threat Detection Based on Identity-Behavior Binding and Multi-Agent Collaborative Attack Investigation](https://arxiv.org/abs/2603.09358v1)** | 2026-03-10 | <details><summary>The c...</summary><p>The code of ProvAgent is publicly available at \url{https://github.com/Win7ery/ProvAgent}</p></details> |
 | **[VocSegMRI: Multimodal Learning for Precise Vocal Tract Segmentation in Real-time MRI](https://arxiv.org/abs/2509.13767v3)** | 2026-03-10 | <details><summary>Prepr...</summary><p>Preprint submitted to ICASSP</p></details> |
-| **[ConLID: Supervised Contrastive Learning for Low-Resource Language Identification](https://arxiv.org/abs/2506.15304v2)** | 2026-03-09 | <details><summary>EACL ...</summary><p>EACL 2026 - Main Conference</p></details> |
-| **[Global Cross-Modal Geo-Localization: A Million-Scale Dataset and a Physical Consistency Learning Framework](https://arxiv.org/abs/2603.08491v1)** | 2026-03-09 |  |
-| **[NS-Net: Decoupling CLIP Semantic Information through NULL-Space for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2508.01248v3)** | 2026-03-09 |  |
-| **[Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](https://arxiv.org/abs/2511.06216v2)** | 2026-03-09 | Under review |
-| **[BotaCLIP: Contrastive Learning for Botany-Aware Representation of Earth Observation Data](https://arxiv.org/abs/2511.21194v2)** | 2026-03-09 |  |
-| **[Autoregressive Visual Decoding from EEG Signals](https://arxiv.org/abs/2602.22555v2)** | 2026-03-09 |  |
-| **[MM-TS: Multi-Modal Temperature and Margin Schedules for Contrastive Learning with Long-Tail Data](https://arxiv.org/abs/2603.08202v1)** | 2026-03-09 | <details><summary>18 pa...</summary><p>18 pages, 11 figures. Accepted at WACV 2026</p></details> |
-| **[Learning Hierarchical Knowledge in Text-Rich Networks with Taxonomy-Informed Representation Learning](https://arxiv.org/abs/2603.08159v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted by KDD 2026. Extended version coming soon</p></details> |
 
 ## Heterophily
 | **Title** | **Date** | **Comment** |
