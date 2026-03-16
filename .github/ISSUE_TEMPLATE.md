@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 15, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,14 @@ labels: documentation
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Fairness Be Prompted? Prompt-Based Debiasing Strategies in High-Stakes Recommendations](https://arxiv.org/abs/2603.12935v1)** | 2026-03-13 |  |
+| **[Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems](https://arxiv.org/abs/2603.12752v1)** | 2026-03-13 |  |
+| **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
+| **[VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models](https://arxiv.org/abs/2603.12625v1)** | 2026-03-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 1 table</p></details> |
+| **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v5)** | 2026-03-13 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
+| **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v1)** | 2026-03-13 | <details><summary>50 pa...</summary><p>50 pages, 31 tables, 15 figures. Under review at COLM 2026</p></details> |
+| **[Weighted Set Multi-Cover on Bounded Universe and Applications in Package Recommendation](https://arxiv.org/abs/2603.12528v1)** | 2026-03-13 |  |
+| **[Information-Consistent Language Model Recommendations through Group Relative Policy Optimization](https://arxiv.org/abs/2512.12858v2)** | 2026-03-12 |  |
 | **[FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning](https://arxiv.org/abs/2603.11901v1)** | 2026-03-12 |  |
 | **[SRSUPM: Sequential Recommender System Based on User Psychological Motivation](https://arxiv.org/abs/2602.08667v2)** | 2026-03-12 | 9 pages, 8 pages |
 | **[Enhancing Music Recommendation with User Mood Input](https://arxiv.org/abs/2603.11796v1)** | 2026-03-12 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 2 tables</p></details> |
@@ -33,33 +41,25 @@ labels: documentation
 | **[OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation](https://arxiv.org/abs/2603.02999v3)** | 2026-03-12 |  |
 | **[Refine-POI: Reinforcement Fine-Tuned Large Language Models for Next Point-of-Interest Recommendation](https://arxiv.org/abs/2506.21599v4)** | 2026-03-12 |  |
 | **[Sharpness-Aware Minimization for Generalized Embedding Learning in Federated Recommendation](https://arxiv.org/abs/2603.11503v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted by the ACM Web Conference 2026</p></details> |
-| **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v4)** | 2026-03-12 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
-| **[Entropy Guided Diversification and Preference Elicitation in Agentic Recommendation Systems](https://arxiv.org/abs/2603.11399v1)** | 2026-03-12 | <details><summary>In pr...</summary><p>In proceeding to 2026 Association for the Advancement of Artificial Intelligence Spring Symposia</p></details> |
-| **[Tuning-Free LLM Can Build A Strong Recommender Under Sparse Connectivity And Knowledge Gap Via Extracting Intent](https://arxiv.org/abs/2505.10900v4)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted in Learning on Graphs (LoG) 2025</p></details> |
-| **[LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce](https://arxiv.org/abs/2603.11025v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to the Proceedings of the Conference on Digital Economy and Fintech Innovation (DEFI 2025). To appear in IEEE Xplore</p></details> |
-| **[Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation](https://arxiv.org/abs/2603.10673v1)** | 2026-03-11 |  |
-| **[Recommender systems, representativeness, and online music: a psychosocial analysis of Italian listeners](https://arxiv.org/abs/2507.18169v2)** | 2026-03-11 |  |
-| **[Modeling Stage-wise Evolution of User Interests for News Recommendation](https://arxiv.org/abs/2603.10471v1)** | 2026-03-11 | <details><summary>ACM W...</summary><p>ACM Web Conference 2026 Accepted</p></details> |
-| **[Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems](https://arxiv.org/abs/2603.10369v1)** | 2026-03-11 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, submitted to KDD 2026</p></details> |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Language-Grounded Decoupled Action Representation for Robotic Manipulation](https://arxiv.org/abs/2603.12967v1)** | 2026-03-13 | Accepted by CVPR2026 |
+| **[AHAP: Reconstructing Arbitrary Humans from Arbitrary Perspectives with Geometric Priors](https://arxiv.org/abs/2602.23951v2)** | 2026-03-13 |  |
+| **[CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration](https://arxiv.org/abs/2603.12721v1)** | 2026-03-13 |  |
+| **[Maximizing Incremental Information Entropy for Contrastive Learning](https://arxiv.org/abs/2603.12594v1)** | 2026-03-13 | <details><summary>ICLR ...</summary><p>ICLR 2026 (The Fourteenth International Conference on Learning Representations) https://openreview.net/forum?id=XL7ValpExh</p></details> |
+| **[Asymptotic and Finite-Time Guarantees for Langevin-Based Temperature Annealing in InfoNCE](https://arxiv.org/abs/2603.12552v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at the Optimization for Machine Learning Workshop (NeurIPS 2025)</p></details> |
+| **[OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation](https://arxiv.org/abs/2601.15369v2)** | 2026-03-12 |  |
+| **[ARC-Fi: Exploiting Antenna Spatial Diversity for Label-Efficient Domain Generalization in Wi-Fi Sensing](https://arxiv.org/abs/2310.06328v6)** | 2026-03-12 |  |
 | **[Towards Highly Transferable Vision-Language Attack via Semantic-Augmented Dynamic Contrastive Interaction](https://arxiv.org/abs/2603.04839v2)** | 2026-03-12 | Accepted by CVPR2026 |
 | **[Federated Learning and Unlearning for Recommendation with Personalized Data Sharing](https://arxiv.org/abs/2603.11610v1)** | 2026-03-12 | 14 pages |
 | **[XGrasp: Gripper-Aware Grasp Detection with Multi-Gripper Data Generation](https://arxiv.org/abs/2510.11036v2)** | 2026-03-12 | 9 pages, 10 figures |
 | **[EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection](https://arxiv.org/abs/2603.11521v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v2)** | 2026-03-12 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
 | **[ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning](https://arxiv.org/abs/2511.16326v2)** | 2026-03-12 | <details><summary>Under...</summary><p>Under Review in ARK. For source code, see https://github.com/valleysprings/ARK/</p></details> |
-| **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v4)** | 2026-03-12 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
 | **[Contrastive learning-based video quality assessment-jointed video vision transformer for video recognition](https://arxiv.org/abs/2603.10965v1)** | 2026-03-11 | <details><summary>9 fig...</summary><p>9 figures, 10 tables,</p></details> |
 | **[LLM2Vec-Gen: Generative Embeddings from Large Language Models](https://arxiv.org/abs/2603.10913v1)** | 2026-03-11 |  |
-| **[MapGCLR: Geospatial Contrastive Learning of Representations for Online Vectorized HD Map Construction](https://arxiv.org/abs/2603.10688v1)** | 2026-03-11 |  |
-| **[BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](https://arxiv.org/abs/2603.03920v2)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Dynamic Knowledge Fusion for Multi-Domain Dialogue State Tracking](https://arxiv.org/abs/2603.10367v1)** | 2026-03-11 |  |
-| **[PvP: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations](https://arxiv.org/abs/2512.13093v2)** | 2026-03-11 | 15 pages, 17 figures |
-| **[CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR](https://arxiv.org/abs/2603.10101v1)** | 2026-03-10 |  |
-| **[From Semantics to Pixels: Coarse-to-Fine Masked Autoencoders for Hierarchical Visual Understanding](https://arxiv.org/abs/2603.09955v1)** | 2026-03-10 |  |
 
 ## Heterophily
 | **Title** | **Date** | **Comment** |
