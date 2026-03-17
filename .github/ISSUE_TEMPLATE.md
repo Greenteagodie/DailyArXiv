@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 16, 2026
+title: Latest 15 Papers - March 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Scenario User Profile Construction via Recommendation Lists](https://arxiv.org/abs/2603.15357v1)** | 2026-03-16 |  |
+| **[Bringing Model Editing to Generative Recommendation in Cold-Start Scenarios](https://arxiv.org/abs/2603.14259v1)** | 2026-03-15 |  |
+| **[Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs](https://arxiv.org/abs/2603.13934v1)** | 2026-03-14 | <details><summary>Accep...</summary><p>Accepted at The Web Conference (WWW) 2026</p></details> |
+| **[R3-REC: Reasoning-Driven Recommendation via Retrieval-Augmented LLMs over Multi-Granular Interest Signals](https://arxiv.org/abs/2603.13730v1)** | 2026-03-14 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables. Accepted to the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</p></details> |
 | **[Can Fairness Be Prompted? Prompt-Based Debiasing Strategies in High-Stakes Recommendations](https://arxiv.org/abs/2603.12935v1)** | 2026-03-13 |  |
 | **[Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems](https://arxiv.org/abs/2603.12752v1)** | 2026-03-13 |  |
 | **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
@@ -37,29 +41,25 @@ labels: documentation
 | **[FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning](https://arxiv.org/abs/2603.11901v1)** | 2026-03-12 |  |
 | **[SRSUPM: Sequential Recommender System Based on User Psychological Motivation](https://arxiv.org/abs/2602.08667v2)** | 2026-03-12 | 9 pages, 8 pages |
 | **[Enhancing Music Recommendation with User Mood Input](https://arxiv.org/abs/2603.11796v1)** | 2026-03-12 | <details><summary>28 pa...</summary><p>28 pages, 9 figures, 2 tables</p></details> |
-| **[Federated Learning and Unlearning for Recommendation with Personalized Data Sharing](https://arxiv.org/abs/2603.11610v1)** | 2026-03-12 | 14 pages |
-| **[OneRanker: Unified Generation and Ranking with One Model in Industrial Advertising Recommendation](https://arxiv.org/abs/2603.02999v3)** | 2026-03-12 |  |
-| **[Refine-POI: Reinforcement Fine-Tuned Large Language Models for Next Point-of-Interest Recommendation](https://arxiv.org/abs/2506.21599v4)** | 2026-03-12 |  |
-| **[Sharpness-Aware Minimization for Generalized Embedding Learning in Federated Recommendation](https://arxiv.org/abs/2603.11503v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted by the ACM Web Conference 2026</p></details> |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ViSA: Visited-State Augmentation for Generalized Goal-Space Contrastive Reinforcement Learning](https://arxiv.org/abs/2603.14887v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, under Review</p></details> |
+| **[Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis](https://arxiv.org/abs/2603.14832v1)** | 2026-03-16 |  |
+| **[Face-Guided Sentiment Boundary Enhancement for Weakly-Supervised Temporal Sentiment Localization](https://arxiv.org/abs/2603.14750v1)** | 2026-03-16 |  |
+| **[The Geometric Mechanics of Contrastive Learning: Alignment Potentials, Entropic Dispersion, and Modality Gap](https://arxiv.org/abs/2601.19597v2)** | 2026-03-16 | <details><summary>Enhan...</summary><p>Enhance presentation, clarify notation, and add an experiment</p></details> |
+| **[TopoCL: Topological Contrastive Learning for Medical Imaging](https://arxiv.org/abs/2603.14647v1)** | 2026-03-15 |  |
+| **[Refold: Refining Protein Inverse Folding with Efficient Structural Matching and Fusion](https://arxiv.org/abs/2603.14350v1)** | 2026-03-15 |  |
+| **[Personalized Cell Segmentation: Benchmark and Framework for Reference-Guided Cell Type Segmentation](https://arxiv.org/abs/2603.14321v1)** | 2026-03-15 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026. 5 pages, 3 figures. (C) 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising/promotional purposes, creating new collective works, for resale or redistribution, or reuse of any copyrighted component</p></details> |
+| **[Multimodal Rumor Detection Enhanced by External Evidence and Forgery Features](https://arxiv.org/abs/2601.14954v2)** | 2026-03-15 | 19 pages, 10 figures |
+| **[Enhancing Mental Health Classification with Layer-Attentive Residuals and Contrastive Feature Learning](https://arxiv.org/abs/2603.14075v1)** | 2026-03-14 |  |
+| **[VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction](https://arxiv.org/abs/2603.13964v1)** | 2026-03-14 |  |
+| **[Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://arxiv.org/abs/2603.06569v2)** | 2026-03-14 | <details><summary>Pengu...</summary><p>Penguin-VL demonstrates that text-only initialized vision encoders can achieve superior performance in multimodal understanding tasks; Code: https://github.com/tencent-ailab/Penguin-VL</p></details> |
+| **[Masked Representation Modeling for Domain-Adaptive Segmentation](https://arxiv.org/abs/2509.13801v2)** | 2026-03-14 | CVPR 2026 |
+| **[Beyond AlphaEarth: Toward Human-Centered Geospatial Foundation Models via POI-Guided Contrastive Learning](https://arxiv.org/abs/2510.09894v2)** | 2026-03-13 |  |
 | **[Language-Grounded Decoupled Action Representation for Robotic Manipulation](https://arxiv.org/abs/2603.12967v1)** | 2026-03-13 | Accepted by CVPR2026 |
 | **[AHAP: Reconstructing Arbitrary Humans from Arbitrary Perspectives with Geometric Priors](https://arxiv.org/abs/2602.23951v2)** | 2026-03-13 |  |
-| **[CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration](https://arxiv.org/abs/2603.12721v1)** | 2026-03-13 |  |
-| **[Maximizing Incremental Information Entropy for Contrastive Learning](https://arxiv.org/abs/2603.12594v1)** | 2026-03-13 | <details><summary>ICLR ...</summary><p>ICLR 2026 (The Fourteenth International Conference on Learning Representations) https://openreview.net/forum?id=XL7ValpExh</p></details> |
-| **[Asymptotic and Finite-Time Guarantees for Langevin-Based Temperature Annealing in InfoNCE](https://arxiv.org/abs/2603.12552v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at the Optimization for Machine Learning Workshop (NeurIPS 2025)</p></details> |
-| **[OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation](https://arxiv.org/abs/2601.15369v2)** | 2026-03-12 |  |
-| **[ARC-Fi: Exploiting Antenna Spatial Diversity for Label-Efficient Domain Generalization in Wi-Fi Sensing](https://arxiv.org/abs/2310.06328v6)** | 2026-03-12 |  |
-| **[Towards Highly Transferable Vision-Language Attack via Semantic-Augmented Dynamic Contrastive Interaction](https://arxiv.org/abs/2603.04839v2)** | 2026-03-12 | Accepted by CVPR2026 |
-| **[Federated Learning and Unlearning for Recommendation with Personalized Data Sharing](https://arxiv.org/abs/2603.11610v1)** | 2026-03-12 | 14 pages |
-| **[XGrasp: Gripper-Aware Grasp Detection with Multi-Gripper Data Generation](https://arxiv.org/abs/2510.11036v2)** | 2026-03-12 | 9 pages, 10 figures |
-| **[EReCu: Pseudo-label Evolution Fusion and Refinement with Multi-Cue Learning for Unsupervised Camouflage Detection](https://arxiv.org/abs/2603.11521v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Less is More: Decoder-Free Masked Modeling for Efficient Skeleton Representation Learning](https://arxiv.org/abs/2603.10648v2)** | 2026-03-12 | <details><summary>Pleas...</summary><p>Please visit our project page at https://kaist-viclab.github.io/SLiM_site/</p></details> |
-| **[ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning](https://arxiv.org/abs/2511.16326v2)** | 2026-03-12 | <details><summary>Under...</summary><p>Under Review in ARK. For source code, see https://github.com/valleysprings/ARK/</p></details> |
-| **[Contrastive learning-based video quality assessment-jointed video vision transformer for video recognition](https://arxiv.org/abs/2603.10965v1)** | 2026-03-11 | <details><summary>9 fig...</summary><p>9 figures, 10 tables,</p></details> |
-| **[LLM2Vec-Gen: Generative Embeddings from Large Language Models](https://arxiv.org/abs/2603.10913v1)** | 2026-03-11 |  |
 
 ## Heterophily
 | **Title** | **Date** | **Comment** |
