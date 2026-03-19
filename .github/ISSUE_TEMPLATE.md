@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 18, 2026
+title: Latest 15 Papers - March 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IoDResearch: Deep Research on Private Heterogeneous Data via the Internet of Data](https://arxiv.org/abs/2510.01553v2)** | 2026-03-18 | 8 pages,4 figures |
 | **[drGT: Attention-Guided Gene Assessment of Drug Response Utilizing a Drug-Cell-Gene Heterogeneous Network](https://arxiv.org/abs/2405.08979v4)** | 2026-03-17 |  |
 | **[UniHetCO: A Unified Heterogeneous Representation for Multi-Problem Learning in Unsupervised Neural Combinatorial Optimization](https://arxiv.org/abs/2603.11456v1)** | 2026-03-12 |  |
 | **[Unifying Logical and Physical Layout Representations via Heterogeneous Graphs for Circuit Congestion Prediction](https://arxiv.org/abs/2603.11075v1)** | 2026-03-10 |  |
@@ -21,11 +22,17 @@ labels: documentation
 | **[GNN Based Joint Beamforming Design for Extremely Large-Scale RIS Assisted Near-Field ISAC Systems](https://arxiv.org/abs/2603.01379v1)** | 2026-03-02 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, and full paper submitted for possible publication</p></details> |
 | **[Learning Flexible Job Shop Scheduling under Limited Buffers and Material Kitting Constraints](https://arxiv.org/abs/2602.24180v1)** | 2026-02-27 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, conference</p></details> |
 | **[Detecting High-Potential SMEs with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2602.19591v2)** | 2026-02-27 |  |
-| **[MUG: Meta-path-aware Universal Heterogeneous Graph Pre-Training](https://arxiv.org/abs/2602.22645v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted by AAAI-26, 9 pages, 3 figures</p></details> |
 
 ## Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Unified Language Model for Large Scale Search, Recommendation, and Reasoning](https://arxiv.org/abs/2603.17533v1)** | 2026-03-18 |  |
+| **[VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation](https://arxiv.org/abs/2603.17450v1)** | 2026-03-18 |  |
+| **[Is Your LLM-as-a-Recommender Agent Trustable? LLMs' Recommendation is Easily Hacked by Biases (Preferences)](https://arxiv.org/abs/2603.17417v1)** | 2026-03-18 |  |
+| **[Public Profile Matters: A Scalable Integrated Approach to Recommend Citations in the Wild](https://arxiv.org/abs/2603.17361v1)** | 2026-03-18 |  |
+| **[PACE-RAG: Patient-Aware Contextual and Evidence-based Policy RAG for Clinical Drug Recommendation](https://arxiv.org/abs/2603.17356v1)** | 2026-03-18 | 26 pages, 15 figures |
+| **[Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation](https://arxiv.org/abs/2603.17315v1)** | 2026-03-18 | Accepted at WWW 2026 |
+| **[Continual Low-Rank Adapters for LLM-based Generative Recommender Systems](https://arxiv.org/abs/2510.25093v3)** | 2026-03-17 |  |
 | **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
 | **[UserSimCRS v2: Simulation-Based Evaluation for Conversational Recommender Systems](https://arxiv.org/abs/2512.04588v3)** | 2026-03-17 | <details><summary>Proce...</summary><p>Proceedings of the 48th European Conference on Information Retrieval (ECIR '26), 2026</p></details> |
 | **[ReFORM: Review-aggregated Profile Generation via LLM with Multi-Factor Attention for Restaurant Recommendation](https://arxiv.org/abs/2603.16236v1)** | 2026-03-17 |  |
@@ -34,32 +41,25 @@ labels: documentation
 | **[Multi-Scenario User Profile Construction via Recommendation Lists](https://arxiv.org/abs/2603.15357v1)** | 2026-03-16 |  |
 | **[Bringing Model Editing to Generative Recommendation in Cold-Start Scenarios](https://arxiv.org/abs/2603.14259v1)** | 2026-03-15 |  |
 | **[Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs](https://arxiv.org/abs/2603.13934v1)** | 2026-03-14 | <details><summary>Accep...</summary><p>Accepted at The Web Conference (WWW) 2026</p></details> |
-| **[R3-REC: Reasoning-Driven Recommendation via Retrieval-Augmented LLMs over Multi-Granular Interest Signals](https://arxiv.org/abs/2603.13730v1)** | 2026-03-14 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables. Accepted to the 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026)</p></details> |
-| **[Can Fairness Be Prompted? Prompt-Based Debiasing Strategies in High-Stakes Recommendations](https://arxiv.org/abs/2603.12935v1)** | 2026-03-13 |  |
-| **[Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems](https://arxiv.org/abs/2603.12752v1)** | 2026-03-13 |  |
-| **[Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems](https://arxiv.org/abs/2603.12726v1)** | 2026-03-13 | 5 pages, 5 figures |
-| **[VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models](https://arxiv.org/abs/2603.12625v1)** | 2026-03-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 1 table</p></details> |
-| **[LLM-driven Multimodal Recommendation](https://arxiv.org/abs/2602.05474v5)** | 2026-03-13 | <details><summary>There...</summary><p>There are some writing errors in our methods section that need to be corrected. We will then add extensive experiments and rewrite the Introduction and related work sections</p></details> |
-| **[AgentDrift: Unsafe Recommendation Drift Under Tool Corruption Hidden by Ranking Metrics in LLM Agents](https://arxiv.org/abs/2603.12564v1)** | 2026-03-13 | <details><summary>50 pa...</summary><p>50 pages, 31 tables, 15 figures. Under review at COLM 2026</p></details> |
 
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks](https://arxiv.org/abs/2511.06216v3)** | 2026-03-18 | <details><summary>Machi...</summary><p>Machine learning, diffusion neural networks. arXiv admin note: text overlap with arXiv:2504.16748</p></details> |
+| **[DeepCORO-CLIP: A Multi-View Foundation Model for Comprehensive Coronary Angiography Video-Text Analysis and External Validation](https://arxiv.org/abs/2603.17675v1)** | 2026-03-18 | 69 pages, 5 figures |
+| **[Neighbor GRPO: Contrastive ODE Policy Optimization Aligns Flow Models](https://arxiv.org/abs/2511.16955v2)** | 2026-03-18 | CVPR 2026 |
+| **[Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence](https://arxiv.org/abs/2412.07481v6)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted by AAAI 2025</p></details> |
+| **[VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation](https://arxiv.org/abs/2603.17450v1)** | 2026-03-18 |  |
+| **[Towards Motion-aware Referring Image Segmentation](https://arxiv.org/abs/2603.17413v1)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at AISTATS 2026. * Equal contribution</p></details> |
+| **[CRE-T1 Preview Technical Report: Beyond Contrastive Learning for Reasoning-Intensive Retrieval](https://arxiv.org/abs/2603.17387v1)** | 2026-03-18 |  |
+| **[Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis](https://arxiv.org/abs/2603.14832v2)** | 2026-03-18 |  |
+| **[ViSA: Visited-State Augmentation for Generalized Goal-Space Contrastive Reinforcement Learning](https://arxiv.org/abs/2603.14887v2)** | 2026-03-18 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, under Review</p></details> |
+| **[CMADiff: Cross-Modal Aligned Diffusion for Controllable Protein Generation](https://arxiv.org/abs/2503.21450v2)** | 2026-03-18 |  |
+| **[Pathology-Aware Multi-View Contrastive Learning for Patient-Independent ECG Reconstruction](https://arxiv.org/abs/2603.17248v1)** | 2026-03-18 |  |
+| **[Domain and Task-Focused Example Selection for Data-Efficient Contrastive Medical Image Segmentation](https://arxiv.org/abs/2505.19208v2)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://www.melba-journal.org/2026:002</p></details> |
+| **[Personalized Fall Detection by Balancing Data with Selective Feedback Using Contrastive Learning](https://arxiv.org/abs/2603.17148v1)** | 2026-03-17 |  |
+| **[Pixel-level Counterfactual Contrastive Learning for Medical Image Segmentation](https://arxiv.org/abs/2603.17110v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at ISBI-2026 (oral presentation)</p></details> |
 | **[RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800v1)** | 2026-03-17 | <details><summary>12 pa...</summary><p>12 pages, 5 figures. Accepted at WWW 2026</p></details> |
-| **[HMAR: Hierarchical Modality-Aware Expert and Dynamic Routing Medical Image Retrieval Architecture](https://arxiv.org/abs/2603.16679v1)** | 2026-03-17 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 1 table</p></details> |
-| **[$x^2$-Fusion: Cross-Modality and Cross-Dimension Flow Estimation in Event Edge Space](https://arxiv.org/abs/2603.16671v1)** | 2026-03-17 | <details><summary>This ...</summary><p>This version is the camera-ready version accepted at CVPR 2026</p></details> |
-| **[Scalable Feature Learning on Huge Knowledge Graphs for Downstream Machine Learning](https://arxiv.org/abs/2507.00965v3)** | 2026-03-17 | <details><summary>Code ...</summary><p>Code available at https://github.com/flefebv/sepal.git</p></details> |
-| **[Evo-Retriever: LLM-Guided Curriculum Evolution with Viewpoint-Pathway Collaboration for Multimodal Document Retrieval](https://arxiv.org/abs/2603.16455v1)** | 2026-03-17 | Accepted by CVPR2026 |
-| **[Few-Shot Video Object Segmentation in X-Ray Angiography Using Local Matching and Spatio-Temporal Consistency Loss](https://arxiv.org/abs/2601.00988v2)** | 2026-03-17 |  |
-| **[Unpaired Cross-Domain Calibration of DMSP to VIIRS Nighttime Light Data Based on CUT Network](https://arxiv.org/abs/2603.16385v1)** | 2026-03-17 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 8 tables. Submitted to Remote Sensing of Environment. Code and data available at: https://github.com/[your-repo-link]</p></details> |
-| **[Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds](https://arxiv.org/abs/2603.16343v1)** | 2026-03-17 | <details><summary>Proje...</summary><p>Project page: https://hoil-release.github.io/</p></details> |
-| **[Micro-AU CLIP: Fine-Grained Contrastive Learning from Local Independence to Global Dependency for Micro-Expression Action Unit Detection](https://arxiv.org/abs/2603.16302v1)** | 2026-03-17 |  |
-| **[Something from Nothing: Data Augmentation for Robust Severity Level Estimation of Dysarthric Speech](https://arxiv.org/abs/2603.15988v1)** | 2026-03-16 | <details><summary>Submi...</summary><p>Submitted to Interspeech 2026</p></details> |
-| **[ViSA: Visited-State Augmentation for Generalized Goal-Space Contrastive Reinforcement Learning](https://arxiv.org/abs/2603.14887v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, under Review</p></details> |
-| **[Halfway to 3D: Ensembling 2.5D and 3D Models for Robust COVID-19 CT Diagnosis](https://arxiv.org/abs/2603.14832v1)** | 2026-03-16 |  |
-| **[Face-Guided Sentiment Boundary Enhancement for Weakly-Supervised Temporal Sentiment Localization](https://arxiv.org/abs/2603.14750v1)** | 2026-03-16 |  |
-| **[The Geometric Mechanics of Contrastive Learning: Alignment Potentials, Entropic Dispersion, and Modality Gap](https://arxiv.org/abs/2601.19597v2)** | 2026-03-16 | <details><summary>Enhan...</summary><p>Enhance presentation, clarify notation, and add an experiment</p></details> |
-| **[TopoCL: Topological Contrastive Learning for Medical Imaging](https://arxiv.org/abs/2603.14647v1)** | 2026-03-15 |  |
 
 ## Heterophily
 | **Title** | **Date** | **Comment** |
