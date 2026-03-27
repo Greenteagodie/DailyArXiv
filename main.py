@@ -24,7 +24,7 @@ with open("README.md", "r") as f:
 
 keywords = ["Heterogeneous Graph", "Recommendation", "Contrastive Learning", "Heterophily"] # TODO add more keywords "Recommendation", "Contrastive Learning", "Heterophily"
 
-max_result = 100 # maximum query results from arXiv API for each keyword
+max_result = 150 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
