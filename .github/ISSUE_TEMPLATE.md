@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 27, 2026
+title: Latest 15 Papers - March 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,7 @@ labels: documentation
 ## Contrastive Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PixelSmile: Toward Fine-Grained Facial Expression Editing](https://arxiv.org/abs/2603.25728v1)** | 2026-03-26 | <details><summary>21 Pa...</summary><p>21 Pages; Project Page: https://ammmob.github.io/PixelSmile/; Code: https://github.com/Ammmob/PixelSmile</p></details> |
+| **[PixelSmile: Toward Fine-Grained Facial Expression Editing](https://arxiv.org/abs/2603.25728v1)** | 2026-03-26 | <details><summary>21 Pa...</summary><p>21 Pages; Project Page: https://ammmob.github.io/PixelSmile/ Code: https://github.com/Ammmob/PixelSmile</p></details> |
 | **[End-to-End Low-Level Neural Control of an Industrial-Grade 6D Magnetic Levitation System](https://arxiv.org/abs/2509.01388v2)** | 2026-03-26 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables</p></details> |
 | **[Mario: Multimodal Graph Reasoning with Large Language Models](https://arxiv.org/abs/2603.05181v2)** | 2026-03-26 | CVPR 2026 |
 | **[Self-Calibrated CLIP for Training-Free Open-Vocabulary Segmentation](https://arxiv.org/abs/2411.15869v3)** | 2026-03-26 | Accepted by IEEE TIP |
