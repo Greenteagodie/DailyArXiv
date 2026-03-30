@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Hypergraph Convolutional Networks Recommendation", "Multi-behavior Recommendation"] # TODO add more keywords "Recommendation", "Contrastive Learning", "Heterophily"
+keywords = ["Hypergraph Convolutional Networks", "Multi-behavior Recommendation"] # TODO add more keywords "Recommendation", "Contrastive Learning", "Heterophily"
 
 max_result = 150 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
