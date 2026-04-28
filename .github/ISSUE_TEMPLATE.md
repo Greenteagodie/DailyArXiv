@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Multi-behavior Recommendation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Modeling Behavioral Intensity and Transitions for Generative Recommendation](https://arxiv.org/abs/2604.24472v1)** | 2026-04-27 |  |
 | **[MCLMR: A Model-Agnostic Causal Learning Framework for Multi-Behavior Recommendation](https://arxiv.org/abs/2603.25126v1)** | 2026-03-26 | Accepted by WWW 2026 |
 | **[Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation](https://arxiv.org/abs/2603.18556v1)** | 2026-03-19 |  |
 | **[SWGCN: Synergy Weighted Graph Convolutional Network for Multi-Behavior Recommendation](https://arxiv.org/abs/2602.00727v1)** | 2026-01-31 | <details><summary>Accep...</summary><p>Accepted by Information Sciences</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization](https://arxiv.org/abs/2507.14758v1)** | 2025-07-19 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, The ACM Conference on Recommender Systems (RecSys) 2025</p></details> |
 | **[Multi-Behavior Recommender Systems: A Survey](https://arxiv.org/abs/2503.06963v1)** | 2025-03-10 | <details><summary>Accep...</summary><p>Accepted in the PAKDD 2025 Survey Track</p></details> |
 | **[Personalized Ranking on Cascading Behavior Graphs for Accurate Multi-Behavior Recommendation](https://arxiv.org/abs/2502.11335v1)** | 2025-02-17 | 26 pages |
-| **[Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations](https://arxiv.org/abs/2410.12228v2)** | 2025-02-16 |  |
 
