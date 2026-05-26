@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Capture-Calibrate-Coach: A Graph-Based Framework for Knowledge Monitoring Estimation and Adaptive Feedback](https://arxiv.org/abs/2605.25419v1)** | 2026-05-25 | <details><summary>To be...</summary><p>To be published in Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
+| **[ORACAL: A Robust and Explainable Multimodal Framework for Smart Contract Vulnerability Detection with Causal Graph Enrichment](https://arxiv.org/abs/2603.28128v2)** | 2026-05-23 | 21 pages, version 2 |
+| **[Incorporating Deep Learning Design in Database Queries](https://arxiv.org/abs/2605.24207v1)** | 2026-05-22 |  |
 | **[Heterogeneous Sheaf Neural Networks](https://arxiv.org/abs/2409.08036v3)** | 2026-05-22 | 48 pages, 2 figures |
 | **[MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels](https://arxiv.org/abs/2603.19310v4)** | 2026-05-22 |  |
 | **[Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids](https://arxiv.org/abs/2605.23194v1)** | 2026-05-22 | <details><summary>10 pa...</summary><p>10 pages, 6 tables, 4 figures</p></details> |
@@ -18,8 +21,5 @@ labels: documentation
 | **[Inductive inference of gradient-boosted decision trees on graphs for insurance fraud detection](https://arxiv.org/abs/2510.05676v2)** | 2026-05-15 |  |
 | **[EpiGraph: Building Generalists for Evidence-Intensive Epilepsy Reasoning in the Wild](https://arxiv.org/abs/2605.09505v2)** | 2026-05-13 |  |
 | **[Graph-Driven Cross-Industry Real-Time Monitoring Framework for Anti-Money Laundering Detection in Converged Mobility-Energy Supply Chain Networks](https://arxiv.org/abs/2605.18844v1)** | 2026-05-13 |  |
-| **[Structure-Centric Graph Foundation Model via Geometric Bases](https://arxiv.org/abs/2605.08689v1)** | 2026-05-09 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
-| **[Finding Connections: Membership Inference Attacks for the Multi-Table Synthetic Data Setting](https://arxiv.org/abs/2602.07126v2)** | 2026-05-08 |  |
-| **[HeterSEED: Semantics-Structure Decoupling for Heterogeneous Graph Learning under Heterophily](https://arxiv.org/abs/2605.04594v1)** | 2026-05-06 | 29 pages, 9 figures |
-| **[SOAR: Real-Time Joint Optimization of Order Allocation and Robot Scheduling in Robotic Mobile Fulfillment Systems](https://arxiv.org/abs/2605.03842v1)** | 2026-05-05 | 13 pages, 6 figures |
+| **[Game-Theoretic Modeling of Heterogeneous Investor Interactions for Stock Price Forecasting](https://arxiv.org/abs/2605.23953v1)** | 2026-05-11 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, intended for conference submission</p></details> |
 
