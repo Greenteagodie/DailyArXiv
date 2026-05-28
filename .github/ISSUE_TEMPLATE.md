@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2026
+title: Latest 15 Papers - May 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking Memory as Continuously Evolving Connectivity](https://arxiv.org/abs/2605.28773v1)** | 2026-05-27 | Ongoing work |
+| **[GraphLit: Learning Text-Enriched Dynamic Character Network Representations for Literary Study](https://arxiv.org/abs/2605.28643v1)** | 2026-05-27 |  |
+| **[Unified Multi-Domain Graph Pre-training for Homogeneous and Heterogeneous Graphs via Domain-Specific Expert Encoding](https://arxiv.org/abs/2602.13075v2)** | 2026-05-27 | 12 pages, 7 figures |
 | **[TED: Related Party Transaction guided Tax Evasion Detection on Heterogeneous Graph](https://arxiv.org/abs/2605.26984v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted by Data Mining and Knowledge Discovery (DMKD25)</p></details> |
 | **[GraphDancer: Training LLMs to Explore and Reason over Graphs via Two-Stage Curriculum Post-Training](https://arxiv.org/abs/2602.02518v2)** | 2026-05-26 | <details><summary>15 pa...</summary><p>15 pages, Project website: https://yuyangbai.com/graphdancer/</p></details> |
 | **[Operational Runtime Behavior Mining for Open-Source Supply Chain Security](https://arxiv.org/abs/2601.06948v2)** | 2026-05-25 |  |
@@ -19,7 +22,4 @@ labels: documentation
 | **[Billion-Scale Graph Foundation Models](https://arxiv.org/abs/2602.04768v2)** | 2026-05-21 |  |
 | **[MapTab: Are MLLMs Ready for Multi-Criteria Route Planning in Heterogeneous Graphs?](https://arxiv.org/abs/2602.18600v3)** | 2026-05-21 |  |
 | **[GOAL: Graph-based Objective-Aligned Diffusion Solvers for Dynamic Multi-Objective Optimization](https://arxiv.org/abs/2605.19119v1)** | 2026-05-18 |  |
-| **[VeriHGN: Heterogeneous Graph-Based Congestion Prediction for Chip Layout Verification](https://arxiv.org/abs/2603.11075v2)** | 2026-05-18 | Accpeted at KDD 2026 |
-| **[CHoE: Cross-Domain Heterogeneous Graph Prompt Learning via Structure-Conditioned Experts](https://arxiv.org/abs/2605.15888v1)** | 2026-05-15 | <details><summary>accep...</summary><p>accepted by IJCAI 2026, 9 pages, 4 figures</p></details> |
-| **[Inductive inference of gradient-boosted decision trees on graphs for insurance fraud detection](https://arxiv.org/abs/2510.05676v2)** | 2026-05-15 |  |
 
