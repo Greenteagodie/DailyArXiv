@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 31, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Advanced Mathematics Learning Behavior Prediction and Academic Early Warning Model Based on Multimodal Data Analysis](https://arxiv.org/abs/2606.01224v1)** | 2026-05-31 | 12 pages,5 figues |
+| **[From Graph Retrieval to Schema Realization: Counterfactual Validation for Text-to-SPARQL over Heterogeneous Knowledge Graphs](https://arxiv.org/abs/2508.01815v2)** | 2026-05-30 |  |
+| **[SemStruct: Contextualizing Semantic Embeddings with Structural Information for Schema Matching](https://arxiv.org/abs/2605.30729v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted to KDD 26 Research Track</p></details> |
 | **[GraphLit: Learning Text-Enriched Dynamic Character Network Representations for Literary Study](https://arxiv.org/abs/2605.28643v2)** | 2026-05-28 |  |
 | **[HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering](https://arxiv.org/abs/2605.29606v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ACL2026 Main</p></details> |
 | **[Rethinking Memory as Continuously Evolving Connectivity](https://arxiv.org/abs/2605.28773v1)** | 2026-05-27 | Ongoing work |
@@ -19,7 +22,4 @@ labels: documentation
 | **[Incorporating Deep Learning Design in Database Queries](https://arxiv.org/abs/2605.24207v1)** | 2026-05-22 |  |
 | **[Heterogeneous Sheaf Neural Networks](https://arxiv.org/abs/2409.08036v3)** | 2026-05-22 | 48 pages, 2 figures |
 | **[MemReward: Graph-Based Experience Memory for LLM Reward Prediction with Limited Labels](https://arxiv.org/abs/2603.19310v4)** | 2026-05-22 |  |
-| **[Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids](https://arxiv.org/abs/2605.23194v1)** | 2026-05-22 | <details><summary>10 pa...</summary><p>10 pages, 6 tables, 4 figures</p></details> |
-| **[Billion-Scale Graph Foundation Models](https://arxiv.org/abs/2602.04768v2)** | 2026-05-21 |  |
-| **[MapTab: Are MLLMs Ready for Multi-Criteria Route Planning in Heterogeneous Graphs?](https://arxiv.org/abs/2602.18600v3)** | 2026-05-21 |  |
 
