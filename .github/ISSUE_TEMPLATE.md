@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 04, 2026
+title: Latest 15 Papers - June 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AISC deployment in dynamic UAV-assisted MEC network: a reinforcement learning method based on heterogeneous graph attention neural network](https://arxiv.org/abs/2606.05722v1)** | 2026-06-04 |  |
 | **[From Graph Retrieval to Schema Realization: Counterfactual Validation for Text-to-SPARQL over Heterogeneous Knowledge Graphs](https://arxiv.org/abs/2508.01815v3)** | 2026-06-03 |  |
 | **[Inductive Latent Context Persistence: Closing the Post-Handover Cold Start in 6G Radio Access Networks](https://arxiv.org/abs/2605.00593v2)** | 2026-06-02 |  |
 | **[HiSE: A Lightweight Hierarchical Semantic Explainer for Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2606.03495v1)** | 2026-06-02 |  |
@@ -21,5 +22,4 @@ labels: documentation
 | **[TED: Related Party Transaction guided Tax Evasion Detection on Heterogeneous Graph](https://arxiv.org/abs/2605.26984v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted by Data Mining and Knowledge Discovery (DMKD25)</p></details> |
 | **[GraphDancer: Training LLMs to Explore and Reason over Graphs via Two-Stage Curriculum Post-Training](https://arxiv.org/abs/2602.02518v2)** | 2026-05-26 | <details><summary>15 pa...</summary><p>15 pages, Project website: https://yuyangbai.com/graphdancer/</p></details> |
 | **[Operational Runtime Behavior Mining for Open-Source Supply Chain Security](https://arxiv.org/abs/2601.06948v2)** | 2026-05-25 |  |
-| **[Capture-Calibrate-Coach: A Graph-Based Framework for Knowledge Monitoring Estimation and Adaptive Feedback](https://arxiv.org/abs/2605.25419v1)** | 2026-05-25 | <details><summary>To be...</summary><p>To be published in Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)</p></details> |
 
