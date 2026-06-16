@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2026
+title: Latest 15 Papers - June 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TCHG: Tri-Trust Conditioned Heterogeneous Graph Learning for Reliable Dynamic Trust Prediction](https://arxiv.org/abs/2606.16611v1)** | 2026-06-15 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 13 tables</p></details> |
+| **[Multi-Modal Spatio-Temporal Graph Neural Network with Mixture of Experts for Soil Organic Carbon Prediction](https://arxiv.org/abs/2606.16580v1)** | 2026-06-15 | <details><summary>Paper...</summary><p>Paper is 27 pages, 14 figures, 12 tables</p></details> |
+| **[Cluster-based Message-Passing (CluMP) Optimization for Complex QUBO Problems](https://arxiv.org/abs/2606.15414v1)** | 2026-06-13 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table</p></details> |
 | **[A Zero-shot Generalized Graph Anomaly Detection Framework via Node Reconstruction](https://arxiv.org/abs/2606.12673v1)** | 2026-06-10 |  |
 | **[A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection](https://arxiv.org/abs/2510.26307v3)** | 2026-06-08 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, and 97 references. Accepted by the Journal of Computer Security</p></details> |
 | **[What Makes a Desired Graph for Relational Deep Learning?](https://arxiv.org/abs/2606.08491v1)** | 2026-06-07 | <details><summary>This ...</summary><p>This article has been accepted by ICML 2026</p></details> |
@@ -19,7 +22,4 @@ labels: documentation
 | **[From Graph Retrieval to Schema Realization: Counterfactual Validation for Text-to-SPARQL over Heterogeneous Knowledge Graphs](https://arxiv.org/abs/2508.01815v3)** | 2026-06-03 |  |
 | **[Inductive Latent Context Persistence: Closing the Post-Handover Cold Start in 6G Radio Access Networks](https://arxiv.org/abs/2605.00593v2)** | 2026-06-02 |  |
 | **[HiSE: A Lightweight Hierarchical Semantic Explainer for Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2606.03495v1)** | 2026-06-02 |  |
-| **[Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions](https://arxiv.org/abs/2602.14279v2)** | 2026-06-02 | <details><summary>Publi...</summary><p>Published as a conference paper at ICML 2026</p></details> |
-| **[RelGT-AC: A Relational Graph Transformer for Autocomplete Tasks in Relational Databases](https://arxiv.org/abs/2606.03040v1)** | 2026-06-02 | <details><summary>12 pa...</summary><p>12 pages, 6 figures. Code and model checkpoints available at https://github.com/jiangdmv/graph-transformer</p></details> |
-| **[Advanced Mathematics Learning Behavior Prediction and Academic Early Warning Model Based on Multimodal Data Analysis](https://arxiv.org/abs/2606.01224v1)** | 2026-05-31 | 12 pages,5 figures |
 
