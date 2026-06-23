@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2026
+title: Latest 15 Papers - June 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Universal Encoders for Modular Relational Deep Learning](https://arxiv.org/abs/2606.21434v1)** | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted to ECML PKDD 2026 in Naples, Italy</p></details> |
+| **[Heterogeneous Policy Networks for Composite Robot Team Communication and Coordination](https://arxiv.org/abs/2606.20962v1)** | 2026-06-18 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Robotics (T-RO)</p></details> |
+| **[Physics-Guided Dual-Stream Heterogeneous Graph Neural Network for Predicting Full-Field Structural Response of Stiffened Panels](https://arxiv.org/abs/2606.20916v1)** | 2026-06-18 |  |
 | **[Detecting High-Potential SMEs with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2602.19591v3)** | 2026-06-17 | <details><summary>accep...</summary><p>accepted by (ICIIS 2026)</p></details> |
 | **[Cluster-based Message-Passing (CluMP) Optimization for Complex QUBO Problems](https://arxiv.org/abs/2606.15414v2)** | 2026-06-16 | <details><summary>Main:...</summary><p>Main: 9 pages, 4 figures, 1 table. End Matter: 2 pages and 1 figure. Supp. Info: 5 pages, 3 figures</p></details> |
 | **[VulLink: A Dynamic Open-Access Vulnerability Graph Database for Cybersecurity Data Mining](https://arxiv.org/abs/2604.06967v2)** | 2026-06-16 |  |
@@ -19,7 +22,4 @@ labels: documentation
 | **[Paediatric-HGNN: A Hybrid Heterogeneous Graph Neural Network for Detecting Disfluency in Children's Speech via Multiscale Acoustic Fusion](https://arxiv.org/abs/2606.08210v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted at INTERSPEECH 2026 (Main)</p></details> |
 | **[OSMGraphCLIP: Learning Global Location Representations from OpenStreetMap Graphs](https://arxiv.org/abs/2606.08046v1)** | 2026-06-06 |  |
 | **[Hierarchical Semantic-Constrained Heterogeneous Graph for Audio-Visual Event Localization](https://arxiv.org/abs/2606.07033v1)** | 2026-06-05 |  |
-| **[CHoE: Cross-Domain Heterogeneous Graph Prompt Learning via Structure-Conditioned Experts](https://arxiv.org/abs/2605.15888v2)** | 2026-06-05 | <details><summary>accep...</summary><p>accepted by IJCAI 2026, 9 pages, 4 figures</p></details> |
-| **[VeriHGN: Heterogeneous Graph-Based Congestion Prediction for Chip Layout Verification](https://arxiv.org/abs/2603.11075v3)** | 2026-06-04 | Accpeted at KDD 2026 |
-| **[AISC deployment in dynamic UAV-assisted MEC network: a reinforcement learning method based on heterogeneous graph attention neural network](https://arxiv.org/abs/2606.05722v1)** | 2026-06-04 |  |
 
