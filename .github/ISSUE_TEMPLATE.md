@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 28, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GNBAN: Graph Neural Basis Attention Networks for Long-Horizon Forecasting over Large Entity Sets](https://arxiv.org/abs/2606.27863v1)** | 2026-06-26 | 12 pages, 3 Figure |
+| **[hia-gat: A Heterogeneous Interaction-Aware Graph Attention Network For Frame-Level Traffic Conflict Risk Prediction On Freeways](https://arxiv.org/abs/2606.27577v1)** | 2026-06-25 |  |
 | **[Universal Encoders for Modular Relational Deep Learning](https://arxiv.org/abs/2606.21434v1)** | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted to ECML PKDD 2026 in Naples, Italy</p></details> |
 | **[Heterogeneous Policy Networks for Composite Robot Team Communication and Coordination](https://arxiv.org/abs/2606.20962v1)** | 2026-06-18 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Robotics (T-RO)</p></details> |
 | **[Physics-Guided Dual-Stream Heterogeneous Graph Neural Network for Predicting Full-Field Structural Response of Stiffened Panels](https://arxiv.org/abs/2606.20916v1)** | 2026-06-18 |  |
@@ -20,6 +22,4 @@ labels: documentation
 | **[A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection](https://arxiv.org/abs/2510.26307v3)** | 2026-06-08 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, and 97 references. Accepted by the Journal of Computer Security</p></details> |
 | **[What Makes a Desired Graph for Relational Deep Learning?](https://arxiv.org/abs/2606.08491v1)** | 2026-06-07 | <details><summary>This ...</summary><p>This article has been accepted by ICML 2026</p></details> |
 | **[Paediatric-HGNN: A Hybrid Heterogeneous Graph Neural Network for Detecting Disfluency in Children's Speech via Multiscale Acoustic Fusion](https://arxiv.org/abs/2606.08210v1)** | 2026-06-06 | <details><summary>Accep...</summary><p>Accepted at INTERSPEECH 2026 (Main)</p></details> |
-| **[OSMGraphCLIP: Learning Global Location Representations from OpenStreetMap Graphs](https://arxiv.org/abs/2606.08046v1)** | 2026-06-06 |  |
-| **[Hierarchical Semantic-Constrained Heterogeneous Graph for Audio-Visual Event Localization](https://arxiv.org/abs/2606.07033v1)** | 2026-06-05 |  |
 
