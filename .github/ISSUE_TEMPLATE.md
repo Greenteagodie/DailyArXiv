@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2026
+title: Latest 15 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Canopy: A Heterograph Foundation Model for Metabolic Engineering](https://arxiv.org/abs/2607.06224v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICML GenBio Workshop 2026 https://openreview.net/forum?id=H8bvgKoT7j</p></details> |
 | **[LLM-Enhanced Hierarchical Heterogeneous Graph Representation Learning for Malicious Python Package Detection](https://arxiv.org/abs/2607.03350v1)** | 2026-07-03 |  |
 | **[Heterogeneous Graph Condensation via Role-Aware Clustering](https://arxiv.org/abs/2607.03097v1)** | 2026-07-03 | 10 pages, 5 figures |
 | **[MABLE: Masked Autoencoding with Bi-Lipschitz Decoding for Embeddings and Graph Metric Learning](https://arxiv.org/abs/2607.02990v1)** | 2026-07-03 |  |
@@ -21,5 +22,4 @@ labels: documentation
 | **[hia-gat: A Heterogeneous Interaction-Aware Graph Attention Network For Frame-Level Traffic Conflict Risk Prediction On Freeways](https://arxiv.org/abs/2606.27577v1)** | 2026-06-25 |  |
 | **[Universal Encoders for Modular Relational Deep Learning](https://arxiv.org/abs/2606.21434v1)** | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted to ECML PKDD 2026 in Naples, Italy</p></details> |
 | **[Heterogeneous Policy Networks for Composite Robot Team Communication and Coordination](https://arxiv.org/abs/2606.20962v1)** | 2026-06-18 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Robotics (T-RO)</p></details> |
-| **[Physics-Guided Dual-Stream Heterogeneous Graph Neural Network for Predicting Full-Field Structural Response of Stiffened Panels](https://arxiv.org/abs/2606.20916v1)** | 2026-06-18 |  |
 
