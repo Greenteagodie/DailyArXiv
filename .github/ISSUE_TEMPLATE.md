@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 09, 2026
+title: Latest 15 Papers - July 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](https://arxiv.org/abs/2607.08269v1)** | 2026-07-09 |  |
 | **[Canopy: A Heterograph Foundation Model for Metabolic Engineering](https://arxiv.org/abs/2607.06224v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICML GenBio Workshop 2026 https://openreview.net/forum?id=H8bvgKoT7j</p></details> |
 | **[LLM-Enhanced Hierarchical Heterogeneous Graph Representation Learning for Malicious Python Package Detection](https://arxiv.org/abs/2607.03350v1)** | 2026-07-03 |  |
 | **[Heterogeneous Graph Condensation via Role-Aware Clustering](https://arxiv.org/abs/2607.03097v1)** | 2026-07-03 | 10 pages, 5 figures |
@@ -21,5 +22,4 @@ labels: documentation
 | **[GNBAN: Graph Neural Basis Attention Networks for Long-Horizon Forecasting over Large Entity Sets](https://arxiv.org/abs/2606.27863v1)** | 2026-06-26 | 12 pages, 3 Figure |
 | **[hia-gat: A Heterogeneous Interaction-Aware Graph Attention Network For Frame-Level Traffic Conflict Risk Prediction On Freeways](https://arxiv.org/abs/2606.27577v1)** | 2026-06-25 |  |
 | **[Universal Encoders for Modular Relational Deep Learning](https://arxiv.org/abs/2606.21434v1)** | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted to ECML PKDD 2026 in Naples, Italy</p></details> |
-| **[Heterogeneous Policy Networks for Composite Robot Team Communication and Coordination](https://arxiv.org/abs/2606.20962v1)** | 2026-06-18 | <details><summary>IEEE ...</summary><p>IEEE Transactions on Robotics (T-RO)</p></details> |
 
