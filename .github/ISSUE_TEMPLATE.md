@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 12, 2026
+title: Latest 15 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders](https://arxiv.org/abs/2511.17113v3)** | 2026-07-10 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted for publication at the 2026 IEEE International Conference on Network Softwarization (NetSoft)</p></details> |
+| **[TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning](https://arxiv.org/abs/2607.08940v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
+| **[Tonnetz-Driven Graph Wedgelet for Harmonic Complexity Reduction in Music Scores](https://arxiv.org/abs/2607.08806v1)** | 2026-07-09 |  |
 | **[PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](https://arxiv.org/abs/2607.08269v1)** | 2026-07-09 |  |
 | **[Canopy: A Heterograph Foundation Model for Metabolic Engineering](https://arxiv.org/abs/2607.06224v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICML GenBio Workshop 2026 https://openreview.net/forum?id=H8bvgKoT7j</p></details> |
 | **[LLM-Enhanced Hierarchical Heterogeneous Graph Representation Learning for Malicious Python Package Detection](https://arxiv.org/abs/2607.03350v1)** | 2026-07-03 |  |
@@ -19,7 +22,4 @@ labels: documentation
 | **[Attention Enhanced Entity Recommendation for Intelligent Monitoring in Cloud Systems](https://arxiv.org/abs/2510.20640v2)** | 2026-06-29 |  |
 | **[Blackknife: Hard-Label Query-Limited Black-Box Attacks on Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2606.29240v1)** | 2026-06-28 |  |
 | **[Latent Bridges for Multi-Table Question Answering](https://arxiv.org/abs/2606.28916v1)** | 2026-06-27 |  |
-| **[GNBAN: Graph Neural Basis Attention Networks for Long-Horizon Forecasting over Large Entity Sets](https://arxiv.org/abs/2606.27863v1)** | 2026-06-26 | 12 pages, 3 Figure |
-| **[hia-gat: A Heterogeneous Interaction-Aware Graph Attention Network For Frame-Level Traffic Conflict Risk Prediction On Freeways](https://arxiv.org/abs/2606.27577v1)** | 2026-06-25 |  |
-| **[Universal Encoders for Modular Relational Deep Learning](https://arxiv.org/abs/2606.21434v1)** | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted to ECML PKDD 2026 in Naples, Italy</p></details> |
 
