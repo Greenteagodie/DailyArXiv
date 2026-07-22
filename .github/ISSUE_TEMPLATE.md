@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection](https://arxiv.org/abs/2505.18934v2)** | 2026-07-21 |  |
+| **[GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models](https://arxiv.org/abs/2607.19270v1)** | 2026-07-21 |  |
 | **[DIB-OD: Preserving the Invariant Core for Robust Heterogeneous Graph Adaptation via Decoupled Information Bottleneck and Online Distillation](https://arxiv.org/abs/2604.10882v2)** | 2026-07-20 |  |
 | **[TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning](https://arxiv.org/abs/2607.08940v2)** | 2026-07-18 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
 | **[SAGE: A Socially-Aware Generative Engine for Heterogeneous Multi-Agent Navigation](https://arxiv.org/abs/2607.16619v1)** | 2026-07-18 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, and 14 tables. Includes supplementary experimental details</p></details> |
@@ -20,6 +22,4 @@ labels: documentation
 | **[Heterogeneous Graph Condensation via Role-Aware Clustering](https://arxiv.org/abs/2607.03097v1)** | 2026-07-03 | 10 pages, 5 figures |
 | **[MABLE: Masked Autoencoding with Bi-Lipschitz Decoding for Embeddings and Graph Metric Learning](https://arxiv.org/abs/2607.02990v1)** | 2026-07-03 |  |
 | **[A Sliding-Window-Based Reinforcement Learning for Dynamic Assembly Flow Shop Scheduling with Multi-Product Delivery](https://arxiv.org/abs/2607.02941v1)** | 2026-07-03 |  |
-| **[Spatial Support Matters: Geometry-Aware Graph Fusion for Rainfall Field Reconstruction](https://arxiv.org/abs/2607.01621v1)** | 2026-07-02 | <details><summary>Submi...</summary><p>Submitted to WACV 2027, applications track</p></details> |
-| **[EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation](https://arxiv.org/abs/2607.01584v1)** | 2026-07-02 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 AI for Science Workshop</p></details> |
 
