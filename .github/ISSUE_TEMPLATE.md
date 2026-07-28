@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - July 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GFLAN: Generative Functional Layouts](https://arxiv.org/abs/2512.16275v2)** | 2026-07-27 | 21 pages, 15 figures |
+| **[LAGS: Low-Altitude Gaussian Splatting with Groupwise Heterogeneous Graph Learning](https://arxiv.org/abs/2604.16910v2)** | 2026-07-25 | <details><summary>6 pag...</summary><p>6 pages, 12 figures, 2 tables</p></details> |
 | **[SAGE: A Socially-Aware Generative Engine for Heterogeneous Multi-Agent Navigation](https://arxiv.org/abs/2607.16619v2)** | 2026-07-23 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, and 14 tables. Includes supplementary experimental details</p></details> |
 | **[Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection](https://arxiv.org/abs/2505.18934v2)** | 2026-07-21 |  |
 | **[GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models](https://arxiv.org/abs/2607.19270v1)** | 2026-07-21 |  |
@@ -20,6 +22,4 @@ labels: documentation
 | **[PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](https://arxiv.org/abs/2607.08269v1)** | 2026-07-09 |  |
 | **[Canopy: A Heterograph Foundation Model for Metabolic Engineering](https://arxiv.org/abs/2607.06224v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICML GenBio Workshop 2026 https://openreview.net/forum?id=H8bvgKoT7j</p></details> |
 | **[LLM-Enhanced Hierarchical Heterogeneous Graph Representation Learning for Malicious Python Package Detection](https://arxiv.org/abs/2607.03350v1)** | 2026-07-03 |  |
-| **[Heterogeneous Graph Condensation via Role-Aware Clustering](https://arxiv.org/abs/2607.03097v1)** | 2026-07-03 | 10 pages, 5 figures |
-| **[MABLE: Masked Autoencoding with Bi-Lipschitz Decoding for Embeddings and Graph Metric Learning](https://arxiv.org/abs/2607.02990v1)** | 2026-07-03 |  |
 
