@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 29, 2026
+title: Latest 15 Papers - July 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AtmosERC: Modeling Dialogue-Level Affective Atmosphere for Emotion Recognition in Conversation](https://arxiv.org/abs/2607.26726v1)** | 2026-07-29 |  |
 | **[TRWH: A Text-Driven Random Walk Heterogeneous GNN for Semantic-Aware Sparse Recommendation](https://arxiv.org/abs/2607.25471v1)** | 2026-07-28 |  |
 | **[GFLAN: Generative Functional Layouts](https://arxiv.org/abs/2512.16275v2)** | 2026-07-27 | 21 pages, 15 figures |
 | **[LAGS: Low-Altitude Gaussian Splatting with Groupwise Heterogeneous Graph Learning](https://arxiv.org/abs/2604.16910v2)** | 2026-07-25 | <details><summary>6 pag...</summary><p>6 pages, 12 figures, 2 tables</p></details> |
@@ -21,5 +22,4 @@ labels: documentation
 | **[AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders](https://arxiv.org/abs/2511.17113v3)** | 2026-07-10 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted for publication at the 2026 IEEE International Conference on Network Softwarization (NetSoft)</p></details> |
 | **[Tonnetz-Driven Graph Wedgelet for Harmonic Complexity Reduction in Music Scores](https://arxiv.org/abs/2607.08806v1)** | 2026-07-09 |  |
 | **[PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](https://arxiv.org/abs/2607.08269v1)** | 2026-07-09 |  |
-| **[Canopy: A Heterograph Foundation Model for Metabolic Engineering](https://arxiv.org/abs/2607.06224v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICML GenBio Workshop 2026 https://openreview.net/forum?id=H8bvgKoT7j</p></details> |
 
