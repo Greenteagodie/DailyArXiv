@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 02, 2026
+title: Latest 15 Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Emotional Video Captioning via Affective Heterogeneous Graph Reasoning and Multi-task Joint Learning](https://arxiv.org/abs/2607.29045v1)** | 2026-07-31 |  |
 | **[THGFM: Dual-Branch Temporal Heterogeneous Graph Fusion Model](https://arxiv.org/abs/2607.27303v1)** | 2026-07-29 |  |
 | **[AtmosERC: Modeling Dialogue-Level Affective Atmosphere for Emotion Recognition in Conversation](https://arxiv.org/abs/2607.26726v1)** | 2026-07-29 |  |
 | **[TRWH: A Text-Driven Random Walk Heterogeneous GNN for Semantic-Aware Sparse Recommendation](https://arxiv.org/abs/2607.25471v1)** | 2026-07-28 |  |
@@ -21,5 +22,4 @@ labels: documentation
 | **[Towards Predicting Multi-Vulnerability Attack Chains in Software Supply Chains from Software Bill of Materials Graphs](https://arxiv.org/abs/2604.04977v2)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted for the ACM International Conference on the Foundations of Software Engineering (FSE) 2026 Ideas, Visions and Reflections (IVR) Track</p></details> |
 | **[Beyond SBDD: Geometric Deep Learning in Polypharmacology and Multi-target Drug Design](https://arxiv.org/abs/2607.20550v1)** | 2026-07-14 |  |
 | **[AutoGraphAD: Unsupervised network anomaly detection using Variational Graph Autoencoders](https://arxiv.org/abs/2511.17113v3)** | 2026-07-10 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted for publication at the 2026 IEEE International Conference on Network Softwarization (NetSoft)</p></details> |
-| **[Tonnetz-Driven Graph Wedgelet for Harmonic Complexity Reduction in Music Scores](https://arxiv.org/abs/2607.08806v1)** | 2026-07-09 |  |
 
