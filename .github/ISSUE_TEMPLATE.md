@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SynEnergy: Anomaly Semantic-Guided Diffusion for Synthetic Energy Data Generation](https://arxiv.org/abs/2608.03087v1)** | 2026-08-04 | 24 pages, 44 figures |
+| **[PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling](https://arxiv.org/abs/2608.03041v1)** | 2026-08-04 |  |
+| **[DIB-OD: Preserving the Invariant Core for Robust Heterogeneous Graph Adaptation via Decoupled Information Bottleneck and Online Distillation](https://arxiv.org/abs/2604.10882v3)** | 2026-08-04 |  |
 | **[HetGPS: Scalable Graph Multi-Agent Reinforcement Learning with Physics-Anchored Adaptive Safety for EV Charging](https://arxiv.org/abs/2608.00679v1)** | 2026-08-01 |  |
 | **[Agentic Graph Token Reasoning](https://arxiv.org/abs/2608.00542v1)** | 2026-08-01 |  |
 | **[GNN-RSMA: An Interference Management Framework for a Large-Scale HAPS Network](https://arxiv.org/abs/2608.00380v1)** | 2026-08-01 |  |
@@ -19,7 +22,4 @@ labels: documentation
 | **[SAGE: A Socially-Aware Generative Engine for Heterogeneous Multi-Agent Navigation](https://arxiv.org/abs/2607.16619v2)** | 2026-07-23 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, and 14 tables. Includes supplementary experimental details</p></details> |
 | **[Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection](https://arxiv.org/abs/2505.18934v2)** | 2026-07-21 |  |
 | **[GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models](https://arxiv.org/abs/2607.19270v1)** | 2026-07-21 |  |
-| **[DIB-OD: Preserving the Invariant Core for Robust Heterogeneous Graph Adaptation via Decoupled Information Bottleneck and Online Distillation](https://arxiv.org/abs/2604.10882v2)** | 2026-07-20 |  |
-| **[TSRouter: Dynamic Modality-Model Selection for Time Series Reasoning](https://arxiv.org/abs/2607.08940v2)** | 2026-07-18 | <details><summary>Accep...</summary><p>Accepted to COLM 2026</p></details> |
-| **[Are Heterogeneous Graph Neural Networks Truly Effective for Node Classification? A Causal Perspective](https://arxiv.org/abs/2510.05750v2)** | 2026-07-17 |  |
 
