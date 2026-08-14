@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation](https://arxiv.org/abs/2608.13216v1)** | 2026-08-13 |  |
+| **[Incremental Evaluation and Training in Relational Deep Learning](https://arxiv.org/abs/2608.13023v1)** | 2026-08-13 |  |
 | **[Secure Cooperative THz ISAC via Mamba Empowered Graph Neural Network Precoding](https://arxiv.org/abs/2608.10467v1)** | 2026-08-11 |  |
 | **[ConnectionMind: Leveraging Social Networks and Large Language Models for Personalized Recommendation at Meta](https://arxiv.org/abs/2608.10187v1)** | 2026-08-10 |  |
 | **[Fundamental Limits of Decentralized Self-Regulating Random Walks](https://arxiv.org/abs/2601.21489v2)** | 2026-08-07 |  |
@@ -20,6 +22,4 @@ labels: documentation
 | **[GNN-RSMA: An Interference Management Framework for a Large-Scale HAPS Network](https://arxiv.org/abs/2608.00380v1)** | 2026-08-01 |  |
 | **[Adaptive Emotional Video Captioning via Affective Heterogeneous Graph Reasoning and Multi-task Joint Learning](https://arxiv.org/abs/2607.29045v1)** | 2026-07-31 |  |
 | **[THGFM: Dual-Branch Temporal Heterogeneous Graph Fusion Model](https://arxiv.org/abs/2607.27303v1)** | 2026-07-29 |  |
-| **[AtmosERC: Modeling Dialogue-Level Affective Atmosphere for Emotion Recognition in Conversation](https://arxiv.org/abs/2607.26726v1)** | 2026-07-29 |  |
-| **[TRWH: A Text-Driven Random Walk Heterogeneous GNN for Semantic-Aware Sparse Recommendation](https://arxiv.org/abs/2607.25471v1)** | 2026-07-28 |  |
 
