@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 16, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[No Data? No Problem: Synthesizing Security Graphs for Better Intrusion Detection](https://arxiv.org/abs/2506.06226v4)** | 2026-08-14 |  |
 | **[CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation](https://arxiv.org/abs/2608.13216v1)** | 2026-08-13 |  |
 | **[Incremental Evaluation and Training in Relational Deep Learning](https://arxiv.org/abs/2608.13023v1)** | 2026-08-13 |  |
 | **[Secure Cooperative THz ISAC via Mamba Empowered Graph Neural Network Precoding](https://arxiv.org/abs/2608.10467v1)** | 2026-08-11 |  |
@@ -21,5 +22,4 @@ labels: documentation
 | **[Agentic Graph Token Reasoning](https://arxiv.org/abs/2608.00542v1)** | 2026-08-01 |  |
 | **[GNN-RSMA: An Interference Management Framework for a Large-Scale HAPS Network](https://arxiv.org/abs/2608.00380v1)** | 2026-08-01 |  |
 | **[Adaptive Emotional Video Captioning via Affective Heterogeneous Graph Reasoning and Multi-task Joint Learning](https://arxiv.org/abs/2607.29045v1)** | 2026-07-31 |  |
-| **[THGFM: Dual-Branch Temporal Heterogeneous Graph Fusion Model](https://arxiv.org/abs/2607.27303v1)** | 2026-07-29 |  |
 
