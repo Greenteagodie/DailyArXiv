@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FinFraudBench: A Heterogeneous Graph Benchmark for Financial Fraud Detection](https://arxiv.org/abs/2608.15177v1)** | 2026-08-15 | 16 pages, 7 figures |
+| **[LAGS: Low-Altitude Gaussian Splatting with Groupwise Heterogeneous Graph Learning](https://arxiv.org/abs/2604.16910v3)** | 2026-08-15 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, 2 tables</p></details> |
 | **[No Data? No Problem: Synthesizing Security Graphs for Better Intrusion Detection](https://arxiv.org/abs/2506.06226v4)** | 2026-08-14 |  |
 | **[CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation](https://arxiv.org/abs/2608.13216v1)** | 2026-08-13 |  |
 | **[Incremental Evaluation and Training in Relational Deep Learning](https://arxiv.org/abs/2608.13023v1)** | 2026-08-13 |  |
@@ -20,6 +22,4 @@ labels: documentation
 | **[DIB-OD: Preserving the Invariant Core for Robust Heterogeneous Graph Adaptation via Decoupled Information Bottleneck and Online Distillation](https://arxiv.org/abs/2604.10882v3)** | 2026-08-04 |  |
 | **[HetGPS: Scalable Graph Multi-Agent Reinforcement Learning with Physics-Anchored Adaptive Safety for EV Charging](https://arxiv.org/abs/2608.00679v1)** | 2026-08-01 |  |
 | **[Agentic Graph Token Reasoning](https://arxiv.org/abs/2608.00542v1)** | 2026-08-01 |  |
-| **[GNN-RSMA: An Interference Management Framework for a Large-Scale HAPS Network](https://arxiv.org/abs/2608.00380v1)** | 2026-08-01 |  |
-| **[Adaptive Emotional Video Captioning via Affective Heterogeneous Graph Reasoning and Multi-task Joint Learning](https://arxiv.org/abs/2607.29045v1)** | 2026-07-31 |  |
 
