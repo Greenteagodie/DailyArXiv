@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2026
+title: Latest 15 Papers - September 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing Byzantine Node Placement in Decentralized Federated Learning](https://arxiv.org/abs/2609.01495v1)** | 2026-09-01 |  |
+| **[Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering](https://arxiv.org/abs/2609.00761v1)** | 2026-09-01 | <details><summary>Proce...</summary><p>Proceedings of the ACM Web Conference 2026</p></details> |
 | **[GraphLit: Learning Text-Enriched Dynamic Character Network Representations for Literary Study](https://arxiv.org/abs/2605.28643v3)** | 2026-08-31 | EMNLP 2026 (Main) |
 | **[A Zero-shot Generalized Graph Anomaly Detection Framework via Node Reconstruction](https://arxiv.org/abs/2606.12673v2)** | 2026-08-29 | PRICAI 2026 |
 | **[RAD: Rule-Augmented Relational Anomaly Detection](https://arxiv.org/abs/2608.23468v1)** | 2026-08-24 |  |
@@ -20,6 +22,4 @@ labels: documentation
 | **[CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation](https://arxiv.org/abs/2608.13216v1)** | 2026-08-13 |  |
 | **[Incremental Evaluation and Training in Relational Deep Learning](https://arxiv.org/abs/2608.13023v1)** | 2026-08-13 |  |
 | **[Secure Cooperative THz ISAC via Mamba Empowered Graph Neural Network Precoding](https://arxiv.org/abs/2608.10467v1)** | 2026-08-11 |  |
-| **[ConnectionMind: Leveraging Social Networks and Large Language Models for Personalized Recommendation at Meta](https://arxiv.org/abs/2608.10187v1)** | 2026-08-10 |  |
-| **[Fundamental Limits of Decentralized Self-Regulating Random Walks](https://arxiv.org/abs/2601.21489v2)** | 2026-08-07 |  |
 
