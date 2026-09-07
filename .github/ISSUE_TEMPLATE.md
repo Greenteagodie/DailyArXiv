@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 06, 2026
+title: Latest 15 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Heterogeneous Graph Representation Learning: A Survey](https://arxiv.org/abs/2609.04779v1)** | 2026-09-04 | <details><summary>IJCAI...</summary><p>IJCAI 2026 Survey Track</p></details> |
 | **[SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center](https://arxiv.org/abs/2609.04159v1)** | 2026-09-03 |  |
 | **[GMTRouter: Personalized LLM Router over Multi-turn User Interactions](https://arxiv.org/abs/2511.08590v2)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
 | **[Optimizing Byzantine Node Placement in Decentralized Federated Learning](https://arxiv.org/abs/2609.01495v1)** | 2026-09-01 |  |
@@ -21,5 +22,4 @@ labels: documentation
 | **[FinFraudBench: A Heterogeneous Graph Benchmark for Financial Fraud Detection](https://arxiv.org/abs/2608.15177v1)** | 2026-08-15 | 16 pages, 7 figures |
 | **[LAGS: Low-Altitude Gaussian Splatting with Groupwise Heterogeneous Graph Learning](https://arxiv.org/abs/2604.16910v3)** | 2026-08-15 | <details><summary>8 pag...</summary><p>8 pages, 12 figures, 2 tables</p></details> |
 | **[No Data? No Problem: Synthesizing Security Graphs for Better Intrusion Detection](https://arxiv.org/abs/2506.06226v4)** | 2026-08-14 |  |
-| **[CogChat: Knowledge Graph-Augmented Conversational AI with Heterogeneous Graph Transformer for Cognitive Grounding in Design Generation](https://arxiv.org/abs/2608.13216v1)** | 2026-08-13 |  |
 
