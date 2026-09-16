@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 12, 2026
+title: Latest 15 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unified Heterogeneous Graph Neural Network solver for Power Flow, Optimal Power Flow and State Estimation](https://arxiv.org/abs/2609.16738v1)** | 2026-09-15 |  |
+| **[GNN-Based Polarforming for Multi-User MISO Short-Packet URLLC under Imperfect CSI](https://arxiv.org/abs/2609.14006v1)** | 2026-09-12 | 5 pages, 5 figures |
+| **[InRTL: Effective Intra-Inter Interaction Learning for Relational Tables](https://arxiv.org/abs/2609.12712v1)** | 2026-09-11 |  |
 | **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v1)** | 2026-09-10 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
 | **[Geographically Regularized AUC-Maximizing Personalized Federated Learning](https://arxiv.org/abs/2609.08379v1)** | 2026-09-08 |  |
 | **[Does Syntax Matter? A Graph-Augmented Variational Topic Model for Computational Social Sciences](https://arxiv.org/abs/2609.07797v1)** | 2026-09-07 | 33 pages, 1 figure |
@@ -19,7 +22,4 @@ labels: documentation
 | **[Agent-Enhanced Heterogeneous Graph RAG for Academic Question Answering](https://arxiv.org/abs/2609.00761v1)** | 2026-09-01 | <details><summary>Proce...</summary><p>Proceedings of the ACM Web Conference 2026</p></details> |
 | **[GraphLit: Learning Text-Enriched Dynamic Character Network Representations for Literary Study](https://arxiv.org/abs/2605.28643v3)** | 2026-08-31 | EMNLP 2026 (Main) |
 | **[A Zero-shot Generalized Graph Anomaly Detection Framework via Node Reconstruction](https://arxiv.org/abs/2606.12673v2)** | 2026-08-29 | PRICAI 2026 |
-| **[RAD: Rule-Augmented Relational Anomaly Detection](https://arxiv.org/abs/2608.23468v1)** | 2026-08-24 |  |
-| **[PolyUQuest: Verifiable Structure-Aware Web RAG over Heterogeneous Graphs](https://arxiv.org/abs/2607.08269v2)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026 Demo Track</p></details> |
-| **[Beyond Similarity: Heterogeneous Graph Learning for Multi-Objective Food Substitution in Charitable Food Agencies](https://arxiv.org/abs/2608.21979v1)** | 2026-08-22 |  |
 
