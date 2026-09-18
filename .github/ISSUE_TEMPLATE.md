@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 17, 2026
+title: Latest 15 Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SCGFM-ART: Amortized Relational Transport for Structure-Centric Graph Foundation Models](https://arxiv.org/abs/2609.20419v1)** | 2026-09-17 | 21 pages, 6 figures |
+| **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
 | **[Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations](https://arxiv.org/abs/2502.16697v3)** | 2026-09-16 |  |
 | **[Detecting Logic Vulnerabilities Across the Contract and Device Layers of Blockchain-Enabled IoT With Multi-Agent Heterogeneous Graph Attention](https://arxiv.org/abs/2609.18344v1)** | 2026-09-16 |  |
 | **[G-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement](https://arxiv.org/abs/2609.18009v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
@@ -20,6 +22,4 @@ labels: documentation
 | **[Temporal Heterogeneous Graph Transformer for Credit Card Fraud Detection](https://arxiv.org/abs/2609.07100v1)** | 2026-09-07 | 5 pages, 2 figures |
 | **[Dynamic Heterogeneous Graph Representation Learning: A Survey](https://arxiv.org/abs/2609.04779v1)** | 2026-09-04 | <details><summary>IJCAI...</summary><p>IJCAI 2026 Survey Track</p></details> |
 | **[SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center](https://arxiv.org/abs/2609.04159v1)** | 2026-09-03 |  |
-| **[GMTRouter: Personalized LLM Router over Multi-turn User Interactions](https://arxiv.org/abs/2511.08590v2)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to Findings of the Association for Computational Linguistics: EMNLP 2026</p></details> |
-| **[Optimizing Byzantine Node Placement in Decentralized Federated Learning](https://arxiv.org/abs/2609.01495v1)** | 2026-09-01 |  |
 
