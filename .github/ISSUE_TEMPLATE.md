@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 20, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SG-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement](https://arxiv.org/abs/2609.18009v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
 | **[SCGFM-ART: Amortized Relational Transport for Structure-Centric Graph Foundation Models](https://arxiv.org/abs/2609.20419v1)** | 2026-09-17 | 21 pages, 6 figures |
 | **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
 | **[Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations](https://arxiv.org/abs/2502.16697v3)** | 2026-09-16 |  |
 | **[Detecting Logic Vulnerabilities Across the Contract and Device Layers of Blockchain-Enabled IoT With Multi-Agent Heterogeneous Graph Attention](https://arxiv.org/abs/2609.18344v1)** | 2026-09-16 |  |
-| **[G-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement](https://arxiv.org/abs/2609.18009v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
 | **[Unified Heterogeneous Graph Neural Network solver for Power Flow, Optimal Power Flow and State Estimation](https://arxiv.org/abs/2609.16738v1)** | 2026-09-15 |  |
 | **[GNN-Based Polarforming for Multi-User MISO Short-Packet URLLC under Imperfect CSI](https://arxiv.org/abs/2609.14006v1)** | 2026-09-12 | 5 pages, 5 figures |
 | **[InRTL: Effective Intra-Inter Interaction Learning for Relational Tables](https://arxiv.org/abs/2609.12712v1)** | 2026-09-11 |  |
