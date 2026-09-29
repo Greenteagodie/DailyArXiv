@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 28, 2026
+title: Latest 15 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,14 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[THGFM: Dual-Branch Temporal Heterogeneous Graph Fusion Model](https://arxiv.org/abs/2607.27303v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 25th International Semantic Web Conference (ISWC 2026), Research Track</p></details> |
+| **[Temporal Heterogeneous Graph Pretraining for Relational Deep Learning](https://arxiv.org/abs/2609.35219v1)** | 2026-09-28 |  |
+| **[WorldGraph: Graph-Native World Modeling](https://arxiv.org/abs/2609.34159v1)** | 2026-09-28 |  |
+| **[Mycelium: A Generalizable Cross-Grid Multi-Task Model for Electrical Distribution Systems](https://arxiv.org/abs/2609.33120v1)** | 2026-09-27 |  |
+| **[Communication-Aware Heterogeneous Graph Learning for Decentralized Multi-Human Multi-Robot Task Allocation](https://arxiv.org/abs/2609.32935v1)** | 2026-09-26 |  |
+| **[Predicting the Financial Impact of Supply Chain Risk for Major AI-Related Semiconductor Firms: A Heterogeneous Graph Patch Transformer Approach](https://arxiv.org/abs/2609.32741v1)** | 2026-09-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 3 tables</p></details> |
+| **[HERO: Preserving Structure and Semantics in Heterogeneous Continual Graph Learning](https://arxiv.org/abs/2505.17458v3)** | 2026-09-26 | under review |
+| **[An Attention-Driven Heterogeneous GNN Model for Credit Card Fraud Detection](https://arxiv.org/abs/2609.32106v1)** | 2026-09-26 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 7 tables, original work, implementation at https://github.com/kathiresan-jayabalan/graphfen-ccfd</p></details> |
 | **[Learning from Failures: Heterogeneous Graph Memory for Small Language Model Tool-Using Agents](https://arxiv.org/abs/2609.28003v1)** | 2026-09-23 |  |
 | **[Enhancing speech representation learning with cross-modal knowledge transfer with HGNN under low resource settings: the case study of Yemba](https://arxiv.org/abs/2609.23194v1)** | 2026-09-19 |  |
 | **[Low resource cross-modal alignment using HGNN to enhance speech representation](https://arxiv.org/abs/2609.23191v1)** | 2026-09-19 |  |
@@ -14,12 +22,4 @@ labels: documentation
 | **[SG-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement](https://arxiv.org/abs/2609.18009v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
 | **[SCGFM-ART: Amortized Relational Transport for Structure-Centric Graph Foundation Models](https://arxiv.org/abs/2609.20419v1)** | 2026-09-17 | 21 pages, 6 figures |
 | **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
-| **[Interpretable Retinal Disease Prediction Using Biology-Informed Heterogeneous Graph Representations](https://arxiv.org/abs/2502.16697v3)** | 2026-09-16 |  |
-| **[Detecting Logic Vulnerabilities Across the Contract and Device Layers of Blockchain-Enabled IoT With Multi-Agent Heterogeneous Graph Attention](https://arxiv.org/abs/2609.18344v1)** | 2026-09-16 |  |
-| **[Unified Heterogeneous Graph Neural Network solver for Power Flow, Optimal Power Flow and State Estimation](https://arxiv.org/abs/2609.16738v1)** | 2026-09-15 |  |
-| **[GNN-Based Polarforming for Multi-User MISO Short-Packet URLLC under Imperfect CSI](https://arxiv.org/abs/2609.14006v1)** | 2026-09-12 | 5 pages, 5 figures |
-| **[InRTL: Effective Intra-Inter Interaction Learning for Relational Tables](https://arxiv.org/abs/2609.12712v1)** | 2026-09-11 |  |
-| **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v1)** | 2026-09-10 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
-| **[Geographically Regularized AUC-Maximizing Personalized Federated Learning](https://arxiv.org/abs/2609.08379v1)** | 2026-09-08 |  |
-| **[Does Syntax Matter? A Graph-Augmented Variational Topic Model for Computational Social Sciences](https://arxiv.org/abs/2609.07797v1)** | 2026-09-07 | 33 pages, 1 figure |
 
