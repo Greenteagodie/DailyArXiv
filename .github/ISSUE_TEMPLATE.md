@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2026
+title: Latest 15 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RACE: Relation-Level Counterfactual Explanations for Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2609.37650v1)** | 2026-09-29 |  |
+| **[Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids](https://arxiv.org/abs/2605.23194v2)** | 2026-09-28 | <details><summary>14 pa...</summary><p>14 pages, 9 tables, 8 figures</p></details> |
 | **[THGFM: Dual-Branch Temporal Heterogeneous Graph Fusion Model](https://arxiv.org/abs/2607.27303v2)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 25th International Semantic Web Conference (ISWC 2026), Research Track</p></details> |
 | **[Temporal Heterogeneous Graph Pretraining for Relational Deep Learning](https://arxiv.org/abs/2609.35219v1)** | 2026-09-28 |  |
 | **[WorldGraph: Graph-Native World Modeling](https://arxiv.org/abs/2609.34159v1)** | 2026-09-28 |  |
@@ -20,6 +22,4 @@ labels: documentation
 | **[Low resource cross-modal alignment using HGNN to enhance speech representation](https://arxiv.org/abs/2609.23191v1)** | 2026-09-19 |  |
 | **[Calibrated Fusion for Heterogeneous Graph-Vector Retrieval in Multi-Hop QA](https://arxiv.org/abs/2603.28886v3)** | 2026-09-18 | <details><summary>v4: M...</summary><p>v4: MuSiQue LastHop recomputed against the terminal-hop passage (v1-v3 scored the last supporting paragraph in MuSiQue's paragraph order): vector-only 69.1 -> PhaseGraph 71.0 at @10 (15W/5L, p=.041); True RRF 71.8 (25W/11L, p=.029); no paired advantage over RRF on either benchmark; embedding-realization sensitivity disclosed. 10 pages, 6 figures, 9 tables</p></details> |
 | **[SG-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement](https://arxiv.org/abs/2609.18009v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
-| **[SCGFM-ART: Amortized Relational Transport for Structure-Centric Graph Foundation Models](https://arxiv.org/abs/2609.20419v1)** | 2026-09-17 | 21 pages, 6 figures |
-| **[FedeRICo: Federated Region-Influenced Coupling for Traffic Flow Prediction](https://arxiv.org/abs/2609.20026v1)** | 2026-09-17 |  |
 
