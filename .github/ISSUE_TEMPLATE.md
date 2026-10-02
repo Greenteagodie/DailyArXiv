@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2026
+title: Latest 15 Papers - October 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Let the Heads Talk: Beyond Diagonal Graph Attention](https://arxiv.org/abs/2610.01494v1)** | 2026-10-01 |  |
 | **[GraphMAS: A Systematic Benchmark of Multi-Agent Coordination for Graph Learning](https://arxiv.org/abs/2609.39777v1)** | 2026-09-30 |  |
 | **[GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics](https://arxiv.org/abs/2609.38798v1)** | 2026-09-30 | Under review |
 | **[HALO: Heterogeneous Allocation Via Localized Observations for the Vehicle Routing Problem](https://arxiv.org/abs/2609.38760v1)** | 2026-09-30 | <details><summary>2026 ...</summary><p>2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
@@ -21,5 +22,4 @@ labels: documentation
 | **[HERO: Preserving Structure and Semantics in Heterogeneous Continual Graph Learning](https://arxiv.org/abs/2505.17458v3)** | 2026-09-26 | under review |
 | **[An Attention-Driven Heterogeneous GNN Model for Credit Card Fraud Detection](https://arxiv.org/abs/2609.32106v1)** | 2026-09-26 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 7 tables, original work, implementation at https://github.com/kathiresan-jayabalan/graphfen-ccfd</p></details> |
 | **[Learning from Failures: Heterogeneous Graph Memory for Small Language Model Tool-Using Agents](https://arxiv.org/abs/2609.28003v1)** | 2026-09-23 |  |
-| **[Enhancing speech representation learning with cross-modal knowledge transfer with HGNN under low resource settings: the case study of Yemba](https://arxiv.org/abs/2609.23194v1)** | 2026-09-19 |  |
 
