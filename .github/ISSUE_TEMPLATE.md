@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 05, 2026
+title: Latest 15 Papers - October 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
+| **[Revisiting the Generalization of Neural Graph Edit Distance Models](https://arxiv.org/abs/2610.04644v1)** | 2026-10-03 |  |
+| **[Dual-Scale Relational Graph Transformers for Ecosystem-Aware Fraud Detection](https://arxiv.org/abs/2610.04138v1)** | 2026-10-02 | <details><summary>This ...</summary><p>This paper has been accepted at the Geometric Distributional Deep Learning (GDDL) workshop at NeurIPS 2026</p></details> |
 | **[Let the Heads Talk: Beyond Diagonal Graph Attention](https://arxiv.org/abs/2610.01494v1)** | 2026-10-01 |  |
 | **[GraphMAS: A Systematic Benchmark of Multi-Agent Coordination for Graph Learning](https://arxiv.org/abs/2609.39777v1)** | 2026-09-30 |  |
 | **[GraphCert: Bootstrap Agentic Graph Reasoning with Certified Evidence Rubrics](https://arxiv.org/abs/2609.38798v1)** | 2026-09-30 | Under review |
@@ -19,7 +22,4 @@ labels: documentation
 | **[Mycelium: A Generalizable Cross-Grid Multi-Task Model for Electrical Distribution Systems](https://arxiv.org/abs/2609.33120v1)** | 2026-09-27 |  |
 | **[Communication-Aware Heterogeneous Graph Learning for Decentralized Multi-Human Multi-Robot Task Allocation](https://arxiv.org/abs/2609.32935v1)** | 2026-09-26 |  |
 | **[Predicting the Financial Impact of Supply Chain Risk for Major AI-Related Semiconductor Firms: A Heterogeneous Graph Patch Transformer Approach](https://arxiv.org/abs/2609.32741v1)** | 2026-09-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 3 tables</p></details> |
-| **[HERO: Preserving Structure and Semantics in Heterogeneous Continual Graph Learning](https://arxiv.org/abs/2505.17458v3)** | 2026-09-26 | under review |
-| **[An Attention-Driven Heterogeneous GNN Model for Credit Card Fraud Detection](https://arxiv.org/abs/2609.32106v1)** | 2026-09-26 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 7 tables, original work, implementation at https://github.com/kathiresan-jayabalan/graphfen-ccfd</p></details> |
-| **[Learning from Failures: Heterogeneous Graph Memory for Small Language Model Tool-Using Agents](https://arxiv.org/abs/2609.28003v1)** | 2026-09-23 |  |
 
