@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 07, 2026
+title: Latest 15 Papers - October 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Shared-Roadmap Generation and Evaluator for Multi-Agent Path Planning Using Heterogeneous Graph Neural Network](https://arxiv.org/abs/2610.09034v1)** | 2026-10-06 |  |
 | **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
 | **[Revisiting the Generalization of Neural Graph Edit Distance Models](https://arxiv.org/abs/2610.04644v1)** | 2026-10-03 |  |
 | **[Dual-Scale Relational Graph Transformers for Ecosystem-Aware Fraud Detection](https://arxiv.org/abs/2610.04138v1)** | 2026-10-02 | <details><summary>This ...</summary><p>This paper has been accepted at the Geometric Distributional Deep Learning (GDDL) workshop at NeurIPS 2026</p></details> |
@@ -21,5 +22,4 @@ labels: documentation
 | **[WorldGraph: Graph-Native World Modeling](https://arxiv.org/abs/2609.34159v1)** | 2026-09-28 |  |
 | **[Mycelium: A Generalizable Cross-Grid Multi-Task Model for Electrical Distribution Systems](https://arxiv.org/abs/2609.33120v1)** | 2026-09-27 |  |
 | **[Communication-Aware Heterogeneous Graph Learning for Decentralized Multi-Human Multi-Robot Task Allocation](https://arxiv.org/abs/2609.32935v1)** | 2026-09-26 |  |
-| **[Predicting the Financial Impact of Supply Chain Risk for Major AI-Related Semiconductor Firms: A Heterogeneous Graph Patch Transformer Approach](https://arxiv.org/abs/2609.32741v1)** | 2026-09-26 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, 3 tables</p></details> |
 
