@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2026
+title: Latest 15 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Money-Mule Detection as a Relational Learning Problem: A Study on the RBIH NFPC Dataset](https://arxiv.org/abs/2610.21314v1)** | 2026-10-15 |  |
+| **[HERO: Preserving Structure and Semantics in Heterogeneous Continual Graph Learning](https://arxiv.org/abs/2505.17458v4)** | 2026-10-14 | under review |
 | **[Revisiting Simple Baselines for Relational Deep Learning](https://arxiv.org/abs/2610.20534v1)** | 2026-10-14 |  |
 | **[HGRP: Heterogeneous Graph Neural Network for Routability Prediction](https://arxiv.org/abs/2610.20209v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted by ASP-DAC2027. Camera-Ready version</p></details> |
 | **[Reading the Neighborhood: Text-Attentive Graph Reranking for Automated Subject Indexing](https://arxiv.org/abs/2610.20048v1)** | 2026-10-14 | <details><summary>Prese...</summary><p>Presented at the ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL) 2026</p></details> |
@@ -20,6 +22,4 @@ labels: documentation
 | **[TripleBound: Triplet-Guided Heterogeneous Graph Learning for Microservice Decomposition](https://arxiv.org/abs/2609.11212v2)** | 2026-10-05 | <details><summary>13 pa...</summary><p>13 pages, 4 figures. Replication package available on GitHub</p></details> |
 | **[Revisiting the Generalization of Neural Graph Edit Distance Models](https://arxiv.org/abs/2610.04644v1)** | 2026-10-03 |  |
 | **[Dual-Scale Relational Graph Transformers for Ecosystem-Aware Fraud Detection](https://arxiv.org/abs/2610.04138v1)** | 2026-10-02 | <details><summary>This ...</summary><p>This paper has been accepted at the Geometric Distributional Deep Learning (GDDL) workshop at NeurIPS 2026</p></details> |
-| **[Let the Heads Talk: Beyond Diagonal Graph Attention](https://arxiv.org/abs/2610.01494v1)** | 2026-10-01 |  |
-| **[GraphMAS: A Systematic Benchmark of Multi-Agent Coordination for Graph Learning](https://arxiv.org/abs/2609.39777v1)** | 2026-09-30 |  |
 
