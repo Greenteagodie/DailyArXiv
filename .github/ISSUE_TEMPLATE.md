@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 21, 2026
+title: Latest 15 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Latent Bridges for Multi-Table Question Answering](https://arxiv.org/abs/2606.28916v2)** | 2026-10-21 |  |
 | **[RGH-GNN : Risk-Gated Heterogeneous Graph Neural Network for Financial Fraud Detection](https://arxiv.org/abs/2610.27107v1)** | 2026-10-19 |  |
 | **[Heterogeneous Sheaf Neural Networks](https://arxiv.org/abs/2409.08036v4)** | 2026-10-19 |  |
 | **[HierDTA: Hierarchical Structure-Aware Representation Learning for Drug--Target Affinity Prediction](https://arxiv.org/abs/2610.27001v1)** | 2026-10-19 | 20 pages, 7 figures |
@@ -21,5 +22,4 @@ labels: documentation
 | **[KARAMEL: Knowledge-Aware Ranking for Multimodal Entity Linking in the Arts via Heterogeneous Graphs](https://arxiv.org/abs/2610.16502v1)** | 2026-10-12 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 5 tables, journal: Machine Learning</p></details> |
 | **[A Counterfactual Graph Approach to Oppositional Narrative Analysis](https://arxiv.org/abs/2603.06135v3)** | 2026-10-11 | <details><summary>14 pa...</summary><p>14 pages, 2 figures. Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). Workshop: Trustworthy AI for Good (AI4GOOD)</p></details> |
 | **[VulLink: A Dynamic Open-Access Vulnerability Graph Database for Cybersecurity Data Mining](https://arxiv.org/abs/2604.06967v3)** | 2026-10-11 |  |
-| **[Shared-Roadmap Generation and Evaluator for Multi-Agent Path Planning Using Heterogeneous Graph Neural Network](https://arxiv.org/abs/2610.09034v1)** | 2026-10-06 |  |
 
