@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2026
+title: Latest 15 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Greenteagodie/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Heterogeneous Graph
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent Bridges for Multi-Table Question Answering](https://arxiv.org/abs/2606.28916v2)** | 2026-10-21 |  |
+| **[Latent Bridges for Multi-Table Question Answering](https://arxiv.org/abs/2606.28916v3)** | 2026-10-22 | <details><summary>The c...</summary><p>The code is available at https://github.com/simonevarriale/GRAB</p></details> |
 | **[RGH-GNN : Risk-Gated Heterogeneous Graph Neural Network for Financial Fraud Detection](https://arxiv.org/abs/2610.27107v1)** | 2026-10-19 |  |
 | **[Heterogeneous Sheaf Neural Networks](https://arxiv.org/abs/2409.08036v4)** | 2026-10-19 |  |
 | **[HierDTA: Hierarchical Structure-Aware Representation Learning for Drug--Target Affinity Prediction](https://arxiv.org/abs/2610.27001v1)** | 2026-10-19 | 20 pages, 7 figures |
